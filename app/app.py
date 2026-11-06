@@ -13,11 +13,19 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+import importlib
+
 import cleaner
 import loader
 import review
 import scoring
 import ui
+
+# After a git push, Streamlit Cloud re-runs this file but can keep the OLD versions of the helper modules
+# in memory, so new code would call functions that "don't exist yet". Reloading them on every run takes a
+# few milliseconds and means an update can never run a mix of new and old code.
+for _module in (loader, cleaner, review, scoring, ui):     # order matters: cleaner uses loader, review uses cleaner
+    importlib.reload(_module)
 
 APP_DIR = Path(__file__).resolve().parent
 # Streamlit's free cloud has limited memory, so very big files are trimmed there (not on your own computer)
