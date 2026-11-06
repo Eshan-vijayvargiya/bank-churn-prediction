@@ -148,3 +148,23 @@ def quality_card(label, cov, chips, note=""):
     <div class="q-sub">Your file was checked and cleaned before scoring. Here's what was found.</div>
     <div class="q-bar"><span style="width:{cov * 100:.1f}%;background:{color};"></span></div>
     <div class="q-chips">{chip_html}</div>{note_html}</div>"""
+
+
+def indian_number(value):
+    """12345678 -> '1,23,45,678' (lakh and crore grouping)."""
+    n = int(round(abs(value)))
+    digits = str(n)
+    head, tail = digits[:-3], digits[-3:]
+    groups = []
+    while len(head) > 2:
+        groups.insert(0, head[-2:])
+        head = head[:-2]
+    if head:
+        groups.insert(0, head)
+    return ("-" if value < 0 else "") + ",".join(groups + [tail])
+
+
+def money(value, currency="EUR"):
+    """An amount in the file's currency: '₹4,52,300', '€97,199', '$60,000'."""
+    symbol = {"EUR": "€", "INR": "₹", "USD": "$"}.get(currency, "")
+    return symbol + (indian_number(value) if currency == "INR" else f"{value:,.0f}")

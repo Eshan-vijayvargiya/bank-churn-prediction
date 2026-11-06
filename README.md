@@ -6,6 +6,11 @@ An end-to-end machine-learning project on **10,000 bank customers**, 1 in 5 of w
 
 **Headline:** the tuned model reaches **62% of churners by calling only 20% of customers** (3.1× better than random). Targeting with it makes **about 2.9× more profit** than calling everyone.
 
+### ▶ [Try the live app](https://eshan-bank-churn.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eshan-bank-churn.streamlit.app/)
+No install needed: open the link, click **Try a messy file** or **Try an Indian bank file**, then **Show me the problems**, or upload your own customer file. (It's on free hosting, so if it has been asleep, click "Yes, get this app back up" and give it about a minute.)
+
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue) ![pandas](https://img.shields.io/badge/pandas-data-150458) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E) ![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B) ![Matplotlib](https://img.shields.io/badge/Matplotlib-charts-11557c)
 
 ![Bank Churn Risk Scorer app](images/app_list.png)
@@ -76,7 +81,7 @@ A two-page Streamlit app that turns the model into a tool a retention team can u
 | Typos and codes: `Germny`, `frnace`, `DE`, `espana`, `F.`, `woman`, `TRUE` | Matched to the right value with a typo-tolerant check |
 | Impossible values: age 250, credit score 5000, 0 products | Treated as mistakes and filled with a typical value |
 | Fixable mistakes: a birth year in the age column, a negative balance, 7 products | Turned into an age, set to 0, or capped at 4 |
-| Blank, `N/A`, `?`, `unknown` | Filled with a typical customer's value (median or most common) |
+| Blank, `N/A`, `?`, `unknown` | Filled with the typical value in your own file (median or most common) |
 | Duplicate rows, repeated customer IDs, empty rows | Removed |
 | Title rows above the header, extra sheets, semicolon-separated or non-UTF-8 files | Detected and handled |
 | `RAHUL VERMA`, blank names | Tidied, or replaced by the customer ID |
@@ -101,7 +106,29 @@ After scoring, the results page shows the data-quality score and the full cleani
 
 ![Cleaning report](images/app_cleaning.png)
 
-**Built for big files:** tested with **1,000,000 customers**. A clean 74 MB file takes about 4 seconds to read and about 15 seconds to clean and score. A messy one, with 440,000 values to fix, takes about 7 seconds to read and about 20 seconds to clean and score. Cleaning works once per distinct value, not once per row, which keeps it fast. Tables show the riskiest 1,000, and the download contains every customer.
+### Works with any customer file you're handed
+
+An interviewer, or a real bank, won't use my column names, my currency or my country. So the app adapts instead of failing:
+
+| What's different | What the app does |
+|---|---|
+| **Unfamiliar column names**: `CIBIL_Score`, `Account_Balance (INR)`, `Num_Products`, `Active_Status`, `Months_on_book`, `CLIENTNUM` | Matched by the words in the name, with traps avoided (`Months_Inactive_12_mon` isn't an "active" flag, `Credit_Limit` isn't "has a credit card"). Every match can be changed by hand. |
+| **Indian formats**: `₹9,17,700`, `1.2 Cr`, `6.5 LPA`, `6-8 LPA`, `NIL`, CIBIL 300–900 | Read correctly (a range uses its midpoint) |
+| **Rupees or dollars** | Detected from symbols, column names and places. Converted to euros (the model's currency) only for scoring, at early-November-2026 rates. You still see your own currency everywhere. |
+| **Dates and units**: date of birth `12/05/1990`, joining year `2016`, tenure in months | Turned into age and years as a customer (day-first dates, as written in India) |
+| **Places and categories the model never saw**: Indian states, gender "Other" | Shown in blue (not counted as errors), scored with the nearest value the model knows, plus a clear note that a new market needs retraining |
+| **A column with the real outcome**: `Exited`, `Churn`, `Attrition_Flag`, `Account Closed` | **Accuracy check**: AUC, leavers caught, how many flagged customers really left, and how many leavers the riskiest 20% reached |
+| **Broken files**: damaged Excel, empty files, nothing matching | A plain-English reason instead of a crash. Tested on about 1,000 randomly broken files. |
+
+![Indian-style file: blue = not known to the model, green = fixed, yellow = wrong](images/app_india.png)
+
+**Accuracy check on real data I didn't train on:** on IBM's public telecom churn dataset, only 2 of the 10 inputs exist (gender and tenure), so the app reports "Very limited (3%)" and an honest AUC of 0.58. On the original bank file it shows AUC 0.88 and warns that this is optimistic, because the model was trained on that file:
+
+![Accuracy check](images/app_accuracy.png)
+
+The **Indian bank file** demo is 1,500 made-up customers in Indian formats. No real Indian customer data is public: banks can't share it under the DPDP Act 2023. For an Indian bank, the right step is to retrain this same pipeline on that bank's own data.
+
+**Built for big files:** tested with **1,000,000 customers**. A clean 74 MB file takes about 4 seconds to read and about 15 seconds to clean and score. A messy one, with 440,000 values to fix, takes about 7 seconds to read and about 20 seconds to clean and score. Cleaning works once per distinct value, not once per row, which keeps it fast. Tables show the riskiest 1,000, and the download contains every customer. (The free online version scores up to 300,000 rows at a time because of its memory limit. On your own computer there's no limit.)
 
 ![Upload page](images/app_upload.png)
 
@@ -124,16 +151,18 @@ After scoring, the results page shows the data-quality score and the full cleani
 
 ## Run it yourself
 
+The quickest way is the [live app](https://eshan-bank-churn.streamlit.app/). To run it on your own computer:
+
 ```bash
 git clone https://github.com/Eshan-vijayvargiya/bank-churn-prediction.git
 cd bank-churn-prediction
 pip install -r requirements.txt
 
-streamlit run app/app.py                              # the app (uses the saved model)
+python -m streamlit run app/app.py                    # the app (uses the saved model)
 jupyter notebook notebooks/churn_prediction.ipynb     # the full analysis
 ```
 
-The app runs straight away. Upload your own file, click **Use sample data** (200 made-up customers), or click **Try a messy file** to see the cleaning. To re-run the notebook, first put `Churn_Modelling.csv` in `data/` (see [data/README.md](data/README.md)).
+The app runs straight away. Upload your own file, or try a demo: **Use sample data** (200 made-up customers), **Try a messy file** (the cleaning), or **Try an Indian bank file** (₹, CIBIL, states, dates of birth). To re-run the notebook, first put `Churn_Modelling.csv` in `data/` (see [data/README.md](data/README.md)).
 
 ## Project structure
 
@@ -148,6 +177,7 @@ bank-churn-prediction/
 ├── app/ui.py                          # page design (styles and cards)
 ├── app/sample_customers.csv           # 200 made-up customers to try the app
 ├── app/messy_sample.csv               # the same customers made deliberately messy, to show the cleaning
+├── app/indian_sample.csv              # 1,500 made-up customers in Indian formats (₹, LPA, CIBIL, states)
 ├── .streamlit/config.toml             # app theme
 ├── models/churn_model.joblib          # tuned model (pre-processing + Gradient Boosting)
 ├── models/model_info.json             # threshold and scores used by the app

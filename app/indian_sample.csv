@@ -1,0 +1,1501 @@
+Cust_ID,Customer_Name,Gender,DOB,State,City,CIBIL_Score,Account_Balance (INR),Annual_Income_LPA,Num_Products,Has_Credit_Card,Active_Status,Customer_Since,Account_Type,Branch_Code
+CUST100000,Sanjay Naidu,M,10/08/1995,Delhi,New Delhi,854,"₹68,400",11.2,1,No,Active,2018,Savings,BR589
+CUST100001,Deepak Joshi,Other,03/10/1986,Gujarat,Rajkot,707,"₹9,17,700",5.6,1,Yes,Active,2014,Savings,BR960
+CUST100002,Rajesh Agarwal,M,27/01/1999,Maharashtra,Nagpur,795,0,9.5,3,Yes,Dormant,2015,Savings,BR572
+CUST100003,Sanjay Chauhan,M,06/03/1993,West Bengal,Kolkata,685,313300,3.1,1,No,Dormant,2020,Savings,BR438
+CUST100004,Lakshmi Kaur,F,10/12/1990,Madhya Pradesh,Gwalior,631,206900,8.1,2,Yes,Active,2006,Savings,BR875
+CUST100005,Manoj Shah,M,10/07/2002,Uttar Pradesh,Varanasi,645,"₹1,97,200",9.1,2,No,Active,2022,Salary,BR787
+CUST100006,Ankit Chauhan,M,27/06/1962,Uttar Pradesh,Kanpur,755,"₹54,400",3.3,1,Yes,Active,2008,Savings,BR869
+CUST100007,Sunita Bose,F,30/03/1980,Gujarat,Rajkot,695,"₹44,700",3.3,2,Yes,Inactive,2009,Current,BR506
+CUST100008,Arjun Joshi,M,20/11/1960,Uttar Pradesh,Lucknow,794,89400,20.5,3,Yes,Active,2016,Savings,BR546
+CUST100009,Ayesha Joshi,F,18/09/1991,Gujarat,Vadodara,699,NIL,6.6,3,No,Active,2024,Savings,BR333
+CUST100010,Rahul Joshi,M,03/01/1976,Delhi,New Delhi,708,206000,8.6,2,No,Inactive,2008,Savings,BR736
+CUST100011,Meera Deshpande,F,08/10/1967,Karnataka,Bengaluru,701,48600,3.0,2,Yes,Inactive,2018,Current,BR689
+CUST100012,Fatima Chauhan,F,07/01/1959,Punjab,Amritsar,627,34400,5.9,1,Yes,Active,2024,Salary,BR150
+CUST100013,Lakshmi Sharma,F,11/05/1985,Delhi,New Delhi,781,23100,4.5,2,Yes,Active,2025,Salary,BR532
+CUST100014,Kiran Gill,F,15/10/1994,Gujarat,Vadodara,725,"₹11,78,900",4.1,2,No,Inactive,2017,Salary,BR490
+CUST100015,Pranav Joshi,M,31/03/1974,Gujarat,Vadodara,711,"₹2,57,400",9.9,2,Yes,Active,2006,Savings,BR753
+CUST100016,Suresh Sharma,M,10/01/1970,Uttar Pradesh,Lucknow,864,2.5 lakh,18.0,1,Yes,Inactive,2019,Salary,BR832
+CUST100017,Simran Verma,F,09/03/1987,Madhya Pradesh,Bhopal,786,98000,1.8,2,Yes,Inactive,2011,Savings,BR255
+CUST100018,Diya Yadav,F,05/02/2004,Karnataka,Mysuru,663,"₹3,05,600",3.8,1,No,Dormant,2013,Savings,BR562
+CUST100019,Swati Kaur,F,23/01/1982,Telangana,Hyderabad,622,"₹2,05,700",4.7,1,No,Inactive,2022,Savings,BR529
+CUST100020,Deepika Verma,F,21/04/2004,Gujarat,Ahmedabad,664,121900,11.1,2,Yes,Active,2022,Savings,BR954
+CUST100021,Ayesha Rao,F,09/04/1981,Telangana,Hyderabad,673,"₹1,48,600",12.6,1,n,Inactive,2014,Current,BR147
+CUST100022,Ramesh Mishra,M,12/08/1973,Rajasthan,Jodhpur,703,42100,3.0,3,Yes,Inactive,2011,Savings,BR648
+CUST100023,Anjali Naidu,F,23/11/1996,Telangana,Warangal,712,"₹97,700",6.3,2,No,Active,2007,Salary,BR882
+CUST100024,Rajesh Reddy,M,04/04/1954,Telangana,Hyderabad,796,"₹10,74,600",9.0,1,Yes,Active,2005,Savings,BR614
+CUST100025,Divya Gupta,F,10/08/1969,Gujarat,Vadodara,860,884400,6.8,1,No,Active,2022,Savings,BR457
+CUST100026,Suresh Mehta,M,19/03/1990,West Bengal,Kolkata,633,"₹93,600",4.1,1,Yes,Active,2005,Savings,BR192
+CUST100027,Vivaan Naidu,M,01/10/1988,Gujarat,Ahmedabad,846,182700,3.7,2,Yes,Active,2019,Savings,BR550
+CUST100028,Sanjay Singh,M,02/11/1971,Uttar Pradesh,Kanpur,874,117800,14.4,2,No,Inactive,2022,Savings,BR961
+CUST100029,Nisha Banerjee,F,11/04/2003,Gujarat,Rajkot,742,13900,6.6,2,Yes,Active,2008,Savings,BR687
+CUST100030,Rohan Chauhan,M,17/01/1994,Delhi,New Delhi,645,"₹3,16,700",2.6,2,No,Active,2012,Savings,BR502
+CUST100031,Priya Chatterjee,F,12/02/1955,Tamil Nadu,Madurai,753,196700,5.6,2,No,Dormant,2018,Salary,BR142
+CUST100032,Deepika Das,F,13/07/1968,Maharashtra,Nagpur,608,"₹50,700",8.6,3,Yes,Active,2008,Salary,BR501
+CUST100033,Aditya Deshpande,M,25/11/1995,Uttar Pradesh,Lucknow,699,523800,3.1,4,No,Active,2013,Savings,BR382
+CUST100034,Sanjay Joshi,M,26/03/1982,West Bengal,Kolkata,628,0,16.9,1,No,Active,2022,Salary,BR388
+CUST100035,Manoj Patel,M,23/05/1998,Kerala,Thiruvananthapuram,719,792000,1.9,2,Yes,Dormant,2025,Current,BR641
+CUST100036,Pranav Iyer,M,23/12/1966,West Bengal,Howrah,817,"₹9,00,900",10.4,2,Yes,Active,2015,Savings,BR143
+CUST100037,Fatima Gupta,F,26/08/1984,Gujarat,Vadodara,737,"₹7,84,500",8.2,3,Yes,Active,2010,Salary,BR254
+CUST100038,Aarav Patel,M,25/11/1957,Uttar Pradesh,Varanasi,765,"₹4,02,000",6.4,1,Yes,Inactive,2007,Salary,BR983
+CUST100039,Manoj Rao,M,21/08/1973,Delhi,New Delhi,673,39600,2.2,1,Yes,Inactive,2005,Savings,BR921
+CUST100040,Divya Kaur,F,13/05/1980,Karnataka,Mysuru,726,609400,6.2,1,No,Active,2005,Savings,BR508
+CUST100041,Deepak Bose,M,06/11/1971,Maharashtra,Nashik,741,"₹1,27,300",13.9,1,,Dormant,2020,Current,BR414
+CUST100042,Fatima Pillai,F,,Maharashtra,Nagpur,791,"₹1,76,800",6.7,1,Yes,Inactive,2005,Current,BR212
+CUST100043,Kavya Khan,F,24/05/1991,Madhya Pradesh,Gwalior,868,55700,3.9,2,Yes,Inactive,2023,Savings,BR571
+CUST100044,Neha Kulkarni,F,13/08/1984,Karnataka,Bengaluru,803,"₹1,50,000",3.2,2,Yes,Active,2024,Savings,BR890
+CUST100045,Rohan Rao,M,06/05/1997,Karnataka,Mangaluru,882,218700,14.3,3,No,Active,2005,Salary,BR314
+CUST100046,Amit Nair,M,08/04/1979,Rajasthan,Jodhpur,756,"₹3,22,900",5.4,3,Yes,Active,2025,Salary,BR147
+CUST100047,Divya Jain,F,26/08/1961,West Bengal,Howrah,787,227200,6.1,2,Yes,Active,2017,Savings,BR392
+CUST100048,Rekha Menon,F,01/03/2002,Gujarat,Vadodara,656,"₹3,15,000",3.0,1,Yes,Active,2021,Savings,BR607
+CUST100049,Sourav Sharma,M,19/11/1980,Rajasthan,Jodhpur,744,138700,4.0,2,Yes,Active,2011,Savings,BR616
+CUST100050,Ankit Agarwal,M,21/05/1987,West Bengal,Howrah,737,39300,2.2,2,No,Active,2012,Savings,BR912
+CUST100051,Swati Pillai,F,13/10/1961,Delhi,New Delhi,740,"₹1,09,300",4.3,1,No,Active,2021,Savings,BR771
+CUST100052,Rahul Shah,M,24/12/1959,Uttar Pradesh,Varanasi,801,20600,7.1,3,,Active,2015,Savings,BR264
+CUST100053,Sourav Iyer,M,16/06/2002,Telangana,Warangal,633,50100,1.6,2,Yes,Active,2015,Savings,BR378
+CUST100054,Divya Joshi,F,08/07/1955,Uttar Pradesh,Lucknow,658,79300,2.3,3,Yes,Active,2010,Savings,BR679
+CUST100055,Swati Deshpande,F,29/12/2000,Punjab,Ludhiana,650,"₹1,04,500",24.0,4,No,Active,2024,Salary,BR506
+CUST100056,Manoj Pillai,M,12/08/1957,Uttar Pradesh,Noida,879,164100,14.2,1,No,Inactive,2024,Savings,BR643
+CUST100057,Suresh Banerjee,M,18/08/1961,Delhi,New Delhi,719,15500,8.2,2,Yes,Active,2016,Savings,BR896
+CUST100058,Sanjay Joshi,M,13/11/1991,Gujarat,Rajkot,702,0,4.5,2,No,Dormant,2005,Salary,BR341
+CUST100059,Aditi Mishra,F,28/04/1972,Delhi,New Delhi,786,"₹2,59,400",9.0,1,No,Active,2007,Salary,BR789
+CUST100060,Pranav Sharma,M,22/11/1995,Madhya Pradesh,Gwalior,812,"₹4,86,300",3.1,1,Yes,Inactive,2005,Savings,BR636
+CUST100061,Divya Kaur,F,08/06/1999,Maharashtra,Nagpur,794,"₹33,700",2.6,2,Yes,,2017,Salary,BR798
+CUST100062,Shreya Rao,F,28/07/1982,Gujarat,Vadodara,746,"₹75,200",11.2,2,Yes,Inactive,2019,Savings,BR988
+CUST100063,Kabir Sharma,M,03/06/1985,Punjab,Ludhiana,607,₹0,3.3,2,Yes,Active,2015,Savings,BR197
+CUST100064,Shreya Shah,F,14/08/1983,Tamil Nadu,Coimbatore,752,"₹96,300",13.3,3,No,Dormant,2014,Savings,BR833
+CUST100065,Isha Bose,F,25/02/1980,Kerala,Thiruvananthapuram,833,62200,4.5,3,Yes,Active,2008,Savings,BR688
+CUST100066,Sneha Ahmed,F,08/09/1957,Karnataka,Mangaluru,781,1.2 Cr,3.0,2,Yes,,2022,Savings,BR578
+CUST100067,Kavya Rao,F,31/07/1957,Rajasthan,Jodhpur,690,28300,2.7,1,Yes,Inactive,2006,Savings,BR980
+CUST100068,Kabir Gill,M,23/11/1986,West Bengal,Howrah,NA,193800,7.0,3,No,Active,2022,Salary,BR790
+CUST100069,Ayesha Jain,F,14/05/1997,Gujarat,Vadodara,734,177500,8.5,1,Yes,Active,2021,Savings,BR280
+CUST100070,Imran Chauhan,M,,Maharashtra,Mumbai,771,"₹2,59,100",6.0,3,,Active,2023,Savings,BR570
+CUST100071,Ankit Banerjee,M,19/12/1966,Gujarat,Surat,588,"₹7,85,600",2.2,4,Yes,Inactive,2009,Salary,BR670
+CUST100072,Kabir Shah,M,16/05/1967,Delhi,New Delhi,722,207600,3.2,1,Yes,Inactive,2011,Savings,BR371
+CUST100073,Rahul Iyer,M,25/03/1989,Madhya Pradesh,Gwalior,779,111300,9.0,2,Yes,Inactive,2009,Savings,BR806
+CUST100074,Rahul Nair,M,09/12/1957,Gujarat,Ahmedabad,787,"₹1,83,200",4.6,2,No,Active,2016,Savings,BR634
+CUST100075,Nisha Chatterjee,F,12/07/1994,Karnataka,Mysuru,773,2.5 lakh,18.7,2,Yes,Inactive,2007,Savings,BR427
+CUST100076,Swati Kulkarni,F,20/11/1953,Madhya Pradesh,Indore,575,313000,14.7,4,Yes,Inactive,2015,Savings,BR817
+CUST100077,Harish Rao,M,28/01/1974,Maharashtra,Pune,642,632800,5.2,1,No,Inactive,2007,Savings,BR474
+CUST100078,Anil Jain,M,01/11/1983,Uttar Pradesh,Kanpur,852,53000,5.8,1,No,Inactive,2020,Savings,BR795
+CUST100079,Rajesh Verma,M,22/12/1971,Telangana,Warangal,709,"₹8,79,200",8.0,1,Yes,Inactive,2021,Salary,BR764
+CUST100080,Divya Gupta,F,01/11/1955,West Bengal,Kolkata,813,"₹93,300",8.3,2,Yes,Inactive,2019,Current,BR740
+CUST100081,Diya Agarwal,F,03/02/1976,Uttar Pradesh,Lucknow,637,1167200,14.6,2,Yes,Active,2014,Savings,BR528
+CUST100082,Nisha Chatterjee,F,29/07/1980,Maharashtra,Pune,723,"₹55,700",12.2,2,n,Inactive,2019,Savings,BR125
+CUST100083,Anjali Khan,F,21/03/1980,Delhi,New Delhi,732,0,3.3,1,Yes,Inactive,2014,Savings,BR146
+CUST100084,Meera Patel,F,13/03/2003,Gujarat,Vadodara,857,218400,6.8,2,Yes,Inactive,2009,Salary,BR965
+CUST100085,Swati Gupta,F,05/05/1992,Kerala,Kochi,825,0,7.4,2,No,Dormant,2007,Current,BR517
+CUST100086,Neha Chatterjee,F,25/09/1998,Gujarat,Surat,750,"₹75,000",4.6,1,No,Active,2006,Savings,BR318
+CUST100087,Shreya Joshi,F,22/10/1984,Karnataka,Mysuru,740,106000,4.3,2,No,Dormant,2011,Savings,BR466
+CUST100088,Aditi Iyer,F,21/04/1983,Karnataka,Mangaluru,710,"₹39,400",11.1,1,No,Dormant,2011,Salary,BR641
+CUST100089,Sanjay Menon,M,10/03/1975,Rajasthan,Jodhpur,879,"₹1,24,700",3.9,2,Yes,Active,2008,Savings,BR723
+CUST100090,Divya Naidu,F,unknown,Tamil Nadu,Coimbatore,674,149300,5.1,1,Yes,Active,2010,Salary,BR644
+CUST100091,Riya Gupta,F,21/12/1953,Uttar Pradesh,Kanpur,767,"₹1,31,700",12.8,1,Yes,Active,2021,Savings,BR923
+CUST100092,Diya Patel,F,11/04/1965,Karnataka,Bengaluru,757,"₹1,10,700",7.5,1,Yes,Inactive,2018,Savings,BR926
+CUST100093,Arjun Iyer,M,01/03/1978,Karnataka,Mysuru,579,"₹15,500",6.0,1,Yes,Active,2005,Savings,BR414
+CUST100094,Ayesha Mehta,F,unknown,Madhya Pradesh,Indore,652,414100,6.9,2,No,Active,2008,Current,BR711
+CUST100095,Kabir Mehta,M,29/12/2001,Punjab,Ludhiana,698,"₹2,29,300",3.8,2,No,Inactive,2016,Savings,BR781
+CUST100096,Rajesh Mehta,M,19/08/2005,Telangana,Warangal,NA,"₹2,07,700",13.4,1,Yes,Active,2025,Savings,BR141
+CUST100097,Rohan Mishra,M,21/01/1956,Karnataka,Mysuru,751,58200,3.8,2,No,Active,2016,Savings,BR920
+CUST100098,Priya Chauhan,F,29/01/1971,Maharashtra,Mumbai,603,579500,6.6,1,Yes,Inactive,2011,Salary,BR461
+CUST100099,Kabir Chauhan,M,17/12/1977,Gujarat,Ahmedabad,592,"₹99,100",4.7,2,Yes,,2009,Salary,BR473
+CUST100100,Imran Kaur,M,unknown,Gujarat,Surat,691,"₹1,75,100",10.4,2,No,Active,2009,Salary,BR521
+CUST100101,Ankit Ahmed,M,05/07/2002,Punjab,Amritsar,732,"₹52,100",5.1,2,Yes,active ,2019,Savings,BR494
+CUST100102,Aditi Sharma,F,29/04/1975,Telangana,Hyderabad,789,2.5 lakh,15.5,1,Yes,Active,2021,Salary,BR423
+CUST100103,Shreya Kaur,F,30/03/1968,Gujarat,Ahmedabad,656,2.5 lakh,9.3,1,No,Inactive,2008,Savings,BR301
+CUST100104,Sunita Das,F,06/09/2004,West Bengal,Kolkata,737,119600,3.8,2,Yes,Inactive,2010,Savings,BR237
+CUST100105,Deepak Jain,M,24/05/1957,Karnataka,Bengaluru,660,22200,3.4,1,No,active ,2012,Salary,BR421
+CUST100106,Ishaan Mishra,M,20/12/1955,Delhi,New Delhi,702,958100,5.0,1,No,Inactive,2018,Salary,BR430
+CUST100107,Sneha Mehta,F,22/10/1969,Karnataka,Bengaluru,745,42300,4.5,1,Yes,Active,2018,Savings,BR211
+CUST100108,Anil Joshi,M,06/11/1982,Maharashtra,Nagpur,708,416900,3.2,1,Yes,Inactive,2022,Savings,BR374
+CUST100109,Aarav Mishra,M,02/11/1974,Gujarat,Vadodara,756,156600,10.8,2,No,Active,2009,Salary,BR268
+CUST100110,Ishaan Menon,M,28/03/1985,Maharashtra,Nashik,669,105700,4.5,2,Yes,Inactive,2019,Salary,BR583
+CUST100111,Harish Patel,M,06/03/1983,Maharashtra,Nashik,738,44400,36.3,1,No,Active,2022,Salary,BR485
+CUST100112,Nisha Naidu,F,13/12/1977,Karnataka,Mysuru,699,,6.8,1,Yes,Inactive,2010,Savings,BR707
+CUST100113,Pallavi Khan,F,28/07/1956,Tamil Nadu,Chennai,811,"₹1,87,800",8.4,2,No,Active,2005,Salary,BR936
+CUST100114,Pooja Khan,F,26/05/1979,Uttar Pradesh,Lucknow,823,"₹84,800",4.9,2,No,Inactive,2020,Savings,BR191
+CUST100115,Priya Mishra,F,25/07/1978,Karnataka,Mysuru,775,"₹3,39,600",6.3,1,Yes,Active,2014,Salary,BR169
+CUST100116,Deepika Mishra,F,17/07/1960,Kerala,Kochi,765,"₹6,78,300",2.2,1,No,Active,2016,Savings,BR619
+CUST100117,Deepika Das,F,11/01/1986,West Bengal,Howrah,691,0,2.2,1,No,Active,2020,Salary,BR859
+CUST100118,Kiran Bose,F,10/07/1959,Madhya Pradesh,Bhopal,705,"₹52,000",8.7,3,Y,Dormant,2006,Savings,BR188
+CUST100119,Aditi Chatterjee,F,06/10/1956,Delhi,New Delhi,803,"₹1,26,300",7.0,1,Y,active ,2012,Savings,BR770
+CUST100120,Amit Naidu,M,31/08/1996,Uttar Pradesh,Lucknow,639,21000,3.8,2,No,Dormant,2018,Savings,BR429
+CUST100121,Pallavi Jain,F,12/12/1963,Tamil Nadu,Coimbatore,846,"₹1,19,500",3.0,1,No,Inactive,2017,Salary,BR210
+CUST100122,Fatima Kaur,F,27/06/1969,Madhya Pradesh,Gwalior,716,12500,9.1,1,No,Inactive,2012,Salary,BR669
+CUST100123,Ramesh Kulkarni,M,29/11/1970,Telangana,Warangal,675,122800,9.1,3,Yes,Active,2018,Current,BR747
+CUST100124,Sneha Rao,F,04/02/1956,Karnataka,Mangaluru,783,2059800,10.3,2,Yes,Dormant,2024,Savings,BR277
+CUST100125,Neha Reddy,F,11/05/1956,Karnataka,Bengaluru,820,63800,2.0,2,Yes,Active,2018,Salary,BR513
+CUST100126,Lakshmi Kaur,F,14/01/1975,Telangana,Hyderabad,787,"₹87,500",5.1,2,Yes,Inactive,2010,Current,BR123
+CUST100127,Riya Gupta,F,06/04/1994,Uttar Pradesh,Kanpur,823,"₹16,61,500",2.2,2,No,Active,2007,Savings,BR455
+CUST100128,Suresh Joshi,M,30/10/1963,Tamil Nadu,Chennai,721,₹0,6.6,2,No,Active,2009,Salary,BR616
+CUST100129,Sourav Kaur,M,20/07/1979,Karnataka,Mysuru,704,"₹13,000",6.2,1,Yes,Dormant,2015,Savings,BR818
+CUST100130,Vivaan Das,M,20/03/2003,Madhya Pradesh,Gwalior,702,"₹71,900",4.7,2,No,Active,2018,Salary,BR302
+CUST100131,Meera Naidu,F,27/01/1997,Gujarat,Surat,779,"₹94,300",2.9,1,No,Active,2025,Current,BR803
+CUST100132,Manoj Shah,M,16/08/2001,Punjab,Ludhiana,756,"₹32,91,300",4.8,1,Yes,Active,2015,Salary,BR644
+CUST100133,Kavya Menon,F,30/09/1954,Karnataka,Mangaluru,755,"₹12,45,800",5.0,1,n,Active,2015,Salary,BR673
+CUST100134,Arjun Bose,M,26/09/1957,Uttar Pradesh,Lucknow,761,"₹43,800",3.8,2,Yes,Inactive,2017,Current,BR742
+CUST100135,Karthik Naidu,M,09/03/1959,Tamil Nadu,Coimbatore,715,"₹1,54,100",10.8,1,Yes,Active,2020,Current,BR457
+CUST100136,Kabir Sharma,M,07/04/1981,Telangana,Warangal,656,80700,5.6,2,Yes,Active,2023,Savings,BR926
+CUST100137,Aditi Mehta,F,26/08/1981,Punjab,Ludhiana,712,1.2 Cr,11.8,1,Yes,Active,2021,Salary,BR670
+CUST100138,Rahul Menon,M,12/10/1967,Kerala,Kochi,743,"₹3,58,700",11.3,1,No,Active,2017,Savings,BR955
+CUST100139,Kabir Sharma,M,29/07/1958,Karnataka,Mangaluru,653,483700,2.8,2,No,Active,2005,Salary,BR200
+CUST100140,Harish Singh,M,05/07/2002,Gujarat,Rajkot,717,₹0,8.5,2,Yes,Active,2022,Current,BR327
+CUST100141,Anjali Bose,F,11/09/1964,Maharashtra,Nagpur,766,277700,9.5,1,Yes,Active,2008,Savings,BR440
+CUST100142,Aditi Sharma,F,06/08/1986,Gujarat,Ahmedabad,777,203800,12.6,1,Yes,Inactive,2024,Savings,BR979
+CUST100143,Manoj Rao,M,30/08/1958,Uttar Pradesh,Lucknow,780,197500,6.4,2,No,Active,2019,Savings,BR450
+CUST100144,Sourav Mishra,M,06/12/1960,Karnataka,Bengaluru,732,"₹56,700",3.5,2,Yes,Dormant,2021,Savings,BR418
+CUST100145,Shreya Patel,F,,Tamil Nadu,Madurai,753,"₹1,03,400",1.5,1,No,Inactive,2012,Current,BR875
+CUST100146,Ramesh Chauhan,M,05/04/1997,Rajasthan,Jodhpur,708,35400,1.1,1,Yes,Active,2025,Salary,BR311
+CUST100147,Sanjay Verma,M,05/01/1978,Kerala,Thiruvananthapuram,766,"₹98,300",4.9,2,No,Active,2021,Savings,BR408
+CUST100148,Sanjay Bose,M,22/09/1993,Delhi,New Delhi,639,35400,14.1,2,Yes,Inactive,2024,Salary,BR990
+CUST100149,Aditya Bose,M,15/07/1990,Telangana,Warangal,599,"₹3,29,000",6.8,2,Y,Active,2015,Salary,BR728
+CUST100150,Pranav Iyer,M,06/04/1982,Maharashtra,Nashik,742,₹0,10.8,1,Yes,Active,2016,Savings,BR450
+CUST100151,Rohan Banerjee,M,12/09/1993,Delhi,New Delhi,838,362400,6.4,1,Yes,,2015,Savings,BR242
+CUST100152,Lakshmi Das,F,10/02/1981,Telangana,Warangal,729,"₹6,25,800",1.6,2,Yes,Active,2016,Current,BR150
+CUST100153,Pooja Kulkarni,F,16/06/1965,Gujarat,Ahmedabad,876,"₹37,400",9.4,1,Yes,Active,2016,Salary,BR432
+CUST100154,Sanjay Khan,M,04/09/1966,Telangana,Warangal,673,"₹1,76,200",2.0,2,Yes,Active,2009,Salary,BR688
+CUST100155,Deepika Ahmed,F,07/05/1965,Tamil Nadu,Chennai,821,,5.4,1,n,Active,2022,Savings,BR850
+CUST100156,Aarav Das,M,27/05/1983,Gujarat,Rajkot,840,0,5.6,2,No,Active,2014,Salary,BR304
+CUST100157,Rohan Khan,M,11/09/1968,Maharashtra,Nagpur,678,"₹33,500",6.5,1,Yes,Active,2008,Savings,BR947
+CUST100158,Farhan Ahmed,M,15/10/1971,Telangana,Hyderabad,737,"₹3,13,000",3.6,3,Yes,Inactive,2011,Savings,BR378
+CUST100159,Neha Joshi,F,17/05/2003,Delhi,New Delhi,657,123900,9.0,3,No,Dormant,2017,Savings,BR274
+CUST100160,Rajesh Gupta,M,18/02/1986,Maharashtra,Pune,640,278300,8.5,2,Yes,Active,2022,Salary,BR661
+CUST100161,Divya Sharma,F,14/10/1973,Telangana,Warangal,650,"₹53,800",3.0,2,Yes,Active,2016,Savings,BR570
+CUST100162,Sourav Sharma,M,31/07/1974,Gujarat,Vadodara,-1,"₹1,11,800",5.2,2,Yes,Active,2005,Savings,BR810
+CUST100163,Nisha Chatterjee,F,20/01/1966,Delhi,New Delhi,763,₹0,8.6,1,Yes,Active,2006,Savings,BR247
+CUST100164,Kabir Mishra,M,12/08/1983,Punjab,Ludhiana,791,2.5 lakh,10.7,2,Yes,Active,2006,Salary,BR683
+CUST100165,Harish Nair,M,20/08/1999,Telangana,Warangal,687,122300,9.1,2,Yes,Active,2022,Savings,BR775
+CUST100166,Suresh Das,M,23/06/1959,Telangana,Warangal,592,0,9.1,2,n,Active,2020,Savings,BR456
+CUST100167,Simran Mishra,F,13/05/1970,Karnataka,Mangaluru,726,221500,8.3,2,Yes,Active,2021,Salary,BR414
+CUST100168,Aditya Agarwal,M,12/08/1967,Tamil Nadu,Madurai,730,59200,4.1,1,No,Inactive,2018,Savings,BR690
+CUST100169,Ishaan Kaur,M,22/02/1983,West Bengal,Kolkata,755,"₹2,23,900",19.0,2,Yes,Active,2014,Savings,BR528
+CUST100170,Aarav Chauhan,M,15/07/1959,Uttar Pradesh,Varanasi,730,₹0,22.1,1,No,Active,2016,Salary,BR613
+CUST100171,Arjun Mehta,M,11/02/1972,Madhya Pradesh,Indore,773,37700,10.5,3,No,Dormant,2016,Salary,BR440
+CUST100172,Manoj Sharma,M,05/11/2001,Punjab,Ludhiana,627,379100,5.4,1,Yes,Active,2018,Savings,BR950
+CUST100173,Nisha Rao,F,05/07/1963,Maharashtra,Pune,753,"₹3,39,700",6.6,2,No,Dormant,2006,Savings,BR995
+CUST100174,Anil Agarwal,M,28/03/2000,Tamil Nadu,Madurai,808,112900,15.7,1,No,Active,2021,Savings,BR903
+CUST100175,Arjun Agarwal,Other,27/03/1986,Uttar Pradesh,Noida,655,639200,4.2,3,Yes,Inactive,2008,Savings,BR373
+CUST100176,Rohan Kulkarni,M,30/03/1960,West Bengal,Howrah,747,"₹2,64,500",2.8,2,Yes,Active,2006,Savings,BR112
+CUST100177,Shreya Naidu,F,24/08/1993,Madhya Pradesh,Indore,764,"₹2,13,700",12.4,2,Yes,Active,2022,Salary,BR138
+CUST100178,Anil Mehta,M,08/07/1963,Telangana,Warangal,727,"₹37,100",4.0,2,Yes,Dormant,2013,Savings,BR169
+CUST100179,Gurpreet Khan,M,26/08/1967,Telangana,Hyderabad,731,276000,11.8,1,,Dormant,2014,Savings,BR456
+CUST100180,Manoj Chauhan,M,12/03/2004,Rajasthan,Jaipur,719,479500,6.5,2,Yes,Inactive,2020,Savings,BR547
+CUST100181,Swati Mishra,F,13/05/1995,Gujarat,Vadodara,681,"₹23,75,700",7.7,1,Yes,active ,2022,Salary,BR385
+CUST100182,Pranav Menon,M,28/10/1957,Uttar Pradesh,Noida,632,64100,6.8,3,No,Active,2009,Salary,BR193
+CUST100183,Kavya Mishra,F,unknown,Rajasthan,Jodhpur,837,69500,6.4,1,No,Active,2021,Savings,BR986
+CUST100184,Anil Agarwal,M,21/08/1989,Maharashtra,Mumbai,669,12600,5.3,1,No,Active,2011,Savings,BR558
+CUST100185,Deepak Nair,M,09/05/1963,Karnataka,Mangaluru,608,"₹1,41,300",5.6,2,No,Inactive,2009,Savings,BR952
+CUST100186,Sneha Joshi,F,25/04/1961,Delhi,New Delhi,732,"₹57,200",5.8,2,Yes,Inactive,2011,Savings,BR831
+CUST100187,Manoj Kaur,M,13/09/1986,Delhi,New Delhi,674,"₹89,200",4.9,1,Yes,Inactive,2015,Savings,BR967
+CUST100188,Pranav Iyer,M,10/08/1959,Gujarat,Vadodara,839,1.2 Cr,7.5,1,Yes,Inactive,2005,Savings,BR461
+CUST100189,Pallavi Das,F,09/02/1973,Maharashtra,Mumbai,797,158000,7.9,2,No,Dormant,2012,Savings,BR284
+CUST100190,Neha Joshi,F,29/12/1957,Karnataka,Mysuru,718,43900,3.4,1,Yes,Active,2010,Savings,BR109
+CUST100191,Deepak Khan,M,12/04/2004,Telangana,Warangal,864,244500,11.0,2,Yes,Active,2011,Savings,BR707
+CUST100192,Simran Jain,F,26/04/1978,Telangana,Warangal,638,"₹62,200",6.1,3,No,Inactive,2006,Savings,BR636
+CUST100193,Deepak Yadav,M,25/07/1987,Uttar Pradesh,Noida,827,"₹1,16,500",5.5,2,Yes,Active,2009,Current,BR423
+CUST100194,Rajesh Menon,M,09/09/1983,Madhya Pradesh,Gwalior,732,33000,23.2,2,Yes,Active,2024,Savings,BR555
+CUST100195,Aditi Kulkarni,F,unknown,Maharashtra,Mumbai,664,135300,5.1,1,Yes,Inactive,2012,Salary,BR116
+CUST100196,Rohan Chatterjee,M,23/01/1956,Karnataka,Mangaluru,752,"₹1,69,600",7.2,2,No,Inactive,2023,Savings,BR195
+CUST100197,Priya Agarwal,F,23/03/1988,Maharashtra,Pune,660,90000,8.4,1,Yes,Inactive,2008,Salary,BR426
+CUST100198,Amit Kaur,M,30/04/1995,Karnataka,Mysuru,748,₹0,8.1,1,Yes,Active,2025,Current,BR680
+CUST100199,Riya Joshi,F,17/11/1959,Kerala,Kochi,622,46800,8.7,4,No,Inactive,2014,Current,BR695
+CUST100200,Lakshmi Ahmed,F,14/10/1971,Delhi,New Delhi,NA,235000,3.3,1,Yes,Active,2015,Salary,BR532
+CUST100201,Ananya Deshpande,F,04/11/1999,Tamil Nadu,Coimbatore,673,82700,2.2,3,Yes,Inactive,2019,Savings,BR918
+CUST100202,Shreya Rao,F,24/03/2000,Uttar Pradesh,Lucknow,867,687900,1.8,1,Yes,Active,2005,Savings,BR930
+CUST100203,Kabir Singh,M,17/01/2003,Gujarat,Vadodara,770,68600,7.7,1,Yes,Active,2008,Current,BR599
+CUST100204,Kiran Sharma,F,,Gujarat,Ahmedabad,823,₹0,6.9,1,No,Active,2007,Savings,BR347
+CUST100205,Isha Deshpande,F,17/04/2000,Gujarat,Ahmedabad,693,48900,11.9,1,Yes,Active,2017,Salary,BR392
+CUST100206,Rahul Verma,M,25/02/1985,Maharashtra,Pune,752,"₹67,900",4.4,1,Yes,Active,2024,Savings,BR561
+CUST100207,Sanjay Singh,M,11/12/1988,Tamil Nadu,Chennai,766,"₹1,13,400",8.2,3,Yes,Inactive,2016,Salary,BR198
+CUST100208,Farhan Singh,M,01/12/1964,Delhi,New Delhi,622,1.2 Cr,4.0,2,Yes,Inactive,2006,Salary,BR386
+CUST100209,Pranav Khan,M,05/01/2000,Delhi,New Delhi,721,"₹1,22,500",10.4,2,No,Inactive,2022,Salary,BR198
+CUST100210,Nisha Bose,F,21/03/1973,Tamil Nadu,Madurai,714,"₹62,800",2.8,2,Yes,Inactive,2009,Savings,BR769
+CUST100211,Ishaan Bose,M,15/10/1954,Madhya Pradesh,Gwalior,746,"₹25,300",8.4,2,No,Active,2018,Savings,BR425
+CUST100212,Nisha Rao,F,15/08/1996,Maharashtra,Mumbai,845,"₹25,600",3.0,1,No,Active,2008,Salary,BR958
+CUST100213,Fatima Mishra,F,28/11/1971,Uttar Pradesh,Noida,706,"₹67,800",8.9,1,Yes,Inactive,2021,Current,BR686
+CUST100214,Priya Kaur,F,30/07/1955,Karnataka,Bengaluru,767,4900,6.5,4,Yes,Inactive,2024,Salary,BR540
+CUST100215,Aarav Patel,M,25/05/1987,Gujarat,Rajkot,812,417700,7.8,2,Yes,Inactive,2009,Savings,BR921
+CUST100216,Vikram Bose,M,05/02/1982,Gujarat,Surat,631,137300,2.6,3,Yes,Active,2023,Savings,BR306
+CUST100217,Sanjay Deshpande,M,unknown,West Bengal,Kolkata,679,0,5.3,2,Yes,Inactive,2020,Salary,BR949
+CUST100218,Neha Jain,F,28/04/1989,Uttar Pradesh,Varanasi,723,28000,7.1,2,Yes,Active,2023,Savings,BR919
+CUST100219,Riya Kaur,F,29/05/1955,Uttar Pradesh,Noida,707,235500,2.9,1,Yes,Dormant,2010,Salary,BR961
+CUST100220,Ayesha Gill,F,07/05/1987,Maharashtra,Nashik,719,68800,12.1,1,No,Active,2018,Savings,BR356
+CUST100221,Riya Mehta,F,06/03/1974,West Bengal,Kolkata,701,"₹2,20,500",7.6,3,No,Active,2010,Savings,BR527
+CUST100222,Aditi Mishra,F,13/12/1972,Uttar Pradesh,Varanasi,660,"₹3,51,800",5.6,2,Yes,Active,2008,Salary,BR931
+CUST100223,Diya Kaur,F,12/07/1961,West Bengal,Kolkata,723,29500,14.7,4,Yes,Active,2008,Savings,BR535
+CUST100224,Suresh Patel,M,05/03/1989,Gujarat,Rajkot,-1,"₹1,77,700",2.0,2,Yes,Inactive,2022,Salary,BR365
+CUST100225,Aditi Das,F,12/05/1954,Madhya Pradesh,Gwalior,789,52100,6.5,2,Yes,Active,2021,Salary,BR445
+CUST100226,Aarav Patel,M,18/03/1971,Delhi,New Delhi,819,₹0,8.0,2,Yes,Active,2014,Savings,BR893
+CUST100227,Suresh Nair,M,28/09/1968,Maharashtra,Nashik,611,"₹33,900",8.6,3,Yes,Active,2006,Savings,BR843
+CUST100228,Simran Naidu,F,,Gujarat,Surat,806,161500,6.8,2,Yes,Inactive,2007,Savings,BR463
+CUST100229,Suresh Patel,M,05/12/1960,Maharashtra,Pune,630,315700,4.2,1,No,Dormant,2015,Savings,BR314
+CUST100230,Amit Banerjee,M,27/12/2001,Maharashtra,Mumbai,645,43000,22.3,1,Yes,Inactive,2018,Savings,BR639
+CUST100231,Arjun Naidu,M,05/03/1989,Karnataka,Mysuru,766,81400,2.5,2,No,Inactive,2018,Current,BR544
+CUST100232,Divya Shah,F,22/07/1990,Gujarat,Ahmedabad,786,"₹2,52,800",14.4,2,No,,2017,Salary,BR744
+CUST100233,Manoj Jain,M,17/11/2002,Punjab,Ludhiana,675,78900,9.2,1,No,Inactive,2022,Savings,BR339
+CUST100234,Isha Yadav,F,08/07/2001,Karnataka,Mysuru,753,78000,5.9,1,Yes,Active,2024,Salary,BR502
+CUST100235,Rajesh Menon,M,27/12/2004,West Bengal,Howrah,749,"₹1,61,000",12.9,2,Yes,Inactive,2011,Salary,BR641
+CUST100236,Neha Kulkarni,F,18/11/1968,Karnataka,Mysuru,798,241700,19.1,2,Yes,Inactive,2014,Savings,BR143
+CUST100237,Lakshmi Rao,F,05/05/1997,Uttar Pradesh,Lucknow,-1,0,2.8,1,Yes,Inactive,2022,Current,BR111
+CUST100238,Simran Patel,F,07/03/1956,Telangana,Warangal,647,123100,5.7,3,Yes,Dormant,2023,Salary,BR454
+CUST100239,Sanjay Kulkarni,M,03/05/1959,Delhi,New Delhi,734,1.2 Cr,4.1,1,Yes,Active,2010,Savings,BR439
+CUST100240,Simran Patel,F,20/02/2004,Punjab,Amritsar,689,"₹7,36,400",3.2,3,Y,Active,2025,Savings,BR939
+CUST100241,Diya Sharma,F,21/04/1998,Gujarat,Ahmedabad,NA,1353300,7.8,1,No,Active,2010,Savings,BR137
+CUST100242,Meera Iyer,F,25/09/2002,Kerala,Thiruvananthapuram,796,"₹74,500",12.7,1,Yes,Active,2006,Savings,BR165
+CUST100243,Anil Bose,M,30/09/1987,Madhya Pradesh,Bhopal,819,"₹1,46,200",5.2,1,Yes,Active,2009,Current,BR973
+CUST100244,Divya Reddy,F,15/03/1960,Madhya Pradesh,Gwalior,646,"₹2,30,800",4.8,2,No,Active,2008,Savings,BR737
+CUST100245,Ramesh Rao,M,29/03/1985,Delhi,New Delhi,709,0,3.3,1,Yes,Inactive,2023,Savings,BR919
+CUST100246,Arjun Yadav,M,24/12/1988,Rajasthan,Jaipur,710,108900,6.9,1,No,Inactive,2023,Savings,BR410
+CUST100247,Priya Yadav,F,03/12/2004,Madhya Pradesh,Bhopal,855,248600,11.9,1,No,Active,2023,Salary,BR368
+CUST100248,Harish Mehta,M,18/12/1954,Gujarat,Vadodara,770,"₹52,300",7.0,2,Yes,Active,2013,Salary,BR872
+CUST100249,Imran Kulkarni,M,03/03/2005,Delhi,New Delhi,629,"₹54,300",13.1,2,Yes,Active,2006,Salary,BR865
+CUST100250,Aditya Mehta,M,04/07/1961,Kerala,Kochi,811,"₹3,66,900",7.0,2,Yes,Inactive,2005,Salary,BR654
+CUST100251,Harish Joshi,M,25/09/1967,Maharashtra,Nagpur,777,24400,5.7,2,Yes,Active,2012,Savings,BR493
+CUST100252,Sourav Pillai,M,09/03/2005,Maharashtra,Mumbai,808,"₹4,71,600",2.4,4,Yes,Active,2024,Savings,BR383
+CUST100253,Pallavi Mehta,F,24/08/1954,Tamil Nadu,Coimbatore,646,338800,2.7,2,Yes,Active,2010,Savings,BR686
+CUST100254,Ananya Kaur,F,23/03/1977,Rajasthan,Jaipur,700,"₹1,94,100",5.8,1,No,Active,2017,Savings,BR855
+CUST100255,Rohan Rao,M,21/03/2001,Maharashtra,Nashik,662,399700,5.4,3,Yes,Inactive,2014,Savings,BR864
+CUST100256,Amit Reddy,M,05/06/1992,Tamil Nadu,Chennai,719,"₹80,000",8.5,2,Yes,Active,2021,Savings,BR735
+CUST100257,Gurpreet Patel,M,19/02/1985,West Bengal,Kolkata,818,"₹1,49,200",11.2,2,Yes,Dormant,2009,Savings,BR404
+CUST100258,Anil Agarwal,M,27/06/1961,Tamil Nadu,Coimbatore,773,"₹2,54,900",3.6,1,Yes,Active,2024,Savings,BR401
+CUST100259,Isha Gill,F,13/06/1986,Maharashtra,Pune,769,66500,6.1,3,Yes,Active,2010,Savings,BR808
+CUST100260,Anil Deshpande,M,22/04/1975,Rajasthan,Udaipur,772,116300,15.3,1,Yes,Active,2020,Salary,BR506
+CUST100261,Arjun Menon,M,23/08/1961,Maharashtra,Nagpur,768,268500,2.9,3,No,Active,2018,Savings,BR876
+CUST100262,Aarav Joshi,M,24/09/1987,West Bengal,Kolkata,667,112000,3.3,2,Yes,Active,2008,Savings,BR143
+CUST100263,Karthik Mehta,M,16/11/1994,Kerala,Kochi,726,"₹2,28,500",6.6,1,Yes,Dormant,2011,Savings,BR821
+CUST100264,Ayesha Ahmed,F,22/01/2000,Rajasthan,Udaipur,784,0,10.5,1,Yes,Inactive,2022,Savings,BR631
+CUST100265,Sunita Ahmed,F,10/07/1979,Uttar Pradesh,Noida,774,"₹3,51,400",3.2,2,No,Active,2006,Savings,BR965
+CUST100266,Neha Mishra,F,08/05/1975,Rajasthan,Udaipur,641,217700,1.7,1,No,Active,2018,Savings,BR393
+CUST100267,Ananya Jain,F,30/07/1977,Maharashtra,Nagpur,628,34000,2.4,2,Yes,Inactive,2025,Savings,BR731
+CUST100268,Neha Singh,F,05/06/1977,Tamil Nadu,Coimbatore,768,543500,6.2,1,Yes,Active,2024,Salary,BR481
+CUST100269,Gurpreet Patel,M,26/08/1961,Tamil Nadu,Chennai,743,124800,5.7,1,Yes,Active,2015,Savings,BR323
+CUST100270,Ishaan Banerjee,M,21/05/1981,Punjab,Ludhiana,742,93000,5.1,3,Yes,Inactive,2012,Savings,BR171
+CUST100271,Simran Yadav,F,17/05/1988,Uttar Pradesh,Kanpur,814,409300,10.7,1,Yes,Dormant,2007,Salary,BR630
+CUST100272,Meera Khan,F,27/09/2004,Punjab,Amritsar,669,36700,6.0,3,Yes,Inactive,2022,Salary,BR117
+CUST100273,Rajesh Gupta,M,16/01/1966,Maharashtra,Pune,791,"₹23,200",3.1,1,No,Inactive,2020,Salary,BR563
+CUST100274,Simran Agarwal,F,14/09/1956,Punjab,Ludhiana,725,"₹3,82,400",11.4,2,No,Active,2017,Savings,BR822
+CUST100275,Rahul Patel,M,22/09/1999,Delhi,New Delhi,719,"₹2,94,300",6.8,2,Yes,Inactive,2021,Salary,BR360
+CUST100276,Sourav Chauhan,M,11/04/1981,Madhya Pradesh,Gwalior,786,393700,10.5,1,Yes,Active,2016,Savings,BR469
+CUST100277,Meera Reddy,F,25/01/1995,Punjab,Amritsar,612,,6.3,1,Yes,Active,2012,Savings,BR592
+CUST100278,Fatima Naidu,F,14/07/1992,Delhi,New Delhi,620,"₹1,60,600",2.9,2,,Active,2023,Savings,BR549
+CUST100279,Meera Das,F,17/07/1980,Maharashtra,Nagpur,779,"₹9,83,500",4.1,2,No,Inactive,2025,Savings,BR851
+CUST100280,Ankit Kaur,M,15/11/1955,Delhi,New Delhi,713,"₹2,21,500",1.8,1,Yes,Inactive,2007,Salary,BR720
+CUST100281,Deepika Jain,F,14/02/1992,Maharashtra,Mumbai,806,"₹1,25,200",4.8,2,Yes,Active,2018,Salary,BR873
+CUST100282,Ramesh Pillai,M,11/05/1986,Maharashtra,Mumbai,626,44900,3.7,3,Yes,Dormant,2019,Current,BR233
+CUST100283,Harish Mishra,M,19/03/1977,Gujarat,Vadodara,710,94900,4.6,1,No,Active,2013,Savings,BR451
+CUST100284,Rekha Bose,F,15/03/1986,Tamil Nadu,Chennai,742,"₹1,15,200",8.6,2,Yes,Dormant,2009,Savings,BR229
+CUST100285,Deepika Banerjee,F,14/05/1969,Rajasthan,Jodhpur,723,27800,8.8,3,No,Active,2014,Salary,BR316
+CUST100286,Diya Nair,F,unknown,Punjab,Amritsar,767,"₹3,79,500",3.5,1,No,Active,2021,Salary,BR476
+CUST100287,Pallavi Kaur,F,15/05/1967,Delhi,New Delhi,757,114400,8.2,1,Yes,Active,2022,Salary,BR779
+CUST100288,Pooja Patel,F,17/01/1962,Punjab,Ludhiana,728,52100,6.1,1,No,Active,2022,Savings,BR242
+CUST100289,Diya Deshpande,F,21/11/1989,Delhi,New Delhi,668,,4.7,3,n,Inactive,2013,Salary,BR178
+CUST100290,Deepika Pillai,F,11/09/2001,Punjab,Ludhiana,799,184100,9.9,1,Yes,Inactive,2017,Salary,BR904
+CUST100291,Arjun Mehta,M,14/03/1993,Uttar Pradesh,Noida,654,41900,7.5,2,Yes,Inactive,2011,Savings,BR603
+CUST100292,Suresh Mehta,M,21/02/2002,Madhya Pradesh,Gwalior,695,"₹59,200",2.1,1,Yes,Inactive,2011,Current,BR535
+CUST100293,Lakshmi Kulkarni,F,20/10/1996,Rajasthan,Jaipur,644,"₹87,600",10.8,1,No,Inactive,2014,Salary,BR130
+CUST100294,Nisha Kulkarni,F,10/10/1959,Rajasthan,Jodhpur,794,"₹1,08,400",12.1,4,Yes,Active,2012,Savings,BR845
+CUST100295,Gurpreet Das,M,23/12/1963,Uttar Pradesh,Noida,701,"₹9,700",5.9,1,Yes,Active,2005,Salary,BR652
+CUST100296,Harish Mehta,M,06/09/1960,Delhi,New Delhi,NA,137800,3.1,1,No,Inactive,2012,Savings,BR422
+CUST100297,Ananya Verma,F,10/10/1979,Madhya Pradesh,Gwalior,856,₹0,4.6,1,Yes,Inactive,2005,Savings,BR440
+CUST100298,Aarav Jain,M,19/10/1983,Karnataka,Mysuru,-1,"₹1,76,600",4.2,2,No,Inactive,2023,Savings,BR231
+CUST100299,Anil Patel,M,12/07/1979,Tamil Nadu,Chennai,,39900,9.5,2,No,Active,2011,Savings,BR655
+CUST100300,Divya Mehta,F,15/01/1954,Rajasthan,Udaipur,759,"₹1,12,900",1.9,2,Yes,Inactive,2015,Savings,BR424
+CUST100301,Gurpreet Patel,M,24/06/1972,Rajasthan,Jaipur,766,"₹17,600",4.4,2,No,Inactive,2009,Salary,BR237
+CUST100302,Kabir Singh,M,09/01/1959,Madhya Pradesh,Indore,548,"₹91,800",3.6,2,No,Inactive,2015,Savings,BR564
+CUST100303,Meera Naidu,F,21/05/1990,Telangana,Hyderabad,740,"₹89,600",5.8,1,Yes,Inactive,2005,Current,BR789
+CUST100304,Kabir Iyer,M,20/10/1965,Maharashtra,Nagpur,747,₹0,11.9,1,Yes,Inactive,2017,Salary,BR728
+CUST100305,Rahul Agarwal,M,06/06/1998,Karnataka,Mysuru,689,137200,4.9,1,Yes,Inactive,2014,Current,BR468
+CUST100306,Anil Iyer,M,13/01/1987,Madhya Pradesh,Indore,766,0,12.3,1,Yes,Inactive,2009,Savings,BR554
+CUST100307,Divya Shah,F,02/02/1970,Delhi,New Delhi,735,233800,5.8,4,No,Active,2014,Salary,BR947
+CUST100308,Sanjay Naidu,M,19/09/1983,Delhi,New Delhi,628,"₹3,20,400",2.3,1,Yes,Active,2012,Savings,BR656
+CUST100309,Nisha Nair,F,05/07/1982,Kerala,Thiruvananthapuram,803,"₹37,900",8.4,2,Yes,Active,2019,Savings,BR367
+CUST100310,Diya Das,F,20/04/1978,Gujarat,Rajkot,738,"₹82,900",6.5,2,Yes,Active,2016,Savings,BR845
+CUST100311,Imran Ahmed,M,03/09/2004,Maharashtra,Pune,714,72700,11.7,2,Yes,Active,2025,Savings,BR783
+CUST100312,Aarav Gill,M,17/05/1978,Uttar Pradesh,Varanasi,669,162200,6.1,2,Yes,Active,2024,Savings,BR658
+CUST100313,Ananya Gill,F,17/09/2004,Karnataka,Bengaluru,751,"₹74,300",4.4,1,Yes,Inactive,2022,Salary,BR761
+CUST100314,Fatima Chatterjee,F,23/02/2001,Telangana,Hyderabad,774,"₹97,900",6.4,2,No,Active,2011,Savings,BR654
+CUST100315,Lakshmi Yadav,F,01/07/1963,Rajasthan,Jodhpur,610,"₹2,91,400",5.2,2,Yes,Inactive,2016,Savings,BR554
+CUST100316,Vivaan Sharma,M,17/03/1974,West Bengal,Kolkata,789,61800,20.6,2,Yes,Inactive,2011,Savings,BR666
+CUST100317,Harish Nair,M,20/04/1960,Madhya Pradesh,Gwalior,734,706800,8.5,1,Yes,Active,2019,Salary,BR630
+CUST100318,Pranav Das,M,06/12/1970,Maharashtra,Nashik,675,"₹34,600",20.4,4,Yes,Active,2019,Savings,BR648
+CUST100319,Nisha Singh,F,04/02/1958,Uttar Pradesh,Kanpur,900,"₹4,74,400",6.2,1,Yes,Dormant,2008,Savings,BR655
+CUST100320,Diya Singh,F,08/08/1986,Tamil Nadu,Madurai,838,"₹1,41,500",16.7,1,No,Active,2011,Savings,BR262
+CUST100321,Ananya Joshi,F,19/11/1967,Uttar Pradesh,Varanasi,665,190000,6.5,1,Yes,Active,2020,Savings,BR287
+CUST100322,Ramesh Mishra,M,21/07/2003,Gujarat,Ahmedabad,703,"₹2,42,700",23.3,1,Yes,Inactive,2019,Salary,BR680
+CUST100323,Deepak Mehta,M,30/01/1962,Rajasthan,Jodhpur,713,51600,7.1,1,Yes,Active,2025,Current,BR750
+CUST100324,Ananya Ahmed,F,,Tamil Nadu,Chennai,753,105200,5.0,1,No,Active,2007,Current,BR371
+CUST100325,Amit Chauhan,M,12/07/1967,Uttar Pradesh,Noida,679,₹0,3.6,3,Yes,Dormant,2018,Salary,BR307
+CUST100326,Deepika Verma,F,,Tamil Nadu,Chennai,638,144800,20.9,1,Yes,Active,2018,Savings,BR571
+CUST100327,Ishaan Naidu,M,11/04/1982,Tamil Nadu,Madurai,810,65100,15.0,2,Yes,Active,2024,Savings,BR996
+CUST100328,Sourav Deshpande,M,12/07/1986,Maharashtra,Mumbai,686,"₹4,64,700",19.4,1,n,Active,2022,Salary,BR857
+CUST100329,Arjun Yadav,M,20/04/1990,Karnataka,Bengaluru,739,"₹91,100",4.1,1,Yes,Active,2005,Savings,BR778
+CUST100330,Pallavi Iyer,F,27/10/1976,Telangana,Hyderabad,839,106200,9.5,2,No,Inactive,2012,Savings,BR489
+CUST100331,Divya Shah,F,14/03/1979,Delhi,New Delhi,700,"₹39,900",3.6,1,No,Active,2017,Salary,BR457
+CUST100332,Priya Agarwal,F,29/04/1975,Gujarat,Surat,712,60000,4.9,4,Yes,Active,2015,Savings,BR928
+CUST100333,Shreya Nair,F,21/08/1983,Uttar Pradesh,Kanpur,790,243500,12.8,1,Yes,Inactive,2011,Salary,BR730
+CUST100334,Swati Agarwal,F,10/12/1994,Delhi,New Delhi,626,140900,10.3,1,Yes,Inactive,2014,Savings,BR457
+CUST100335,Aditya Banerjee,M,04/05/1988,Gujarat,Surat,616,85500,9.1,4,Yes,Active,2011,Savings,BR865
+CUST100336,Aditya Chatterjee,M,04/11/2002,Telangana,Warangal,583,79500,4.4,2,No,Active,2024,Salary,BR921
+CUST100337,Deepika Das,F,11/08/1956,Punjab,Amritsar,708,"₹1,07,200",17.2,1,Yes,Active,2018,Savings,BR867
+CUST100338,Aarav Chauhan,M,15/05/1995,Rajasthan,Jaipur,738,28500,5.3,1,No,Inactive,2011,Savings,BR886
+CUST100339,Aarav Patel,M,21/03/1990,Maharashtra,Mumbai,671,31100,12.4,2,Yes,Active,2006,Savings,BR341
+CUST100340,Rahul Mishra,M,28/03/1989,Kerala,Kochi,784,"₹11,800",10.1,2,Yes,Active,2010,Current,BR825
+CUST100341,Deepika Pillai,F,04/09/1978,Punjab,Ludhiana,770,"₹2,52,600",4.1,1,,Active,2014,Salary,BR698
+CUST100342,Pooja Deshpande,F,13/04/1960,West Bengal,Howrah,772,"₹22,600",8.3,3,No,Active,2010,Savings,BR948
+CUST100343,Fatima Rao,F,19/03/1964,Delhi,New Delhi,647,"₹85,900",5.9,2,Yes,Active,2005,Savings,BR706
+CUST100344,Pranav Chauhan,M,10/02/1957,Delhi,New Delhi,771,297900,7.2,2,Yes,Active,2025,Salary,BR884
+CUST100345,Manoj Deshpande,M,02/12/1991,Maharashtra,Pune,NA,185000,1.8,1,Yes,Active,2009,Savings,BR962
+CUST100346,Sanjay Jain,M,08/08/1999,Uttar Pradesh,Lucknow,785,323100,26.0,2,No,Active,2021,Savings,BR808
+CUST100347,Anjali Chauhan,F,14/06/2004,Maharashtra,Mumbai,636,,5.2,2,Yes,Dormant,2018,Current,BR920
+CUST100348,Diya Kaur,F,16/02/1990,Uttar Pradesh,Kanpur,599,"₹5,900",13.2,2,Yes,Active,2005,Savings,BR334
+CUST100349,Deepak Shah,M,30/09/1986,Uttar Pradesh,Lucknow,799,"₹2,42,700",4.2,1,Yes,Active,2022,Current,BR860
+CUST100350,Gurpreet Reddy,M,13/10/1962,Uttar Pradesh,Kanpur,704,"₹24,800",11.1,2,No,Active,2013,Current,BR447
+CUST100351,Shreya Joshi,F,18/10/1980,Telangana,Warangal,735,"₹17,900",6.4,1,Yes,Active,2013,Savings,BR478
+CUST100352,Ramesh Nair,M,04/12/1957,Maharashtra,Nashik,635,290100,6.1,2,Yes,Active,2021,Savings,BR315
+CUST100353,Anil Reddy,M,21/11/2000,Gujarat,Vadodara,732,286500,6.6,4,Yes,Active,2017,Savings,BR554
+CUST100354,Ayesha Iyer,F,22/10/2000,Madhya Pradesh,Indore,654,"₹1,31,900",12.3,2,n,Active,2013,Salary,BR525
+CUST100355,Arjun Chauhan,M,25/03/1975,West Bengal,Kolkata,675,"₹5,57,200",2.6,1,No,Active,2019,Savings,BR548
+CUST100356,Deepak Gill,M,13/05/1998,Telangana,Hyderabad,775,121300,11.5,2,Yes,Active,2019,Savings,BR247
+CUST100357,Swati Agarwal,F,12/08/1984,Gujarat,Rajkot,869,80900,14.5,2,Yes,Active,2015,Salary,BR715
+CUST100358,Rahul Khan,M,28/03/1965,Tamil Nadu,Madurai,882,"₹60,600",4.5,2,Yes,Active,2017,Savings,BR116
+CUST100359,Shreya Naidu,F,24/09/2002,Delhi,New Delhi,721,"₹1,29,800",1.1,1,Yes,Active,2011,Savings,BR944
+CUST100360,Lakshmi Gill,F,30/05/1988,Gujarat,Vadodara,616,51600,19.8,2,Yes,active ,2007,Savings,BR635
+CUST100361,Ramesh Deshpande,M,15/08/1957,Karnataka,Bengaluru,766,71200,4.6,1,Yes,Inactive,2022,Salary,BR189
+CUST100362,Vivaan Iyer,M,27/02/1993,Telangana,Warangal,626,"₹72,300",2.4,3,Yes,Active,2021,Savings,BR455
+CUST100363,Vikram Mehta,M,24/03/1979,West Bengal,Kolkata,713,2570100,8.0,2,Yes,Active,2017,Salary,BR625
+CUST100364,Rohan Gill,M,14/07/1971,Gujarat,Vadodara,700,65000,2.2,2,Yes,Active,2005,Current,BR210
+CUST100365,Ananya Pillai,F,15/11/1978,Tamil Nadu,Coimbatore,834,78200,3.4,2,Yes,Active,2005,Salary,BR591
+CUST100366,Lakshmi Yadav,F,02/08/1963,Karnataka,Bengaluru,675,"₹5,49,500",3.6,2,No,Active,2006,Current,BR351
+CUST100367,Imran Gupta,M,03/03/1985,Madhya Pradesh,Indore,735,NIL,5.9,1,Yes,Active,2008,Savings,BR334
+CUST100368,Manoj Menon,M,01/08/1954,Uttar Pradesh,Noida,825,61600,9.3,2,Yes,Inactive,2025,Current,BR418
+CUST100369,Farhan Reddy,M,19/10/1985,Karnataka,Mysuru,880,"₹3,53,400",3.1,1,n,Inactive,2007,Savings,BR340
+CUST100370,Vikram Ahmed,M,24/01/1994,Delhi,New Delhi,719,16800,9.9,2,Yes,Active,2017,Savings,BR315
+CUST100371,Meera Pillai,F,30/09/1985,West Bengal,Howrah,896,156300,6.4,1,No,Active,2008,Savings,BR674
+CUST100372,Suresh Bose,M,30/01/1991,Punjab,Amritsar,872,₹0,3.5,3,No,Active,2016,Salary,BR381
+CUST100373,Imran Gill,M,04/04/1979,Rajasthan,Jaipur,652,764900,4.1,2,Yes,Active,2007,Savings,BR804
+CUST100374,Ramesh Ahmed,M,04/07/1999,Tamil Nadu,Coimbatore,NA,"₹1,50,700",2.1,3,Yes,,2020,Savings,BR323
+CUST100375,Pooja Patel,F,08/10/2000,Tamil Nadu,Madurai,702,50900,6.3,1,No,Active,2017,Salary,BR300
+CUST100376,Kavya Mehta,F,unknown,Telangana,Warangal,621,"₹84,300",4.5,1,Yes,Dormant,2013,Savings,BR501
+CUST100377,Aditi Nair,F,24/07/1974,Tamil Nadu,Chennai,712,"₹56,600",10.2,2,Yes,Active,2007,Savings,BR764
+CUST100378,Sanjay Mehta,M,15/03/1976,Gujarat,Vadodara,724,"₹4,01,800",2.0,1,Yes,Active,2011,Salary,BR462
+CUST100379,Sanjay Bose,M,06/08/1984,Kerala,Thiruvananthapuram,732,404700,4.2,2,Yes,Active,2009,Savings,BR276
+CUST100380,Vikram Ahmed,M,26/10/1965,Uttar Pradesh,Varanasi,826,"₹15,200",16.8,2,Yes,Inactive,2005,Savings,BR754
+CUST100381,Divya Singh,F,17/06/1979,Gujarat,Ahmedabad,653,₹0,4.1,3,Yes,Active,2008,Savings,BR345
+CUST100382,Pallavi Verma,F,06/08/1966,Madhya Pradesh,Gwalior,831,94300,7.2,1,Yes,Active,2024,Salary,BR751
+CUST100383,Kabir Shah,M,14/10/1994,Karnataka,Mysuru,720,"₹1,33,500",6.4,1,Yes,Dormant,2015,Savings,BR912
+CUST100384,Fatima Singh,F,25/06/2001,Karnataka,Bengaluru,726,"₹2,32,500",3.2,2,Yes,Inactive,2024,Current,BR164
+CUST100385,Manoj Naidu,M,02/05/1982,Uttar Pradesh,Varanasi,850,NIL,2.1,1,Yes,Inactive,2024,Salary,BR175
+CUST100386,Meera Yadav,F,22/12/1987,Karnataka,Mangaluru,718,"₹59,500",5.3,1,Yes,Inactive,2006,Salary,BR815
+CUST100387,Meera Iyer,F,24/12/1958,Kerala,Thiruvananthapuram,869,"₹29,000",11.5,1,No,Inactive,2018,Salary,BR171
+CUST100388,Sunita Kulkarni,F,01/07/1958,Karnataka,Mangaluru,748,"₹1,59,300",5.1,1,Yes,Active,2024,Current,BR207
+CUST100389,Manoj Yadav,M,14/10/1974,Gujarat,Rajkot,779,24400,24.1,1,Yes,Active,2018,Savings,BR894
+CUST100390,Pranav Pillai,M,16/02/1974,Uttar Pradesh,Kanpur,654,"₹3,05,700",5.5,1,Yes,Active,2020,Salary,BR882
+CUST100391,Amit Verma,M,30/10/2002,Uttar Pradesh,Kanpur,709,237600,7.1,3,Yes,Active,2017,Savings,BR422
+CUST100392,Pooja Rao,F,08/03/1964,Karnataka,Mysuru,769,1.2 Cr,3.4,1,No,Inactive,2009,Savings,BR327
+CUST100393,Divya Das,F,12/10/1983,Uttar Pradesh,Noida,741,115100,4.8,1,Yes,Inactive,2010,Current,BR537
+CUST100394,Ramesh Sharma,M,28/11/1958,Maharashtra,Mumbai,823,54300,15.3,1,Yes,Inactive,2008,Salary,BR220
+CUST100395,Rekha Gupta,F,28/07/1993,Delhi,New Delhi,667,"₹9,19,000",7.7,2,Yes,Dormant,2024,Savings,BR319
+CUST100396,Manoj Khan,M,25/08/1969,Maharashtra,Nashik,689,,3.3,3,Yes,Active,2010,Salary,BR695
+CUST100397,Rajesh Ahmed,M,30/10/1975,Punjab,Amritsar,714,"₹3,25,400",24.7,2,No,,2008,Current,BR247
+CUST100398,Sneha Shah,F,01/07/1998,Delhi,New Delhi,673,0,13.9,2,Yes,Dormant,2017,Salary,BR811
+CUST100399,Simran Mehta,F,28/01/1970,Punjab,Amritsar,705,₹0,6.1,1,No,Active,2012,Savings,BR341
+CUST100400,Aarav Pillai,M,31/07/1968,Karnataka,Mangaluru,829,"₹2,01,900",2.4,2,No,Inactive,2006,Savings,BR242
+CUST100401,Harish Mishra,M,30/08/1971,Rajasthan,Udaipur,710,"₹29,900",4.1,2,No,Active,2023,Salary,BR473
+CUST100402,Rekha Khan,F,11/12/1956,Gujarat,Rajkot,715,55300,5.8,1,Yes,Inactive,2012,Savings,BR963
+CUST100403,Rajesh Naidu,M,04/07/1964,Gujarat,Rajkot,683,470300,12.1,2,Yes,Active,2023,Salary,BR573
+CUST100404,Aarav Kaur,M,29/08/1985,Gujarat,Vadodara,793,108400,3.3,3,Yes,Inactive,2013,Savings,BR189
+CUST100405,Anjali Chauhan,F,24/08/1968,West Bengal,Howrah,650,420300,1.8,2,No,,2021,Salary,BR548
+CUST100406,Aarav Khan,M,18/11/1957,Madhya Pradesh,Bhopal,736,320300,7.5,2,Yes,Inactive,2008,Savings,BR991
+CUST100407,Diya Pillai,F,11/02/1998,Gujarat,Surat,736,119700,8.6,1,n,Active,2023,Salary,BR690
+CUST100408,Imran Gupta,M,08/05/1992,Gujarat,Surat,727,35900,5.3,1,Yes,Active,2022,Current,BR143
+CUST100409,Rahul Das,M,26/08/2004,Tamil Nadu,Madurai,712,185400,3.7,4,No,Active,2019,Savings,BR943
+CUST100410,Isha Shah,F,10/07/1969,Delhi,New Delhi,-1,311500,3.9,1,Yes,Active,2020,Savings,BR990
+CUST100411,Divya Ahmed,F,11/09/2003,Telangana,Warangal,800,"₹21,600",12.3,2,Yes,Active,2015,Savings,BR136
+CUST100412,Nisha Ahmed,F,01/04/1967,Telangana,Hyderabad,644,"₹2,74,700",9.7,1,Yes,Active,2020,Salary,BR949
+CUST100413,Lakshmi Chauhan,F,17/12/1999,Tamil Nadu,Madurai,724,34600,8.7,2,Yes,Inactive,2020,Savings,BR659
+CUST100414,Shreya Kulkarni,F,08/09/1967,Madhya Pradesh,Indore,727,"₹8,81,100",3.7,1,Yes,Active,2015,Salary,BR284
+CUST100415,Ayesha Mehta,F,15/07/1964,Kerala,Thiruvananthapuram,747,"₹32,600",6.8,2,No,Active,2021,Savings,BR127
+CUST100416,Simran Verma,F,03/08/1969,West Bengal,Howrah,667,"₹6,73,300",10.2,3,No,Inactive,2023,Salary,BR616
+CUST100417,Nisha Kaur,F,03/12/1969,Karnataka,Bengaluru,782,88900,13.0,1,Yes,Active,2006,Salary,BR313
+CUST100418,Imran Reddy,M,05/12/1985,Punjab,Amritsar,629,5500,8.8,2,Yes,Active,2007,Savings,BR287
+CUST100419,Isha Kaur,F,25/08/1969,Gujarat,Vadodara,742,82300,5.9,2,No,Active,2005,Savings,BR302
+CUST100420,Ananya Chauhan,F,09/07/1960,Gujarat,Surat,713,100700,2.4,3,Yes,Active,2010,Current,BR254
+CUST100421,Ishaan Kaur,M,,Telangana,Warangal,651,32200,3.4,1,No,Active,2019,Salary,BR382
+CUST100422,Shreya Das,F,25/06/1996,Rajasthan,Jaipur,711,"₹96,900",7.8,1,Yes,Inactive,2018,Current,BR242
+CUST100423,Sanjay Bose,M,02/12/1993,Delhi,New Delhi,782,1.2 Cr,5.7,3,No,Active,2021,Savings,BR275
+CUST100424,Rajesh Chauhan,M,30/09/2001,Maharashtra,Nashik,749,94800,4.5,1,No,Inactive,2022,Current,BR536
+CUST100425,Swati Rao,F,09/01/1994,Uttar Pradesh,Noida,694,177400,14.3,2,Yes,Dormant,2007,Savings,BR985
+CUST100426,Rajesh Gupta,M,05/08/1989,Punjab,Amritsar,724,95200,5.7,1,Yes,Inactive,2013,Salary,BR332
+CUST100427,Pallavi Kulkarni,F,30/10/1983,Gujarat,Vadodara,808,17100,3.4,2,No,Dormant,2024,Savings,BR723
+CUST100428,Meera Nair,F,08/10/1970,Uttar Pradesh,Lucknow,798,"₹2,76,500",2.6,3,No,Active,2014,Savings,BR383
+CUST100429,Karthik Menon,Other,15/03/1966,Maharashtra,Pune,618,128500,8.1,1,No,Dormant,2008,Savings,BR650
+CUST100430,Sourav Mehta,M,09/08/1966,Gujarat,Ahmedabad,830,112000,3.8,1,Yes,Inactive,2018,Savings,BR159
+CUST100431,Anil Yadav,M,11/09/1966,Maharashtra,Nashik,684,"₹2,57,700",7.6,1,Yes,Active,2019,Savings,BR152
+CUST100432,Shreya Sharma,F,28/01/1954,Uttar Pradesh,Noida,-1,562900,5.7,2,Yes,,2018,Salary,BR436
+CUST100433,Kavya Joshi,F,02/04/2004,Delhi,New Delhi,670,"₹1,54,000",1.6,3,n,Active,2005,Salary,BR616
+CUST100434,Imran Menon,M,02/02/1978,Tamil Nadu,Chennai,806,44200,11.7,1,Yes,Inactive,2009,Salary,BR467
+CUST100435,Divya Ahmed,F,26/03/1989,Delhi,New Delhi,710,"₹44,800",5.1,1,No,Active,2005,Savings,BR828
+CUST100436,Imran Kaur,M,24/07/1991,Uttar Pradesh,Lucknow,,"₹88,500",13.1,2,Yes,Active,2017,Savings,BR699
+CUST100437,Aditi Mehta,F,16/02/1994,Karnataka,Mangaluru,742,"₹3,48,200",3.9,1,Yes,Active,2010,Salary,BR641
+CUST100438,Swati Kulkarni,F,26/06/1999,Delhi,New Delhi,768,"₹67,200",8.0,1,Yes,Active,2014,Salary,BR403
+CUST100439,Ishaan Banerjee,M,03/11/1997,West Bengal,Kolkata,513,"₹64,800",12.3,1,Yes,Active,2018,Current,BR777
+CUST100440,Priya Verma,F,12/07/1972,Maharashtra,Nashik,746,119000,3.8,2,Yes,Inactive,2024,Salary,BR965
+CUST100441,Shreya Verma,F,09/01/1981,Uttar Pradesh,Kanpur,746,24700,7.9,2,No,Active,2011,Salary,BR940
+CUST100442,Harish Pillai,M,11/04/1961,Gujarat,Vadodara,656,93600,6.0,1,Yes,Inactive,2014,Salary,BR125
+CUST100443,Pallavi Menon,F,30/05/2004,Maharashtra,Mumbai,706,199000,11.2,1,n,Dormant,2015,Savings,BR675
+CUST100444,Vikram Nair,Other,25/09/1972,Madhya Pradesh,Indore,781,224200,5.9,3,No,Active,2007,Savings,BR896
+CUST100445,Neha Menon,F,30/10/1991,Uttar Pradesh,Lucknow,683,"₹3,08,800",6.7,2,Yes,Active,2020,Savings,BR315
+CUST100446,Anjali Singh,F,11/06/1972,Maharashtra,Nagpur,719,369300,6.9,3,Yes,Active,2010,Savings,BR112
+CUST100447,Pooja Kaur,F,16/10/1973,West Bengal,Kolkata,690,"₹1,01,400",5.5,2,No,Active,2005,Salary,BR322
+CUST100448,Aditya Banerjee,M,11/12/1992,Madhya Pradesh,Bhopal,609,129100,4.9,2,Yes,Active,2016,Current,BR417
+CUST100449,Vikram Kaur,M,16/03/1983,Karnataka,Mangaluru,678,"₹32,800",15.1,1,No,Inactive,2021,Current,BR487
+CUST100450,Kiran Mishra,F,03/08/2005,Telangana,Hyderabad,692,"₹2,88,500",8.2,2,No,Active,2019,Salary,BR620
+CUST100451,Isha Banerjee,F,26/01/1990,Uttar Pradesh,Varanasi,704,71300,4.7,1,Yes,Inactive,2005,Savings,BR471
+CUST100452,Neha Deshpande,F,04/05/1981,Telangana,Warangal,755,"₹13,100",4.7,1,Yes,Inactive,2022,Savings,BR281
+CUST100453,Sneha Mishra,F,02/06/1975,Delhi,New Delhi,852,"₹94,300",1.7,3,No,Active,2017,Salary,BR252
+CUST100454,Meera Deshpande,F,12/10/1966,Madhya Pradesh,Bhopal,703,"₹11,600",4.4,2,,Active,2020,Savings,BR518
+CUST100455,Deepika Joshi,F,20/08/1990,Rajasthan,Udaipur,593,"₹14,800",9.4,1,Yes,Inactive,2020,Current,BR458
+CUST100456,Aarav Singh,M,24/10/1981,Delhi,New Delhi,683,36300,5.6,2,Yes,Inactive,2007,Savings,BR732
+CUST100457,Isha Rao,F,03/01/1999,Maharashtra,Nagpur,602,16600,7.6,4,Yes,Active,2011,Salary,BR906
+CUST100458,Pooja Bose,F,05/02/1966,Gujarat,Vadodara,787,146000,6.7,1,No,Active,2023,Savings,BR108
+CUST100459,Swati Agarwal,F,10/06/1970,Telangana,Hyderabad,769,56500,5.6,1,Yes,Inactive,2016,Savings,BR706
+CUST100460,Rohan Banerjee,M,07/08/1964,Telangana,Warangal,746,179200,5.1,2,Yes,Inactive,2017,Savings,BR494
+CUST100461,Sourav Verma,M,13/11/1987,West Bengal,Howrah,731,89000,2.4,2,Yes,Inactive,2009,Savings,BR293
+CUST100462,Rohan Nair,M,28/01/1970,Karnataka,Mysuru,755,"₹51,200",6.3,1,No,Active,2019,Savings,BR259
+CUST100463,Isha Reddy,F,25/07/2001,Maharashtra,Nagpur,692,14000,4.5,2,Yes,Inactive,2007,Savings,BR237
+CUST100464,Pranav Shah,M,25/05/1968,Madhya Pradesh,Gwalior,695,316700,10.3,1,No,Active,2017,Savings,BR420
+CUST100465,Sanjay Banerjee,M,unknown,Maharashtra,Nashik,749,"₹75,600",5.9,3,No,Inactive,2013,Salary,BR248
+CUST100466,Karthik Chauhan,M,11/03/1956,Maharashtra,Mumbai,744,"₹29,300",20.3,1,No,Active,2009,Savings,BR245
+CUST100467,Amit Nair,M,16/07/2002,Telangana,Hyderabad,712,"₹2,80,000",5.9,2,No,Inactive,2009,Savings,BR587
+CUST100468,Arjun Das,M,18/10/1969,Uttar Pradesh,Lucknow,718,0,1.5,2,Yes,Active,2007,Salary,BR851
+CUST100469,Vikram Mehta,M,31/01/1967,Rajasthan,Udaipur,729,"₹1,43,000",3.6,1,Yes,Active,2005,Salary,BR414
+CUST100470,Gurpreet Deshpande,M,27/01/2000,Maharashtra,Nashik,703,260000,14.9,1,Yes,Dormant,2012,Savings,BR510
+CUST100471,Priya Nair,F,09/01/1975,Gujarat,Rajkot,673,129200,2.3,2,No,Active,2011,Savings,BR892
+CUST100472,Anil Pillai,M,29/07/1970,West Bengal,Howrah,762,64200,7.2,1,No,Active,2010,Savings,BR748
+CUST100473,Ayesha Kulkarni,F,29/06/2005,Madhya Pradesh,Indore,842,"₹65,300",1.8,1,No,Active,2007,Current,BR515
+CUST100474,Pranav Kaur,M,22/03/1995,Maharashtra,Mumbai,736,"₹41,400",7.2,2,Yes,Inactive,2016,Salary,BR752
+CUST100475,Imran Jain,M,02/11/1968,Kerala,Thiruvananthapuram,720,55500,6.2,1,No,Inactive,2018,Current,BR273
+CUST100476,Aditya Chatterjee,M,08/04/2001,Karnataka,Mangaluru,688,"₹47,800",14.9,3,Yes,Inactive,2011,Savings,BR895
+CUST100477,Lakshmi Menon,F,06/06/1967,Telangana,Hyderabad,637,357600,3.5,1,No,Inactive,2020,Savings,BR232
+CUST100478,Arjun Sharma,M,24/06/1966,Kerala,Kochi,582,268900,4.6,2,Yes,Inactive,2023,Savings,BR778
+CUST100479,Deepika Reddy,F,20/11/1982,Kerala,Kochi,806,"₹1,45,800",3.3,3,No,Dormant,2014,Savings,BR519
+CUST100480,Gurpreet Deshpande,M,05/05/1974,Gujarat,Rajkot,780,38000,2.9,2,Yes,Inactive,2009,Salary,BR514
+CUST100481,Aarav Shah,M,06/03/1974,Karnataka,Bengaluru,729,4700,4.0,3,No,Active,2020,Salary,BR583
+CUST100482,Lakshmi Menon,F,12/08/2003,Maharashtra,Nagpur,779,"₹1,75,400",6.0,1,Yes,Inactive,2017,Savings,BR484
+CUST100483,Vikram Kulkarni,M,11/05/1973,Uttar Pradesh,Varanasi,794,"₹1,13,200",10.9,2,Yes,Active,2023,Savings,BR470
+CUST100484,Diya Singh,F,12/06/2004,Maharashtra,Pune,759,73200,5.1,2,Yes,,2014,Current,BR186
+CUST100485,Ananya Ahmed,F,23/08/2002,Madhya Pradesh,Indore,754,16700,9.3,1,Yes,Inactive,2012,Salary,BR429
+CUST100486,Rajesh Mishra,M,19/12/1957,Karnataka,Mysuru,776,"₹1,37,700",11.0,2,No,Dormant,2006,Savings,BR227
+CUST100487,Rohan Deshpande,M,04/09/1980,Rajasthan,Udaipur,590,40400,5.0,2,No,Active,2013,Salary,BR953
+CUST100488,Aditya Nair,M,19/08/1987,West Bengal,Howrah,764,"₹3,10,000",4.4,1,No,Inactive,2017,Salary,BR920
+CUST100489,Gurpreet Deshpande,M,25/03/2005,West Bengal,Howrah,766,"₹2,49,100",13.3,3,No,Active,2016,Savings,BR158
+CUST100490,Priya Das,F,18/06/1958,Gujarat,Surat,655,2.5 lakh,7.2,2,No,Active,2012,Salary,BR859
+CUST100491,Kavya Pillai,F,01/07/1998,Uttar Pradesh,Kanpur,632,"₹32,800",10.7,2,Yes,Active,2017,Savings,BR932
+CUST100492,Pallavi Shah,F,22/06/1960,Delhi,New Delhi,734,"₹2,13,000",8.0,2,No,Active,2013,Savings,BR100
+CUST100493,Vivaan Shah,M,24/02/2004,Maharashtra,Nashik,766,106800,12.2,2,Yes,Active,2009,Salary,BR881
+CUST100494,Ananya Rao,F,24/07/1959,Karnataka,Bengaluru,558,42600,2.0,2,Y,Active,2018,Savings,BR655
+CUST100495,Pranav Pillai,M,10/12/1984,Tamil Nadu,Coimbatore,746,525200,12.7,2,Yes,Dormant,2022,Salary,BR949
+CUST100496,Ishaan Menon,M,15/02/1982,Telangana,Warangal,730,"₹5,88,600",4.9,1,Yes,Inactive,2009,Salary,BR811
+CUST100497,Rohan Chatterjee,M,03/07/1989,Telangana,Warangal,680,"₹15,800",6.9,1,No,Active,2016,Savings,BR420
+CUST100498,Deepika Banerjee,F,21/04/1979,Karnataka,Bengaluru,731,0,9.2,1,No,Active,2008,Savings,BR789
+CUST100499,Rohan Sharma,M,12/09/1970,West Bengal,Kolkata,815,148800,3.7,2,Yes,Active,2015,Savings,BR405
+CUST100500,Arjun Ahmed,M,09/04/1996,Gujarat,Vadodara,841,"₹1,69,300",7.2,1,Yes,Active,2018,Savings,BR884
+CUST100501,Deepika Agarwal,F,20/06/1965,Karnataka,Bengaluru,813,₹0,4.0,2,No,Inactive,2023,Current,BR574
+CUST100502,Aditya Mishra,M,27/05/1966,Maharashtra,Nagpur,777,"₹3,03,800",2.4,1,No,Inactive,2017,Salary,BR360
+CUST100503,Pranav Deshpande,M,,Karnataka,Mysuru,617,"₹54,200",6.7,2,Y,Active,2010,Savings,BR441
+CUST100504,Rahul Agarwal,M,,Karnataka,Bengaluru,763,"₹8,42,300",18.5,2,No,Active,2014,Salary,BR495
+CUST100505,Pranav Reddy,M,12/08/1964,Maharashtra,Mumbai,732,103200,4.1,2,Yes,Active,2011,Salary,BR316
+CUST100506,Ramesh Banerjee,M,25/04/1965,Maharashtra,Mumbai,623,₹0,10.4,1,Yes,Active,2009,Savings,BR876
+CUST100507,Amit Jain,M,10/12/1982,Maharashtra,Pune,650,818000,5.2,2,No,Active,2014,Savings,BR659
+CUST100508,Rohan Menon,M,20/05/1996,Madhya Pradesh,Gwalior,762,451800,6.5,1,No,Active,2015,Savings,BR979
+CUST100509,Vivaan Singh,M,29/07/1994,Gujarat,Rajkot,733,706500,4.0,2,Yes,Active,2014,Savings,BR155
+CUST100510,Farhan Naidu,M,16/06/1971,Tamil Nadu,Madurai,839,356800,20.0,1,Yes,active ,2010,Savings,BR273
+CUST100511,Ishaan Verma,M,18/07/2003,Punjab,Ludhiana,NA,"₹53,900",4.5,1,Yes,Inactive,2012,Salary,BR522
+CUST100512,Vivaan Bose,M,06/08/1998,Maharashtra,Nagpur,724,"₹3,17,100",6.2,3,No,Active,2021,Savings,BR670
+CUST100513,Sanjay Gill,M,25/01/1973,Kerala,Kochi,672,₹0,7.2,4,Yes,Inactive,2012,Salary,BR897
+CUST100514,Pooja Bose,F,04/01/1992,Delhi,New Delhi,719,29600,7.8,1,No,Active,2014,Savings,BR352
+CUST100515,Sourav Pillai,M,22/08/1962,Uttar Pradesh,Lucknow,714,₹0,8.4,3,Yes,Inactive,2024,Savings,BR612
+CUST100516,Diya Bose,F,06/06/1966,Karnataka,Mangaluru,NA,"₹41,600",4.1,2,No,Active,2012,Salary,BR883
+CUST100517,Meera Joshi,F,29/06/1976,Telangana,Hyderabad,688,"₹1,69,100",4.9,1,Yes,Active,2008,Savings,BR358
+CUST100518,Karthik Das,M,08/06/1995,Uttar Pradesh,Varanasi,674,"₹92,300",4.5,1,Yes,Inactive,2012,Current,BR269
+CUST100519,Farhan Mishra,M,01/01/1959,Maharashtra,Nagpur,757,265500,7.7,2,Yes,Inactive,2006,Savings,BR901
+CUST100520,Pranav Iyer,M,15/01/1992,Maharashtra,Nagpur,865,161800,4.3,1,No,Inactive,2014,Savings,BR497
+CUST100521,Pallavi Banerjee,F,unknown,Gujarat,Rajkot,695,₹0,10.7,3,n,Active,2005,Salary,BR431
+CUST100522,Sneha Singh,F,22/10/1980,Gujarat,Ahmedabad,748,"₹2,82,000",11.5,2,Yes,Inactive,2024,Salary,BR730
+CUST100523,Rahul Gupta,M,10/06/1984,Uttar Pradesh,Lucknow,647,68200,5.5,1,Yes,Inactive,2022,Savings,BR890
+CUST100524,Ayesha Kulkarni,F,04/11/1993,Uttar Pradesh,Kanpur,688,"₹12,31,700",3.1,3,No,Inactive,2009,Current,BR959
+CUST100525,Nisha Bose,F,16/05/1965,Karnataka,Bengaluru,714,"₹60,700",2.2,1,n,Inactive,2016,Salary,BR664
+CUST100526,Anjali Chatterjee,F,07/05/2001,Uttar Pradesh,Kanpur,591,83100,21.1,1,,Active,2019,Salary,BR651
+CUST100527,Rajesh Mehta,Other,29/09/1992,Maharashtra,Pune,840,372000,14.2,2,No,Inactive,2014,Salary,BR945
+CUST100528,Sourav Shah,M,27/03/1967,Gujarat,Ahmedabad,783,"₹2,09,200",8.0,2,,Inactive,2007,Savings,BR894
+CUST100529,Ramesh Gupta,M,11/03/2004,Gujarat,Surat,771,₹0,5.2,1,Yes,Active,2021,Savings,BR468
+CUST100530,Suresh Gupta,M,05/10/2000,Tamil Nadu,Madurai,577,55200,6.7,1,Yes,Active,2018,Savings,BR385
+CUST100531,Gurpreet Yadav,M,11/09/2003,Maharashtra,Mumbai,750,"₹1,45,000",3.2,1,No,Active,2020,Salary,BR347
+CUST100532,Deepika Naidu,F,20/04/1977,Telangana,Hyderabad,657,"₹35,900",6.9,2,Yes,Active,2007,Salary,BR544
+CUST100533,Vikram Jain,M,09/04/1962,Tamil Nadu,Coimbatore,872,0,7.2,1,Yes,Inactive,2022,Salary,BR843
+CUST100534,Lakshmi Khan,F,07/06/1954,Maharashtra,Pune,661,"₹77,100",5.0,2,Yes,Inactive,2009,Salary,BR251
+CUST100535,Aditi Pillai,F,unknown,Karnataka,Mysuru,688,"₹3,100",3.9,2,No,Active,2016,Savings,BR441
+CUST100536,Vivaan Verma,M,04/11/1960,Uttar Pradesh,Lucknow,718,"₹20,500",6.6,1,Yes,Active,2016,Savings,BR892
+CUST100537,Divya Verma,F,25/02/1990,Telangana,Hyderabad,786,"₹1,02,500",7.2,1,No,Dormant,2009,Savings,BR176
+CUST100538,Imran Rao,M,03/09/1973,Punjab,Ludhiana,813,,6.4,1,Yes,Dormant,2021,Salary,BR679
+CUST100539,Isha Mehta,F,06/01/1974,Tamil Nadu,Chennai,725,"₹65,500",3.8,1,Yes,Inactive,2014,Savings,BR110
+CUST100540,Aarav Gill,M,20/01/1961,Madhya Pradesh,Indore,710,"₹4,20,800",2.5,2,Yes,Inactive,2013,Savings,BR702
+CUST100541,Priya Verma,F,22/05/1997,Uttar Pradesh,Kanpur,762,"₹3,17,800",5.9,2,Yes,Active,2014,Savings,BR813
+CUST100542,Rahul Deshpande,M,02/03/1994,Maharashtra,Nashik,728,190800,7.5,2,No,Active,2019,Current,BR901
+CUST100543,Shreya Gill,F,04/03/1970,West Bengal,Howrah,840,540800,2.5,2,Yes,Active,2011,Salary,BR313
+CUST100544,Divya Reddy,F,25/04/1970,Delhi,New Delhi,762,31300,5.7,2,Yes,Inactive,2024,Savings,BR885
+CUST100545,Vivaan Menon,M,unknown,Kerala,Thiruvananthapuram,660,"₹21,600",2.9,2,Yes,Active,2021,Salary,BR515
+CUST100546,Sneha Kulkarni,F,12/10/1966,Maharashtra,Nagpur,728,"₹26,000",11.3,2,No,Active,2008,Salary,BR762
+CUST100547,Isha Jain,F,02/09/1985,Telangana,Hyderabad,700,"₹29,000",21.9,3,No,Inactive,2006,Savings,BR959
+CUST100548,Diya Yadav,F,01/09/1985,Kerala,Kochi,827,"₹23,400",8.0,2,Yes,Active,2013,Savings,BR338
+CUST100549,Anjali Patel,F,28/07/1991,Telangana,Warangal,722,"₹64,500",9.5,3,Yes,Active,2019,Savings,BR810
+CUST100550,Karthik Menon,M,26/07/1986,Uttar Pradesh,Varanasi,713,"₹2,02,900",2.3,2,Yes,Inactive,2005,Salary,BR285
+CUST100551,Farhan Gupta,M,15/10/1993,Tamil Nadu,Coimbatore,840,61000,20.9,2,Yes,Inactive,2011,Savings,BR218
+CUST100552,Sanjay Chatterjee,M,06/09/1976,Kerala,Kochi,692,"₹53,600",4.4,3,Yes,Inactive,2007,Savings,BR345
+CUST100553,Meera Gill,F,03/05/1996,Uttar Pradesh,Lucknow,683,"₹2,42,800",2.8,2,No,Inactive,2005,Savings,BR562
+CUST100554,Karthik Iyer,M,19/11/1953,Tamil Nadu,Madurai,623,"₹2,25,000",6.1,3,Yes,Inactive,2017,Savings,BR626
+CUST100555,Kavya Deshpande,F,17/09/1982,Uttar Pradesh,Noida,753,140100,3.3,3,Yes,Active,2014,Savings,BR444
+CUST100556,Swati Reddy,F,21/08/1982,Gujarat,Surat,763,292800,11.3,2,Y,Inactive,2006,Salary,BR845
+CUST100557,Priya Gill,F,03/08/1980,Uttar Pradesh,Lucknow,840,192200,7.7,2,No,Inactive,2023,Salary,BR528
+CUST100558,Farhan Menon,M,22/11/1975,Telangana,Warangal,747,,5.7,1,No,Active,2012,Current,BR965
+CUST100559,Aditi Naidu,F,14/09/1987,Rajasthan,Udaipur,745,17300,8.5,2,Yes,Inactive,2011,Savings,BR750
+CUST100560,Karthik Mehta,M,31/05/1977,Maharashtra,Pune,860,"₹17,700",6.6,1,Yes,Active,2007,Salary,BR993
+CUST100561,Riya Banerjee,F,05/07/1981,Delhi,New Delhi,738,107400,3.4,1,Yes,Active,2006,Salary,BR550
+CUST100562,Gurpreet Shah,M,17/11/1979,Telangana,Hyderabad,725,681600,5.4,2,No,Active,2009,Savings,BR453
+CUST100563,Nisha Rao,F,10/05/2000,Tamil Nadu,Coimbatore,878,59100,3.4,2,Yes,Inactive,2023,Savings,BR823
+CUST100564,Pranav Kaur,M,11/05/1974,Karnataka,Mysuru,742,"₹92,200",3.2,2,No,Active,2020,Salary,BR153
+CUST100565,Vivaan Jain,M,25/01/1965,Gujarat,Rajkot,807,50600,8.5,1,Yes,Active,2010,Savings,BR243
+CUST100566,Vikram Deshpande,M,12/06/1978,Tamil Nadu,Chennai,658,NIL,4.4,1,Yes,Active,2023,Savings,BR984
+CUST100567,Fatima Gill,F,10/09/1988,Delhi,New Delhi,710,"₹1,51,900",9.0,3,Yes,Active,2011,Savings,BR530
+CUST100568,Priya Jain,F,23/08/1967,Maharashtra,Nashik,786,344300,6.5,3,No,Dormant,2008,Salary,BR863
+CUST100569,Deepak Iyer,M,27/09/1961,Madhya Pradesh,Bhopal,743,33700,12.2,1,No,Inactive,2016,Current,BR423
+CUST100570,Lakshmi Yadav,F,30/10/1968,Delhi,New Delhi,820,9100,2.2,1,No,Inactive,2013,Savings,BR745
+CUST100571,Ayesha Verma,F,22/03/1960,Punjab,Ludhiana,849,₹0,1.6,2,Yes,Inactive,2024,Salary,BR817
+CUST100572,Sourav Nair,M,29/09/1996,Uttar Pradesh,Lucknow,711,1030100,6.5,1,Yes,Active,2017,Savings,BR657
+CUST100573,Ankit Iyer,M,05/02/2003,Maharashtra,Nagpur,728,31100,2.5,2,No,Active,2018,Savings,BR261
+CUST100574,Imran Joshi,M,28/09/1958,Gujarat,Surat,616,42800,6.0,3,No,Active,2010,Savings,BR936
+CUST100575,Pranav Singh,Other,13/05/1965,Kerala,Kochi,NA,"₹68,100",2.7,1,Yes,Active,2021,Savings,BR137
+CUST100576,Vikram Joshi,M,04/10/1970,Tamil Nadu,Madurai,730,52900,1.9,1,No,Active,2018,Current,BR184
+CUST100577,Aditi Joshi,F,25/03/2003,Tamil Nadu,Coimbatore,745,226700,6.1,2,Yes,Active,2009,Savings,BR347
+CUST100578,Imran Gill,M,29/07/2003,Gujarat,Vadodara,754,"₹55,100",9.1,1,Yes,Active,2012,Savings,BR681
+CUST100579,Fatima Ahmed,F,15/04/1958,Telangana,Hyderabad,717,148200,15.7,3,Yes,Active,2008,Savings,BR990
+CUST100580,Anil Kulkarni,M,28/09/1959,Gujarat,Rajkot,815,44400,5.8,2,No,Active,2011,Savings,BR633
+CUST100581,Isha Nair,F,,Delhi,New Delhi,822,16700,4.8,1,Y,Inactive,2009,Savings,BR764
+CUST100582,Imran Jain,M,23/10/1967,Uttar Pradesh,Varanasi,821,"₹1,84,100",3.7,2,Yes,Active,2005,Savings,BR407
+CUST100583,Aarav Yadav,M,15/06/1994,Gujarat,Rajkot,-1,17600,7.4,1,Yes,Inactive,2023,Salary,BR676
+CUST100584,Harish Yadav,M,31/01/1972,Telangana,Hyderabad,667,98800,4.8,2,No,Active,2025,Salary,BR472
+CUST100585,Sneha Pillai,F,28/09/1955,West Bengal,Kolkata,654,"₹46,100",2.7,1,No,Inactive,2010,Savings,BR526
+CUST100586,Shreya Sharma,F,20/05/1969,Madhya Pradesh,Bhopal,735,"₹12,28,300",6.8,1,Yes,Active,2012,Savings,BR569
+CUST100587,Pallavi Khan,F,31/01/1955,Delhi,New Delhi,752,"₹73,600",4.7,2,Yes,Inactive,2010,Savings,BR727
+CUST100588,Isha Mishra,F,11/12/2004,Karnataka,Bengaluru,839,"₹5,48,900",3.1,2,Yes,Inactive,2018,Savings,BR760
+CUST100589,Ishaan Gill,M,03/05/1994,Delhi,New Delhi,757,"₹34,400",8.1,2,Yes,Active,2009,Salary,BR358
+CUST100590,Manoj Das,M,29/11/1996,Delhi,New Delhi,745,"₹3,20,300",6.6,2,Yes,Active,2021,Salary,BR510
+CUST100591,Fatima Gupta,F,21/08/1954,Madhya Pradesh,Indore,722,46400,5.2,1,No,Active,2017,Savings,BR778
+CUST100592,Ananya Mishra,F,14/02/1992,Maharashtra,Nagpur,,16500,5.2,1,No,Active,2008,Savings,BR159
+CUST100593,Rohan Shah,M,11/12/1981,Uttar Pradesh,Lucknow,683,"₹2,23,100",4.5,2,No,Inactive,2024,Current,BR146
+CUST100594,Isha Naidu,F,21/07/1954,Gujarat,Ahmedabad,755,0,5.1,1,Yes,Active,2025,Salary,BR235
+CUST100595,Priya Mehta,F,02/05/2003,Karnataka,Mangaluru,739,"₹7,64,900",3.8,1,No,,2025,Salary,BR272
+CUST100596,Imran Menon,M,16/03/1980,Uttar Pradesh,Varanasi,695,₹0,3.2,2,Yes,Inactive,2009,Savings,BR872
+CUST100597,Fatima Das,F,21/04/1988,Gujarat,Vadodara,NA,38200,2.4,1,n,Active,2017,Savings,BR967
+CUST100598,Diya Bose,F,21/06/1988,Maharashtra,Pune,762,305400,12.8,4,Yes,Active,2025,Savings,BR774
+CUST100599,Priya Deshpande,F,14/11/1975,Kerala,Kochi,716,"₹1,35,300",10.5,1,No,Active,2011,Savings,BR140
+CUST100600,Suresh Iyer,M,07/12/1987,Madhya Pradesh,Indore,636,"₹2,58,900",8.3,2,Yes,Inactive,2025,Savings,BR513
+CUST100601,Kabir Kulkarni,Other,13/10/1992,Madhya Pradesh,Bhopal,676,"₹33,700",9.9,2,Yes,Inactive,2024,Savings,BR201
+CUST100602,Swati Iyer,F,02/03/1991,Delhi,New Delhi,732,"₹96,800",4.6,1,Yes,Active,2011,Salary,BR165
+CUST100603,Sunita Rao,F,27/05/1974,Uttar Pradesh,Varanasi,713,1159900,9.4,1,Yes,Dormant,2013,Savings,BR674
+CUST100604,Kiran Naidu,F,unknown,Madhya Pradesh,Bhopal,589,453600,3.8,1,Yes,Dormant,2021,Savings,BR178
+CUST100605,Ankit Agarwal,M,12/01/1991,Rajasthan,Jaipur,-1,"₹2,38,400",6.2,1,Yes,Inactive,2023,Savings,BR667
+CUST100606,Arjun Gupta,M,13/05/1967,Uttar Pradesh,Lucknow,684,114300,4.3,2,Yes,Active,2021,Salary,BR655
+CUST100607,Harish Naidu,M,02/01/1977,Karnataka,Bengaluru,779,403400,5.5,4,Yes,Inactive,2013,Savings,BR534
+CUST100608,Isha Bose,F,23/03/1969,Tamil Nadu,Madurai,630,"₹1,42,100",4.5,1,Yes,Inactive,2016,Savings,BR421
+CUST100609,Anil Joshi,M,unknown,Kerala,Thiruvananthapuram,669,928700,11.1,1,Yes,Active,2023,Salary,BR949
+CUST100610,Nisha Pillai,F,12/11/1983,Telangana,Hyderabad,694,NIL,7.4,3,Yes,Active,2018,Savings,BR176
+CUST100611,Arjun Mishra,M,21/12/1969,Karnataka,Mangaluru,852,61400,5.7,2,No,Active,2006,Savings,BR945
+CUST100612,Aarav Singh,M,29/09/1990,Maharashtra,Mumbai,744,"₹18,700",4.5,1,Yes,Inactive,2022,Salary,BR484
+CUST100613,Rahul Patel,M,02/01/1956,Tamil Nadu,Coimbatore,737,"₹1,26,700",3.5,2,No,Inactive,2009,Salary,BR578
+CUST100614,Aarav Kaur,M,23/06/1992,Uttar Pradesh,Kanpur,794,19500,4.7,1,Yes,Dormant,2017,Savings,BR453
+CUST100615,Diya Singh,F,01/12/1971,Uttar Pradesh,Kanpur,792,96500,1.3,1,No,Inactive,2010,Savings,BR769
+CUST100616,Ishaan Banerjee,M,06/01/1999,Delhi,New Delhi,706,174400,8.1,1,Yes,Dormant,2022,Savings,BR118
+CUST100617,Rohan Reddy,M,28/09/2003,Maharashtra,Pune,809,24100,3.2,4,No,Active,2014,Savings,BR382
+CUST100618,Nisha Menon,F,19/05/2002,Maharashtra,Pune,669,₹0,5.8,1,Yes,Dormant,2014,Savings,BR488
+CUST100619,Rohan Gupta,M,29/03/1955,Madhya Pradesh,Gwalior,679,"₹74,900",3.3,1,Yes,Inactive,2017,Savings,BR391
+CUST100620,Kabir Jain,M,06/04/1958,Punjab,Amritsar,678,66900,5.2,1,Yes,Active,2015,Savings,BR924
+CUST100621,Imran Deshpande,M,10/08/1990,Gujarat,Surat,-1,"₹12,600",1.5,2,No,Active,2007,Savings,BR170
+CUST100622,Isha Gupta,F,03/12/1994,Rajasthan,Jaipur,639,"₹1,15,000",3.4,2,Yes,Inactive,2017,Current,BR141
+CUST100623,Swati Shah,F,20/04/1989,West Bengal,Howrah,768,0,12.3,1,Yes,Inactive,2022,Salary,BR810
+CUST100624,Ankit Khan,M,28/08/1987,Punjab,Ludhiana,768,116700,2.1,1,Yes,Inactive,2022,Savings,BR177
+CUST100625,Karthik Deshpande,M,23/10/2001,Gujarat,Vadodara,769,72000,6.6,1,No,Active,2022,Salary,BR363
+CUST100626,Aditi Gill,F,07/07/1999,Rajasthan,Jaipur,898,203500,7.9,2,No,Dormant,2010,Current,BR769
+CUST100627,Rekha Mehta,F,12/06/1964,Telangana,Hyderabad,593,88400,12.8,1,Yes,Active,2022,Salary,BR761
+CUST100628,Simran Naidu,F,17/09/1983,Uttar Pradesh,Varanasi,760,"₹5,65,900",7.8,2,No,active ,2006,Salary,BR608
+CUST100629,Ayesha Mishra,F,28/01/1980,Tamil Nadu,Madurai,725,266900,3.1,1,No,active ,2005,Savings,BR421
+CUST100630,Nisha Mehta,F,24/08/1984,Madhya Pradesh,Bhopal,730,187800,5.5,4,No,Inactive,2015,Current,BR665
+CUST100631,Anjali Iyer,F,25/10/1980,Punjab,Ludhiana,587,₹0,6.3,3,Yes,Dormant,2021,Savings,BR822
+CUST100632,Sneha Mehta,F,16/04/2002,Madhya Pradesh,Bhopal,746,"₹2,01,800",5.9,1,No,Active,2024,Current,BR758
+CUST100633,Rekha Joshi,F,06/05/1982,Gujarat,Rajkot,750,"₹3,25,200",4.8,1,No,Active,2015,Salary,BR912
+CUST100634,Shreya Gupta,F,29/01/1963,Tamil Nadu,Madurai,821,137300,3.9,2,Yes,Inactive,2016,Savings,BR558
+CUST100635,Amit Khan,M,17/10/1980,Karnataka,Mysuru,617,"₹7,10,800",4.9,1,Yes,Inactive,2021,Savings,BR180
+CUST100636,Anjali Bose,F,12/02/1979,Kerala,Thiruvananthapuram,676,1.2 Cr,7.7,1,Yes,Inactive,2015,Salary,BR449
+CUST100637,Sneha Ahmed,F,02/07/1963,Maharashtra,Nagpur,-1,"₹76,500",15.1,1,Yes,Inactive,2014,Savings,BR273
+CUST100638,Vikram Gupta,M,16/10/1986,Kerala,Thiruvananthapuram,817,"₹7,01,300",6.8,2,Yes,Inactive,2024,Salary,BR683
+CUST100639,Pallavi Mishra,F,31/07/1999,Uttar Pradesh,Varanasi,767,"₹25,400",4.4,2,No,Inactive,2025,Salary,BR532
+CUST100640,Aarav Mishra,M,01/11/2005,Maharashtra,Mumbai,804,101600,3.5,2,Yes,Active,2021,Savings,BR275
+CUST100641,Farhan Sharma,M,26/03/1975,Uttar Pradesh,Varanasi,739,42000,3.9,1,Yes,Inactive,2022,Savings,BR596
+CUST100642,Neha Patel,F,03/11/1984,Delhi,New Delhi,687,94500,10.8,1,No,Active,2008,Savings,BR195
+CUST100643,Kavya Sharma,F,03/08/1974,Delhi,New Delhi,796,61900,9.0,2,No,Inactive,2018,Savings,BR188
+CUST100644,Ankit Sharma,M,24/11/1978,Maharashtra,Pune,812,41200,4.7,2,Yes,Active,2011,Savings,BR354
+CUST100645,Sanjay Verma,M,31/12/1953,Uttar Pradesh,Varanasi,814,43800,4.4,4,No,,2006,Savings,BR572
+CUST100646,Aditi Menon,F,17/01/1993,Maharashtra,Mumbai,801,284600,8.6,3,Yes,Dormant,2020,Salary,BR943
+CUST100647,Vikram Shah,M,06/02/2002,Delhi,New Delhi,684,"₹91,700",6.6,2,Yes,Active,2019,Salary,BR852
+CUST100648,Ishaan Ahmed,M,16/09/1986,Madhya Pradesh,Gwalior,756,126600,17.7,2,Yes,Active,2021,Current,BR324
+CUST100649,Gurpreet Ahmed,M,24/06/1954,Madhya Pradesh,Gwalior,-1,190800,5.6,1,No,Active,2022,Current,BR505
+CUST100650,Rohan Bose,M,10/10/1978,Kerala,Kochi,589,35400,2.7,1,Yes,Active,2013,Savings,BR207
+CUST100651,Aditya Nair,M,07/05/1969,Maharashtra,Nagpur,653,"₹5,42,800",11.8,2,Yes,Active,2010,Savings,BR560
+CUST100652,Nisha Pillai,F,02/06/1974,Gujarat,Vadodara,769,107600,2.5,1,Yes,Active,2009,Salary,BR845
+CUST100653,Rahul Shah,M,25/05/1999,West Bengal,Kolkata,775,"₹1,66,700",2.3,1,Yes,Active,2017,Savings,BR155
+CUST100654,Vivaan Kulkarni,M,16/07/1988,Tamil Nadu,Madurai,663,,6.5,2,Yes,Inactive,2005,Current,BR222
+CUST100655,Anil Jain,M,26/12/1985,Uttar Pradesh,Kanpur,709,"₹21,400",4.3,2,Yes,Active,2009,Savings,BR991
+CUST100656,Sunita Yadav,F,05/04/1997,Maharashtra,Pune,734,143500,7.9,2,No,Inactive,2021,Salary,BR475
+CUST100657,Arjun Das,M,04/07/1958,Uttar Pradesh,Varanasi,792,221900,9.1,1,No,Active,2020,Savings,BR776
+CUST100658,Karthik Yadav,M,19/09/1969,Delhi,New Delhi,741,"₹1,90,900",4.8,1,Yes,active ,2013,Savings,BR853
+CUST100659,Aditya Rao,M,20/04/2001,Karnataka,Bengaluru,858,0,7.6,1,No,Inactive,2008,Savings,BR552
+CUST100660,Deepika Patel,F,29/03/1998,Maharashtra,Nagpur,765,"₹1,28,900",9.0,1,No,Active,2016,Savings,BR655
+CUST100661,Swati Iyer,F,29/07/1983,Gujarat,Ahmedabad,750,"₹1,70,500",7.3,1,No,Inactive,2013,Savings,BR992
+CUST100662,Diya Rao,F,28/04/1987,Uttar Pradesh,Lucknow,726,"₹21,500",4.1,1,No,Inactive,2010,Salary,BR975
+CUST100663,Isha Gill,F,unknown,Karnataka,Mangaluru,682,39500,5.1,1,No,active ,2010,Savings,BR251
+CUST100664,Suresh Nair,M,09/10/1963,Kerala,Kochi,602,"₹72,700",19.1,1,Yes,Active,2008,Salary,BR234
+CUST100665,Sunita Sharma,F,28/06/1959,Maharashtra,Pune,673,"₹15,400",7.5,3,No,Active,2011,Current,BR896
+CUST100666,Suresh Yadav,M,13/12/1966,West Bengal,Howrah,736,"₹6,05,900",5.7,3,Yes,Inactive,2009,Savings,BR516
+CUST100667,Diya Ahmed,F,13/06/1955,Tamil Nadu,Madurai,NA,"₹73,300",3.0,1,No,Active,2014,Current,BR506
+CUST100668,Kiran Agarwal,F,10/07/1997,Gujarat,Rajkot,728,"₹16,100",4.6,1,Yes,Active,2022,Savings,BR782
+CUST100669,Anjali Gupta,F,19/10/1979,Maharashtra,Mumbai,764,62900,2.8,1,No,Active,2024,Salary,BR935
+CUST100670,Divya Gupta,F,27/08/1984,Maharashtra,Mumbai,704,"₹68,000",2.3,1,No,Active,2024,Salary,BR465
+CUST100671,Vivaan Agarwal,M,27/03/1995,Gujarat,Vadodara,597,"₹46,700",8.2,1,Yes,Active,2023,Savings,BR645
+CUST100672,Ayesha Jain,F,09/10/1981,Maharashtra,Pune,830,"₹62,700",4.8,1,Yes,Active,2018,Savings,BR727
+CUST100673,Isha Reddy,F,01/09/1959,Tamil Nadu,Madurai,672,99300,3.9,1,No,Active,2022,Salary,BR828
+CUST100674,Aditi Rao,F,14/02/1987,Maharashtra,Nashik,NA,178500,5.7,1,No,Inactive,2016,Salary,BR370
+CUST100675,Isha Sharma,F,12/02/1993,Kerala,Thiruvananthapuram,780,"₹1,14,900",9.4,1,No,Inactive,2021,Salary,BR631
+CUST100676,Riya Shah,F,07/06/2005,Maharashtra,Pune,750,55400,10.9,3,No,Inactive,2008,Salary,BR380
+CUST100677,Sanjay Deshpande,M,24/12/1957,West Bengal,Howrah,663,"₹1,02,800",7.6,2,Yes,Dormant,2010,Savings,BR300
+CUST100678,Manoj Yadav,M,14/06/1976,Delhi,New Delhi,622,"₹1,54,100",7.0,1,Yes,Active,2025,Salary,BR580
+CUST100679,Priya Rao,F,11/03/1978,Maharashtra,Nashik,747,"₹1,21,200",2.2,2,No,Active,2020,Savings,BR673
+CUST100680,Gurpreet Singh,M,28/05/1967,Gujarat,Rajkot,782,"₹24,800",7.2,2,No,Active,2011,Savings,BR862
+CUST100681,Diya Mishra,F,19/08/2000,West Bengal,Kolkata,648,"₹22,500",1.3,2,Yes,Active,2023,Salary,BR200
+CUST100682,Deepak Iyer,M,15/09/1963,Karnataka,Bengaluru,680,"₹1,11,000",6.2,2,Yes,Inactive,2005,Salary,BR255
+CUST100683,Nisha Shah,F,10/02/2000,Rajasthan,Jaipur,640,30600,9.7,2,Yes,Active,2015,Salary,BR224
+CUST100684,Aditi Verma,F,14/05/1991,Maharashtra,Nashik,580,10100,4.7,1,Yes,Inactive,2012,Savings,BR135
+CUST100685,Sourav Banerjee,M,26/04/1960,Rajasthan,Jaipur,711,2.5 lakh,3.7,2,Yes,Inactive,2019,Savings,BR814
+CUST100686,Fatima Deshpande,F,25/11/1958,Rajasthan,Jaipur,721,325200,5.9,1,Yes,Inactive,2011,Current,BR451
+CUST100687,Pallavi Khan,F,01/06/1966,Uttar Pradesh,Lucknow,772,111800,4.2,2,No,Active,2014,Savings,BR204
+CUST100688,Arjun Khan,M,23/10/1971,Maharashtra,Nagpur,709,"₹3,58,600",18.6,1,Yes,Active,2015,Savings,BR766
+CUST100689,Farhan Menon,M,10/05/1982,Uttar Pradesh,Lucknow,660,327600,11.6,2,No,Dormant,2018,Savings,BR800
+CUST100690,Karthik Gill,M,15/05/1984,Uttar Pradesh,Kanpur,703,"₹37,900",9.5,1,Yes,Active,2015,Current,BR855
+CUST100691,Nisha Gupta,F,02/12/1977,West Bengal,Howrah,688,"₹52,000",3.5,1,No,Inactive,2021,Savings,BR674
+CUST100692,Lakshmi Iyer,F,23/11/1978,West Bengal,Kolkata,703,₹0,8.3,4,No,Inactive,2016,Savings,BR979
+CUST100693,Aditya Shah,M,22/12/1958,Madhya Pradesh,Gwalior,830,"₹2,26,400",3.9,1,No,Inactive,2023,Savings,BR399
+CUST100694,Sneha Kulkarni,F,26/11/1977,Delhi,New Delhi,738,₹0,10.4,2,No,Active,2021,Savings,BR165
+CUST100695,Rahul Iyer,M,07/09/1961,Karnataka,Mysuru,751,"₹2,09,600",1.8,2,No,Inactive,2019,Savings,BR109
+CUST100696,Nisha Iyer,F,21/05/1986,Kerala,Kochi,800,110100,5.4,1,No,Inactive,2020,Salary,BR811
+CUST100697,Kiran Pillai,F,16/08/1960,Delhi,New Delhi,787,"₹96,800",12.8,1,No,Active,2005,Savings,BR979
+CUST100698,Anil Kaur,M,26/11/1981,Tamil Nadu,Chennai,780,92300,5.8,2,Yes,Inactive,2015,Savings,BR227
+CUST100699,Suresh Gill,M,02/01/1979,Karnataka,Mysuru,690,2.5 lakh,5.8,1,Yes,Dormant,2020,Savings,BR723
+CUST100700,Pranav Nair,M,14/07/1990,Gujarat,Rajkot,775,121700,5.2,4,Yes,Active,2018,Savings,BR810
+CUST100701,Harish Patel,M,,Maharashtra,Pune,639,337200,7.4,2,Yes,Active,2016,Savings,BR339
+CUST100702,Imran Kaur,M,01/06/1974,West Bengal,Howrah,724,213700,1.0,1,No,Inactive,2007,Savings,BR431
+CUST100703,Riya Sharma,F,14/08/1962,Kerala,Thiruvananthapuram,719,"₹10,600",2.7,1,Yes,Active,2016,Savings,BR924
+CUST100704,Riya Ahmed,F,20/01/1969,Karnataka,Mangaluru,749,"₹4,57,300",8.0,1,Yes,Active,2008,Savings,BR416
+CUST100705,Divya Nair,F,01/10/1995,Tamil Nadu,Madurai,671,"₹19,29,700",4.1,3,No,Inactive,2019,Savings,BR689
+CUST100706,Vikram Singh,M,14/01/1987,Maharashtra,Nagpur,657,"₹1,10,200",7.7,1,Yes,Inactive,2018,Savings,BR187
+CUST100707,Aarav Shah,M,18/11/1995,Delhi,New Delhi,736,0,8.7,2,Yes,Active,2021,Current,BR576
+CUST100708,Pooja Joshi,F,21/10/1960,Maharashtra,Mumbai,723,"₹1,79,600",8.8,1,Yes,,2015,Savings,BR915
+CUST100709,Ishaan Rao,M,07/03/1994,Gujarat,Vadodara,703,"₹35,800",3.5,1,Yes,Active,2007,Savings,BR934
+CUST100710,Pallavi Menon,F,04/09/1967,Tamil Nadu,Chennai,736,"₹91,300",1.6,2,Yes,Active,2014,Salary,BR525
+CUST100711,Ishaan Pillai,M,14/10/2002,Tamil Nadu,Chennai,614,"₹5,38,600",4.9,1,No,Active,2012,Salary,BR863
+CUST100712,Suresh Gill,M,21/09/1991,Uttar Pradesh,Kanpur,NA,212800,3.1,1,Yes,Inactive,2022,Savings,BR781
+CUST100713,Sanjay Khan,M,20/02/1970,Telangana,Warangal,735,0,7.2,3,No,Inactive,2019,Savings,BR141
+CUST100714,Kiran Joshi,F,30/01/1976,Gujarat,Rajkot,730,112700,8.0,2,No,Dormant,2017,Savings,BR683
+CUST100715,Kabir Gupta,M,21/08/2002,Delhi,New Delhi,639,"₹87,000",2.0,1,No,Active,2023,Savings,BR208
+CUST100716,Rohan Mishra,M,02/12/1980,Karnataka,Bengaluru,734,415000,6.5,1,No,Active,2015,Salary,BR836
+CUST100717,Ishaan Pillai,M,09/12/1997,Uttar Pradesh,Varanasi,857,"₹1,53,100",6.7,1,No,Active,2024,Savings,BR156
+CUST100718,Riya Singh,F,21/02/2001,Uttar Pradesh,Kanpur,801,"₹85,100",4.0,3,No,Active,2021,Salary,BR151
+CUST100719,Kavya Chauhan,F,08/12/1997,Uttar Pradesh,Noida,753,44700,17.1,1,No,Inactive,2022,Savings,BR687
+CUST100720,Rahul Reddy,M,14/05/1976,Uttar Pradesh,Lucknow,668,128600,3.3,1,No,Active,2009,Savings,BR809
+CUST100721,Pallavi Shah,F,08/06/1967,Tamil Nadu,Coimbatore,767,36500,7.3,3,No,Inactive,2015,Savings,BR511
+CUST100722,Gurpreet Khan,M,24/07/1971,Punjab,Amritsar,834,51500,8.7,1,Yes,Active,2009,Salary,BR279
+CUST100723,Amit Chauhan,M,29/07/2004,Rajasthan,Jodhpur,847,"₹46,400",12.2,2,Yes,Active,2016,Savings,BR212
+CUST100724,Sourav Reddy,M,15/06/1995,Gujarat,Rajkot,738,"₹90,800",4.5,2,Yes,Inactive,2012,Salary,BR396
+CUST100725,Aditya Verma,M,19/10/1973,West Bengal,Howrah,704,1141900,12.5,2,Yes,Active,2020,Savings,BR966
+CUST100726,Rekha Gupta,F,30/04/1977,West Bengal,Kolkata,844,85200,3.6,1,Yes,Active,2017,Savings,BR143
+CUST100727,Shreya Mehta,F,13/09/1991,Karnataka,Bengaluru,796,"₹86,900",4.3,2,Yes,active ,2016,Savings,BR398
+CUST100728,Swati Rao,F,,West Bengal,Howrah,637,66600,4.7,3,No,Active,2025,Salary,BR730
+CUST100729,Simran Nair,F,20/07/1963,Rajasthan,Jodhpur,776,"₹6,700",4.1,2,Yes,Inactive,2019,Savings,BR468
+CUST100730,Aarav Kaur,M,08/01/1983,Karnataka,Bengaluru,605,1.2 Cr,7.4,4,No,Active,2021,Salary,BR992
+CUST100731,Priya Menon,F,24/06/1983,Tamil Nadu,Chennai,NA,"₹7,34,300",12.7,2,n,Active,2005,Savings,BR153
+CUST100732,Ankit Verma,M,15/05/2001,Maharashtra,Nashik,900,"₹37,400",3.7,1,No,Inactive,2024,Savings,BR923
+CUST100733,Aditya Singh,M,16/05/1988,Rajasthan,Jaipur,731,"₹6,47,800",3.9,1,Yes,Inactive,2010,Salary,BR825
+CUST100734,Ananya Yadav,F,27/08/1991,Telangana,Hyderabad,704,269200,5.3,2,Yes,Inactive,2010,Savings,BR257
+CUST100735,Ayesha Bose,F,17/03/1998,Tamil Nadu,Madurai,672,212600,6.3,1,No,Active,2015,Savings,BR691
+CUST100736,Karthik Banerjee,M,16/08/1973,Gujarat,Vadodara,814,"₹1,60,100",5.9,2,Yes,Active,2008,Savings,BR439
+CUST100737,Vivaan Gill,M,13/10/1962,Gujarat,Ahmedabad,787,78800,12.7,1,Yes,Active,2024,Savings,BR551
+CUST100738,Imran Chauhan,M,17/04/1983,Maharashtra,Nagpur,747,"₹2,48,400",3.1,2,Yes,Inactive,2020,Savings,BR472
+CUST100739,Pranav Gill,M,23/09/1983,Kerala,Kochi,688,127400,8.7,2,Yes,Active,2006,Current,BR769
+CUST100740,Fatima Rao,F,11/04/2001,Telangana,Warangal,766,211200,3.8,2,Y,Active,2021,Salary,BR379
+CUST100741,Simran Reddy,F,08/07/1986,Madhya Pradesh,Indore,NA,"₹47,300",6.7,2,No,Active,2005,Savings,BR783
+CUST100742,Aditi Banerjee,F,02/10/2001,Karnataka,Bengaluru,755,"₹33,700",3.5,1,No,Active,2021,Current,BR784
+CUST100743,Aarav Menon,M,31/03/1977,Madhya Pradesh,Bhopal,722,"₹2,36,400",18.8,1,Yes,Active,2017,Savings,BR858
+CUST100744,Ramesh Gill,M,16/10/1991,Rajasthan,Udaipur,646,₹0,5.8,1,No,Active,2024,Salary,BR378
+CUST100745,Anil Reddy,M,08/05/1992,Gujarat,Surat,832,53700,9.6,3,No,Inactive,2021,Savings,BR269
+CUST100746,Vivaan Iyer,M,29/03/1997,Delhi,New Delhi,693,"₹73,900",6.2,2,Yes,Dormant,2017,Savings,BR182
+CUST100747,Amit Patel,M,21/07/1968,Rajasthan,Jaipur,655,"₹1,57,300",3.4,1,No,Inactive,2023,Savings,BR667
+CUST100748,Kavya Pillai,F,06/07/2000,West Bengal,Howrah,680,"₹1,67,000",1.4,2,Yes,Inactive,2019,Savings,BR254
+CUST100749,Arjun Shah,M,06/11/1975,Maharashtra,Nashik,711,"₹77,600",9.7,1,Yes,Dormant,2010,Savings,BR732
+CUST100750,Ankit Kaur,M,07/10/1956,West Bengal,Kolkata,614,"₹4,18,200",6.8,1,No,Active,2019,Savings,BR480
+CUST100751,Ishaan Pillai,M,01/03/1956,Uttar Pradesh,Lucknow,556,334000,6.7,1,No,Inactive,2006,Salary,BR413
+CUST100752,Kiran Jain,F,29/06/2004,Maharashtra,Mumbai,642,109000,6.0,2,Yes,Active,2009,Salary,BR918
+CUST100753,Deepika Iyer,F,07/03/1984,Delhi,New Delhi,718,"₹2,28,400",2.4,1,No,Dormant,2023,Savings,BR475
+CUST100754,Farhan Gill,M,23/11/1978,Maharashtra,Nagpur,-1,"₹78,900",6.0,2,Yes,Inactive,2022,Savings,BR523
+CUST100755,Isha Yadav,F,24/01/1966,West Bengal,Kolkata,805,49700,4.5,1,No,Active,2007,Savings,BR664
+CUST100756,Anjali Kulkarni,F,31/10/1993,Karnataka,Mysuru,621,2.5 lakh,20.9,1,No,Active,2014,Savings,BR289
+CUST100757,Kiran Banerjee,F,16/06/2005,Maharashtra,Nagpur,726,"₹68,000",6.6,1,Yes,Inactive,2014,Savings,BR450
+CUST100758,Gurpreet Das,M,16/02/1981,Punjab,Ludhiana,NA,"₹94,900",4.2,1,Yes,Active,2022,Salary,BR318
+CUST100759,Rahul Iyer,M,28/08/1969,Gujarat,Vadodara,771,47400,5.9,3,No,Inactive,2012,Current,BR432
+CUST100760,Riya Banerjee,F,16/04/1991,Maharashtra,Nashik,675,20400,3.0,1,No,Dormant,2007,Savings,BR447
+CUST100761,Aditya Jain,M,10/09/2002,Maharashtra,Mumbai,674,0,7.0,1,Yes,Inactive,2020,Savings,BR594
+CUST100762,Farhan Reddy,M,03/10/2001,Rajasthan,Jodhpur,673,"₹74,000",2.9,1,No,Active,2021,Salary,BR447
+CUST100763,Shreya Nair,F,28/08/2004,Uttar Pradesh,Lucknow,685,"₹33,300",7.1,2,No,Dormant,2008,Salary,BR855
+CUST100764,Anil Deshpande,M,04/05/1971,Gujarat,Vadodara,774,"₹37,400",5.0,2,Yes,Active,2020,Salary,BR994
+CUST100765,Rajesh Singh,M,19/10/1995,Rajasthan,Jaipur,696,,22.9,2,Yes,Active,2013,Salary,BR414
+CUST100766,Aditi Gupta,F,23/08/1955,Tamil Nadu,Coimbatore,684,257500,4.0,1,Yes,Inactive,2024,Salary,BR630
+CUST100767,Aditya Gupta,M,unknown,Uttar Pradesh,Lucknow,712,"₹1,38,100",9.0,1,Yes,Dormant,2024,Savings,BR321
+CUST100768,Gurpreet Chauhan,M,28/04/1959,Delhi,New Delhi,812,"₹98,900",1.8,1,Yes,Active,2017,Savings,BR260
+CUST100769,Anjali Mehta,F,30/01/1978,Delhi,New Delhi,631,96100,2.9,1,Yes,Inactive,2008,Savings,BR585
+CUST100770,Arjun Banerjee,M,08/12/1985,Uttar Pradesh,Varanasi,725,"₹51,500",15.7,1,Yes,Dormant,2020,Salary,BR504
+CUST100771,Riya Shah,F,13/07/1966,Telangana,Hyderabad,630,40300,19.3,1,Yes,Active,2018,Savings,BR722
+CUST100772,Neha Chauhan,F,14/01/1990,Karnataka,Mysuru,754,"₹1,17,500",2.4,1,Yes,Inactive,2022,Salary,BR912
+CUST100773,Ramesh Yadav,M,22/10/1972,Delhi,New Delhi,739,"₹81,000",2.6,1,Yes,Dormant,2021,Savings,BR617
+CUST100774,Shreya Rao,F,20/09/1995,Maharashtra,Mumbai,677,176900,5.0,3,Yes,Active,2023,Salary,BR764
+CUST100775,Isha Das,F,,Telangana,Hyderabad,808,28400,3.6,1,Yes,Active,2018,Savings,BR420
+CUST100776,Aditya Verma,M,03/12/1971,West Bengal,Kolkata,717,"₹3,20,700",10.7,2,No,Dormant,2011,Savings,BR781
+CUST100777,Rahul Iyer,M,11/04/1996,Madhya Pradesh,Bhopal,741,"₹70,100",2.5,2,Yes,active ,2020,Savings,BR297
+CUST100778,Sourav Mishra,M,16/03/1972,Rajasthan,Jaipur,694,2.5 lakh,12.9,2,No,Active,2023,Current,BR465
+CUST100779,Ananya Das,F,25/09/1977,Gujarat,Surat,NA,"₹34,600",4.6,3,No,Active,2021,Current,BR987
+CUST100780,Vikram Khan,M,31/05/1982,Gujarat,Vadodara,700,2.5 lakh,6.9,2,Yes,Active,2008,Savings,BR785
+CUST100781,Harish Shah,M,08/07/2001,Punjab,Amritsar,757,"₹1,79,400",4.8,2,Yes,Active,2013,Salary,BR565
+CUST100782,Rohan Khan,M,12/06/1961,Maharashtra,Pune,622,469700,3.8,2,Yes,Dormant,2007,Savings,BR813
+CUST100783,Pooja Naidu,F,02/08/1975,Delhi,New Delhi,639,"₹2,97,400",3.3,2,No,Dormant,2020,Savings,BR282
+CUST100784,Sanjay Deshpande,M,23/10/1982,Karnataka,Mangaluru,765,"₹82,400",4.0,1,Yes,Inactive,2014,Salary,BR254
+CUST100785,Deepika Chauhan,F,29/12/1974,Tamil Nadu,Coimbatore,754,101000,2.8,1,Yes,Active,2013,Savings,BR576
+CUST100786,Simran Kaur,F,23/04/1984,Kerala,Thiruvananthapuram,NA,₹0,15.3,1,No,Active,2011,Savings,BR362
+CUST100787,Ankit Jain,M,05/07/1962,Maharashtra,Nagpur,670,177900,3.9,1,Yes,Active,2005,Current,BR175
+CUST100788,Ramesh Pillai,M,22/03/1957,Tamil Nadu,Chennai,754,311300,3.0,3,No,Inactive,2007,Savings,BR236
+CUST100789,Pooja Singh,F,06/06/1984,Telangana,Hyderabad,762,402300,4.5,3,Yes,Active,2007,Savings,BR735
+CUST100790,Ayesha Verma,F,11/08/1979,Telangana,Warangal,727,38300,15.2,3,Yes,Inactive,2024,Savings,BR150
+CUST100791,Priya Yadav,F,15/05/1959,Kerala,Thiruvananthapuram,690,374300,7.0,3,Yes,Active,2025,Savings,BR937
+CUST100792,Kavya Reddy,F,19/07/1966,Uttar Pradesh,Noida,717,243600,1.8,2,,Dormant,2021,Savings,BR702
+CUST100793,Deepak Menon,M,11/12/1995,Rajasthan,Udaipur,807,"₹92,300",13.9,1,Yes,Active,2016,Salary,BR696
+CUST100794,Meera Das,F,25/09/1981,Telangana,Hyderabad,743,89900,5.6,2,Yes,Active,2012,Salary,BR252
+CUST100795,Diya Reddy,F,09/05/2001,Madhya Pradesh,Gwalior,698,"₹3,79,800",1.4,2,No,Inactive,2012,Salary,BR111
+CUST100796,Aditya Patel,M,01/06/1982,Gujarat,Rajkot,785,141800,7.2,2,,Active,2021,Savings,BR830
+CUST100797,Amit Iyer,M,06/11/1958,Delhi,New Delhi,703,"₹1,60,500",6.5,2,No,Active,2015,Current,BR659
+CUST100798,Vivaan Rao,M,09/03/1999,Karnataka,Mangaluru,810,"₹4,88,200",7.3,1,Yes,Inactive,2019,Savings,BR217
+CUST100799,Riya Gill,F,26/01/1964,Telangana,Hyderabad,683,"₹2,68,200",5.5,3,No,Active,2014,Savings,BR288
+CUST100800,Rahul Mehta,M,,Uttar Pradesh,Kanpur,759,0,3.1,2,Yes,Inactive,2007,Savings,BR535
+CUST100801,Riya Pillai,F,20/05/1956,Tamil Nadu,Coimbatore,NA,NIL,2.7,3,Yes,Active,2015,Salary,BR544
+CUST100802,Arjun Rao,M,21/04/1957,Tamil Nadu,Madurai,725,"₹2,10,300",5.2,2,Yes,Active,2008,Salary,BR120
+CUST100803,Fatima Patel,F,19/09/2003,Karnataka,Mysuru,874,"₹73,000",5.1,1,Yes,Active,2011,Savings,BR362
+CUST100804,Ankit Gupta,M,24/07/1982,Maharashtra,Mumbai,762,265300,4.9,2,Yes,Active,2013,Savings,BR546
+CUST100805,Simran Kaur,F,15/06/1963,Maharashtra,Nashik,763,"₹99,600",4.1,1,No,Active,2014,Current,BR108
+CUST100806,Deepak Deshpande,M,19/10/1965,West Bengal,Kolkata,724,1.2 Cr,7.4,2,Yes,Inactive,2005,Savings,BR806
+CUST100807,Fatima Chatterjee,F,03/07/1996,Karnataka,Mangaluru,619,"₹2,65,100",4.3,4,Yes,Inactive,2007,Salary,BR305
+CUST100808,Deepika Mishra,F,06/01/1973,Maharashtra,Nagpur,783,"₹4,33,600",10.5,2,No,Active,2025,Salary,BR706
+CUST100809,Rahul Mishra,M,12/10/2005,Tamil Nadu,Coimbatore,773,89300,7.7,1,Yes,Active,2007,Savings,BR726
+CUST100810,Riya Rao,F,07/03/1985,Madhya Pradesh,Gwalior,645,"₹1,60,800",1.1,1,No,Inactive,2007,Savings,BR126
+CUST100811,Vivaan Bose,M,19/08/1976,Tamil Nadu,Madurai,699,0,7.4,2,No,Inactive,2024,Savings,BR565
+CUST100812,Deepika Reddy,F,03/02/1998,Kerala,Kochi,682,"₹10,500",6.7,1,Yes,Dormant,2017,Current,BR709
+CUST100813,Ishaan Kaur,M,19/05/1971,Punjab,Amritsar,703,"₹1,22,500",1.6,1,Yes,Inactive,2013,Current,BR467
+CUST100814,Gurpreet Khan,M,28/03/1968,Maharashtra,Nagpur,732,"₹54,400",6.0,2,No,Inactive,2024,Salary,BR427
+CUST100815,Harish Reddy,M,14/01/1982,Kerala,Thiruvananthapuram,697,"₹1,44,400",4.0,1,Yes,Inactive,2005,Savings,BR338
+CUST100816,Ankit Gill,M,03/07/1982,Uttar Pradesh,Kanpur,773,"₹6,800",8.1,3,Yes,Dormant,2007,Salary,BR297
+CUST100817,Vivaan Agarwal,M,25/10/1997,West Bengal,Kolkata,606,36800,4.9,2,Yes,Active,2010,Salary,BR586
+CUST100818,Pranav Mishra,M,26/04/2004,Gujarat,Rajkot,853,0,7.5,3,Yes,Active,2012,Savings,BR400
+CUST100819,Pranav Verma,M,28/11/2003,Uttar Pradesh,Kanpur,804,395600,9.7,2,Yes,Inactive,2009,Savings,BR188
+CUST100820,Anjali Naidu,F,03/06/1990,Kerala,Thiruvananthapuram,733,"₹2,22,100",7.5,2,Yes,Dormant,2006,Savings,BR539
+CUST100821,Kabir Yadav,M,03/10/1965,West Bengal,Kolkata,551,304300,6.9,2,No,Dormant,2018,Savings,BR288
+CUST100822,Fatima Mehta,F,14/02/1976,Kerala,Kochi,550,313100,9.2,2,No,Inactive,2017,Savings,BR745
+CUST100823,Ishaan Banerjee,M,26/08/1976,Gujarat,Rajkot,722,"₹7,00,800",3.8,2,Yes,Inactive,2010,Current,BR536
+CUST100824,Ishaan Gupta,M,20/08/1988,Rajasthan,Udaipur,673,24600,7.4,2,Yes,Inactive,2013,Savings,BR570
+CUST100825,Simran Chauhan,F,13/07/1958,Madhya Pradesh,Gwalior,765,1212100,4.1,2,Yes,Dormant,2018,Current,BR335
+CUST100826,Meera Kaur,F,12/12/1964,Delhi,New Delhi,739,92100,4.7,3,Yes,Inactive,2014,Current,BR504
+CUST100827,Anil Agarwal,M,26/04/1967,Rajasthan,Jodhpur,745,48800,13.1,3,Yes,Inactive,2016,Current,BR667
+CUST100828,Aditi Yadav,F,05/03/2005,West Bengal,Howrah,847,"₹2,14,200",11.3,1,Yes,Active,2005,Savings,BR530
+CUST100829,Suresh Nair,M,30/08/1984,Maharashtra,Nagpur,594,39800,12.5,1,No,Active,2017,Savings,BR396
+CUST100830,Amit Banerjee,M,14/01/1980,Maharashtra,Pune,564,"₹3,16,900",6.4,1,Yes,Dormant,2021,Savings,BR414
+CUST100831,Priya Deshpande,F,17/02/2005,Uttar Pradesh,Noida,709,₹0,5.1,1,Yes,Inactive,2025,Savings,BR173
+CUST100832,Lakshmi Kaur,F,11/12/1954,Tamil Nadu,Madurai,850,31700,3.9,2,Yes,Dormant,2016,Savings,BR293
+CUST100833,Ankit Pillai,M,14/02/1982,Rajasthan,Jaipur,677,"₹1,38,600",5.5,2,Yes,Active,2025,Savings,BR324
+CUST100834,Meera Mishra,F,01/05/1992,Rajasthan,Jodhpur,602,"₹4,17,600",16.4,2,No,Active,2013,Savings,BR768
+CUST100835,Rajesh Naidu,M,14/07/1966,Telangana,Hyderabad,820,1226100,4.3,2,Yes,Inactive,2005,Savings,BR508
+CUST100836,Rajesh Gupta,M,20/03/1986,Delhi,New Delhi,748,0,1.7,1,Yes,Active,2008,Savings,BR798
+CUST100837,Farhan Iyer,M,20/11/1970,Maharashtra,Nagpur,739,"₹4,44,800",25.0,3,No,Dormant,2015,Salary,BR608
+CUST100838,Sanjay Banerjee,M,07/09/1985,Rajasthan,Jaipur,807,123000,6.4,1,Yes,Dormant,2018,Current,BR437
+CUST100839,Kiran Mishra,F,03/02/1955,Maharashtra,Nashik,751,"₹72,900",5.7,1,Yes,Active,2016,Savings,BR109
+CUST100840,Isha Shah,F,27/03/2003,Telangana,Warangal,624,144000,4.4,2,No,Inactive,2023,Savings,BR950
+CUST100841,Deepak Gill,M,11/04/1974,Punjab,Ludhiana,770,380000,6.5,2,Yes,Dormant,2013,Current,BR459
+CUST100842,Divya Rao,F,29/07/1973,Madhya Pradesh,Gwalior,801,1.2 Cr,6.3,1,Yes,Active,2024,Savings,BR798
+CUST100843,Sanjay Gill,M,12/03/1987,Karnataka,Bengaluru,687,488900,3.8,2,Yes,Active,2008,Salary,BR644
+CUST100844,Sanjay Naidu,M,06/05/2003,Rajasthan,Jodhpur,690,626100,3.4,1,No,Active,2005,Salary,BR415
+CUST100845,Pranav Banerjee,M,16/04/1981,Maharashtra,Nashik,770,"₹3,47,500",4.6,1,No,Active,2012,Savings,BR386
+CUST100846,Ayesha Yadav,F,10/10/1985,Telangana,Hyderabad,660,"₹1,06,100",18.4,2,No,Active,2017,Savings,BR787
+CUST100847,Lakshmi Joshi,F,13/01/1982,Uttar Pradesh,Lucknow,708,24900,11.4,2,No,Active,2006,Salary,BR812
+CUST100848,Gurpreet Reddy,M,04/01/1982,Karnataka,Bengaluru,748,891100,5.3,1,Yes,Active,2025,Current,BR761
+CUST100849,Sanjay Kulkarni,M,18/07/1954,Maharashtra,Nagpur,790,108800,5.4,1,Yes,Active,2006,Salary,BR695
+CUST100850,Sourav Patel,M,21/08/2003,Gujarat,Ahmedabad,761,88700,10.0,2,Yes,Active,2018,Savings,BR152
+CUST100851,Priya Gupta,F,29/06/1998,Uttar Pradesh,Lucknow,654,₹0,5.3,1,,Dormant,2013,Salary,BR155
+CUST100852,Sneha Shah,F,09/12/1977,Karnataka,Mangaluru,817,"₹2,50,600",8.7,2,No,Inactive,2013,Savings,BR722
+CUST100853,Kabir Reddy,M,unknown,Madhya Pradesh,Gwalior,663,110800,6.9,2,Yes,Inactive,2017,Savings,BR522
+CUST100854,Diya Kaur,F,11/04/1980,Gujarat,Rajkot,713,275300,10.4,2,No,Active,2005,Savings,BR794
+CUST100855,Lakshmi Menon,F,01/03/1985,Madhya Pradesh,Bhopal,789,"₹2,21,200",4.6,1,Yes,Inactive,2011,Salary,BR791
+CUST100856,Anjali Kaur,F,17/07/1997,Kerala,Thiruvananthapuram,666,74500,5.3,1,No,Inactive,2010,Savings,BR790
+CUST100857,Suresh Yadav,M,12/09/1994,Maharashtra,Mumbai,756,"₹10,200",2.7,1,No,Active,2013,Savings,BR406
+CUST100858,Swati Khan,F,09/04/1961,Rajasthan,Jodhpur,807,499100,3.6,1,No,Inactive,2011,Savings,BR901
+CUST100859,Simran Menon,F,01/01/1964,Telangana,Warangal,,"₹2,86,600",4.9,1,Yes,Dormant,2010,Salary,BR937
+CUST100860,Ishaan Menon,M,12/08/2001,Uttar Pradesh,Varanasi,720,₹0,2.2,3,No,Active,2018,Savings,BR157
+CUST100861,Pranav Chauhan,M,15/02/1999,West Bengal,Howrah,814,172600,5.1,1,No,Active,2024,Savings,BR612
+CUST100862,Neha Sharma,F,30/09/1973,Telangana,Hyderabad,622,"₹1,31,400",9.8,1,Yes,Inactive,2022,Savings,BR915
+CUST100863,Ananya Deshpande,F,21/12/1965,Rajasthan,Jaipur,683,78800,9.3,1,No,Active,2007,Salary,BR346
+CUST100864,Ishaan Banerjee,M,16/01/1959,Maharashtra,Nagpur,754,66300,3.1,1,Yes,Active,2009,Savings,BR897
+CUST100865,Shreya Reddy,F,01/08/1970,Tamil Nadu,Madurai,594,"₹1,59,800",2.5,2,Yes,Inactive,2022,Current,BR569
+CUST100866,Sanjay Menon,M,30/12/2004,Tamil Nadu,Madurai,683,27200,3.3,1,Yes,Active,2010,Salary,BR992
+CUST100867,Karthik Gupta,M,18/01/1986,Gujarat,Ahmedabad,823,₹0,3.2,1,Yes,Inactive,2021,Savings,BR114
+CUST100868,Pooja Mishra,F,07/12/1999,Karnataka,Mangaluru,834,"₹4,49,200",4.5,2,No,Inactive,2017,Salary,BR805
+CUST100869,Ramesh Singh,M,09/03/1974,Delhi,New Delhi,673,1.2 Cr,5.8,2,Yes,Inactive,2021,Savings,BR485
+CUST100870,Vikram Agarwal,M,03/06/1989,Maharashtra,Mumbai,646,"₹58,300",5.1,2,Yes,Active,2024,Savings,BR580
+CUST100871,Ananya Ahmed,F,16/06/1962,Tamil Nadu,Chennai,746,"₹1,00,200",7.7,1,Yes,Active,2012,Current,BR622
+CUST100872,Ankit Chatterjee,M,11/04/1964,Uttar Pradesh,Kanpur,728,544000,11.7,2,Yes,Active,2015,Salary,BR410
+CUST100873,Kiran Yadav,F,15/06/1966,Uttar Pradesh,Varanasi,-1,407300,4.1,3,Yes,Active,2018,Savings,BR246
+CUST100874,Lakshmi Bose,F,04/04/1977,Uttar Pradesh,Kanpur,589,"₹15,500",9.6,1,No,Inactive,2016,Savings,BR817
+CUST100875,Amit Iyer,M,06/10/1967,Telangana,Warangal,767,443600,21.2,1,No,active ,2008,Savings,BR933
+CUST100876,Shreya Agarwal,F,01/09/1989,Kerala,Thiruvananthapuram,824,"₹45,400",12.3,3,No,Active,2012,Current,BR968
+CUST100877,Kavya Nair,F,12/10/1969,Gujarat,Vadodara,711,"₹1,09,800",13.7,1,No,Dormant,2023,Savings,BR467
+CUST100878,Rekha Patel,F,19/01/1993,Delhi,New Delhi,NA,"₹3,71,300",5.5,1,No,Active,2009,Savings,BR985
+CUST100879,Priya Naidu,F,10/07/1978,Punjab,Ludhiana,846,31800,6.5,2,No,Inactive,2020,Savings,BR826
+CUST100880,Divya Sharma,F,14/01/1984,Delhi,New Delhi,700,40100,4.5,1,Yes,Inactive,2008,Current,BR360
+CUST100881,Fatima Kulkarni,F,09/04/1956,Uttar Pradesh,Lucknow,690,1.2 Cr,4.4,1,Yes,Active,2012,Current,BR752
+CUST100882,Rahul Iyer,M,01/07/1967,Uttar Pradesh,Varanasi,694,0,7.0,2,No,Active,2019,Savings,BR519
+CUST100883,Neha Mehta,F,09/06/1973,Delhi,New Delhi,750,₹0,20.3,1,Yes,Inactive,2019,Salary,BR774
+CUST100884,Shreya Chauhan,F,26/12/2002,Karnataka,Mysuru,819,"₹26,400",10.5,2,No,Inactive,2013,Savings,BR404
+CUST100885,Ramesh Singh,M,04/11/1959,Delhi,New Delhi,650,14500,3.8,1,No,Inactive,2006,Savings,BR651
+CUST100886,Isha Naidu,F,15/07/1982,Gujarat,Rajkot,793,70700,9.7,2,No,Active,2024,Salary,BR915
+CUST100887,Rahul Shah,M,30/09/2002,Delhi,New Delhi,705,53300,5.8,1,Yes,Inactive,2013,Savings,BR589
+CUST100888,Manoj Bose,M,24/05/1993,Kerala,Kochi,742,"₹18,100",3.1,2,Yes,Active,2025,Salary,BR231
+CUST100889,Meera Nair,F,13/03/1985,Maharashtra,Nagpur,650,50000,5.3,1,Yes,Inactive,2015,Savings,BR350
+CUST100890,Anil Rao,M,02/01/1965,Gujarat,Ahmedabad,731,"₹4,24,400",3.4,1,Yes,Active,2021,Savings,BR642
+CUST100891,Manoj Singh,M,21/01/1999,Maharashtra,Mumbai,694,77500,2.6,2,Yes,Active,2023,Current,BR337
+CUST100892,Pooja Agarwal,F,24/03/1998,Tamil Nadu,Coimbatore,712,0,4.3,1,Yes,Inactive,2012,Savings,BR377
+CUST100893,Kavya Naidu,F,15/04/1970,Maharashtra,Nashik,748,"₹2,28,600",8.5,2,No,Inactive,2023,Savings,BR450
+CUST100894,Sneha Deshpande,F,17/06/2000,Punjab,Ludhiana,726,"₹1,16,400",7.3,3,Yes,Active,2021,Savings,BR379
+CUST100895,Manoj Mehta,M,31/10/1955,Telangana,Warangal,802,39800,5.4,1,Yes,Active,2005,Savings,BR109
+CUST100896,Fatima Ahmed,F,29/09/2001,Gujarat,Surat,806,"₹1,42,000",4.5,3,No,Inactive,2021,Savings,BR492
+CUST100897,Meera Yadav,F,03/06/1995,Delhi,New Delhi,-1,72500,7.0,2,Yes,Active,2005,Salary,BR790
+CUST100898,Deepika Gupta,F,18/06/1985,West Bengal,Kolkata,790,"₹5,56,100",8.2,2,Yes,Inactive,2008,Salary,BR767
+CUST100899,Deepika Mehta,F,13/02/1955,Tamil Nadu,Coimbatore,693,NIL,13.2,1,No,Inactive,2015,Savings,BR929
+CUST100900,Ananya Sharma,F,15/04/1978,Madhya Pradesh,Bhopal,657,18500,3.7,2,No,Active,2025,Savings,BR870
+CUST100901,Simran Pillai,F,24/04/1955,Punjab,Ludhiana,751,361600,10.7,1,No,Active,2024,Savings,BR889
+CUST100902,Pranav Gill,M,05/11/1956,Karnataka,Mangaluru,766,44900,2.6,1,Yes,Inactive,2013,Savings,BR758
+CUST100903,Kabir Jain,M,10/02/1962,Telangana,Hyderabad,720,791200,6.0,2,No,Active,2010,Savings,BR859
+CUST100904,Rohan Kaur,M,30/05/1984,Maharashtra,Nashik,794,₹0,7.0,3,Yes,Active,2010,Savings,BR159
+CUST100905,Lakshmi Kulkarni,F,23/07/1974,Tamil Nadu,Coimbatore,783,"₹41,400",3.9,1,No,Active,2020,Savings,BR673
+CUST100906,Priya Chatterjee,F,20/11/1976,Maharashtra,Mumbai,676,1152600,3.1,1,,Active,2013,Current,BR496
+CUST100907,Imran Banerjee,M,16/12/1984,Maharashtra,Pune,770,"₹1,08,200",10.4,2,Yes,Active,2015,Savings,BR557
+CUST100908,Ananya Yadav,F,20/10/1966,Maharashtra,Nashik,728,"₹1,26,700",9.9,2,No,Active,2014,Savings,BR962
+CUST100909,Gurpreet Deshpande,M,02/11/1971,Punjab,Amritsar,847,"₹39,800",11.4,2,Yes,Dormant,2018,Salary,BR530
+CUST100910,Deepak Pillai,M,08/09/1954,Maharashtra,Pune,837,"₹4,17,100",4.8,1,Yes,Active,2016,Savings,BR425
+CUST100911,Gurpreet Nair,M,15/09/1971,Tamil Nadu,Chennai,716,104500,6.8,2,Yes,Inactive,2022,Salary,BR539
+CUST100912,Vivaan Joshi,M,04/02/1991,Madhya Pradesh,Bhopal,708,"₹1,59,500",6.5,2,Yes,Active,2010,Current,BR883
+CUST100913,Nisha Singh,F,,Maharashtra,Nashik,750,830600,7.0,2,Yes,Inactive,2005,Savings,BR406
+CUST100914,Rekha Gill,F,20/01/2000,Delhi,New Delhi,797,₹0,7.6,2,n,Active,2007,Salary,BR540
+CUST100915,Swati Gupta,F,29/05/1963,West Bengal,Howrah,657,"₹89,100",4.5,2,Yes,Active,2016,Salary,BR359
+CUST100916,Farhan Chatterjee,M,16/06/1975,West Bengal,Howrah,657,"₹1,43,100",17.9,1,Yes,Active,2020,Savings,BR487
+CUST100917,Aditya Iyer,M,09/06/1977,Karnataka,Mysuru,769,145700,9.4,1,Yes,active ,2022,Current,BR882
+CUST100918,Anil Banerjee,M,06/03/1972,Karnataka,Mysuru,734,"₹24,900",9.0,2,No,Active,2015,Current,BR425
+CUST100919,Karthik Sharma,M,09/05/1955,Telangana,Warangal,699,32600,8.6,1,Yes,Dormant,2020,Current,BR949
+CUST100920,Ankit Khan,M,12/04/1978,Madhya Pradesh,Gwalior,773,71000,13.2,2,No,Active,2022,Savings,BR113
+CUST100921,Fatima Ahmed,F,15/10/1993,Kerala,Thiruvananthapuram,652,1.2 Cr,5.9,2,No,Inactive,2025,Savings,BR165
+CUST100922,Kavya Nair,F,09/05/1966,Tamil Nadu,Chennai,772,"₹1,00,500",3.0,2,Yes,Active,2009,Savings,BR762
+CUST100923,Ananya Mehta,F,16/09/1997,Delhi,New Delhi,792,48600,18.2,3,Yes,Active,2023,Savings,BR175
+CUST100924,Farhan Menon,M,18/05/1983,Madhya Pradesh,Bhopal,814,207200,2.9,3,Yes,Active,2022,Savings,BR575
+CUST100925,Ramesh Mishra,M,08/07/1970,Gujarat,Vadodara,664,"₹7,91,100",3.2,1,Yes,Inactive,2019,Savings,BR307
+CUST100926,Kiran Jain,F,17/04/1958,Tamil Nadu,Chennai,727,657300,4.6,2,Yes,Inactive,2005,Savings,BR987
+CUST100927,Swati Kaur,F,27/08/2002,Maharashtra,Mumbai,708,85200,6.3,2,No,Active,2023,Salary,BR376
+CUST100928,Rekha Das,F,17/04/1974,Maharashtra,Nagpur,761,137800,9.6,2,No,Active,2024,Savings,BR565
+CUST100929,Sourav Agarwal,M,10/09/1990,Maharashtra,Pune,,96900,8.4,2,No,,2016,Savings,BR600
+CUST100930,Pooja Kulkarni,F,09/07/1986,Tamil Nadu,Chennai,-1,200600,12.4,2,No,Dormant,2015,Salary,BR961
+CUST100931,Ramesh Jain,M,25/03/1988,West Bengal,Howrah,825,0,3.4,2,No,Active,2007,Savings,BR212
+CUST100932,Meera Joshi,F,12/05/1963,Maharashtra,Mumbai,688,72900,5.4,2,Yes,Dormant,2012,Salary,BR845
+CUST100933,Nisha Chauhan,F,09/12/1972,Telangana,Warangal,764,40600,10.8,1,No,Active,2005,Salary,BR232
+CUST100934,Deepak Pillai,Other,15/04/1984,Gujarat,Vadodara,723,446400,9.6,1,Yes,Active,2005,Savings,BR127
+CUST100935,Rohan Khan,M,20/08/1991,Tamil Nadu,Chennai,NA,"₹2,54,500",7.4,4,Yes,Active,2014,Salary,BR831
+CUST100936,Nisha Iyer,F,,Karnataka,Mysuru,635,₹0,6.5,1,No,Inactive,2017,Savings,BR703
+CUST100937,Anil Yadav,M,20/05/1976,Uttar Pradesh,Noida,824,₹0,8.5,1,Yes,Inactive,2012,Savings,BR190
+CUST100938,Deepika Singh,F,03/11/1972,Karnataka,Mysuru,759,"₹63,100",8.7,1,No,Active,2018,Savings,BR269
+CUST100939,Diya Verma,F,22/07/1959,Karnataka,Mysuru,835,367200,14.4,1,Yes,Active,2008,Savings,BR470
+CUST100940,Sourav Kaur,M,10/12/1953,Uttar Pradesh,Kanpur,718,"₹3,62,000",16.6,1,Yes,Active,2019,Savings,BR157
+CUST100941,Ishaan Bose,M,14/07/1956,Kerala,Thiruvananthapuram,742,339500,10.2,1,Yes,Active,2009,Current,BR276
+CUST100942,Pooja Mishra,F,30/03/1989,Telangana,Warangal,652,56100,4.9,3,No,,2008,Savings,BR866
+CUST100943,Meera Naidu,F,25/07/1983,Uttar Pradesh,Noida,844,181700,6.4,1,Yes,Active,2015,Current,BR560
+CUST100944,Riya Bose,F,unknown,Uttar Pradesh,Kanpur,779,"₹90,200",18.4,2,Yes,Active,2010,Savings,BR877
+CUST100945,Rekha Bose,F,09/01/1995,Tamil Nadu,Chennai,668,46000,20.1,1,Yes,Active,2019,Savings,BR838
+CUST100946,Isha Singh,F,09/10/1955,West Bengal,Howrah,780,33900,9.1,3,Yes,Dormant,2008,Salary,BR817
+CUST100947,Sneha Menon,F,05/07/1992,Karnataka,Bengaluru,803,"₹2,64,000",9.7,3,Yes,Active,2019,Savings,BR751
+CUST100948,Aarav Agarwal,M,14/05/2003,Gujarat,Ahmedabad,757,,2.7,3,Yes,Active,2018,Current,BR763
+CUST100949,Gurpreet Singh,M,07/01/1969,Tamil Nadu,Chennai,678,"₹11,23,700",8.6,3,Yes,Active,2023,Savings,BR313
+CUST100950,Sanjay Deshpande,M,12/02/1983,Maharashtra,Mumbai,801,620600,7.6,2,No,Inactive,2024,Savings,BR953
+CUST100951,Sanjay Mishra,M,10/07/1969,Uttar Pradesh,Noida,743,623100,7.1,3,Yes,Inactive,2008,Savings,BR483
+CUST100952,Rekha Pillai,F,04/07/1996,Uttar Pradesh,Lucknow,636,175000,4.5,4,Yes,Active,2005,Salary,BR224
+CUST100953,Isha Chauhan,F,30/03/1974,Uttar Pradesh,Noida,726,207000,6.2,2,No,Active,2019,Savings,BR593
+CUST100954,Sneha Chauhan,F,08/04/1963,Uttar Pradesh,Varanasi,698,19800,8.1,2,Yes,Active,2013,Savings,BR562
+CUST100955,Gurpreet Reddy,M,16/02/1958,Kerala,Kochi,815,0,11.0,1,Yes,Active,2008,Savings,BR931
+CUST100956,Kiran Khan,F,01/06/2005,Tamil Nadu,Madurai,900,932300,5.9,2,,Inactive,2017,Salary,BR196
+CUST100957,Deepak Mehta,M,31/01/1955,Punjab,Ludhiana,599,"₹3,90,700",2.6,3,No,Inactive,2015,Savings,BR708
+CUST100958,Rajesh Nair,M,09/06/1970,Uttar Pradesh,Kanpur,791,76500,2.4,2,No,Dormant,2021,Salary,BR711
+CUST100959,Anjali Gupta,F,09/08/1993,Gujarat,Rajkot,726,₹0,23.4,1,Y,Inactive,2022,Savings,BR928
+CUST100960,Sanjay Rao,M,18/05/1970,Punjab,Ludhiana,727,49000,7.2,1,Yes,Active,2017,Savings,BR693
+CUST100961,Fatima Joshi,F,06/08/1966,Kerala,Thiruvananthapuram,NA,768500,27.3,1,Yes,Active,2005,Salary,BR330
+CUST100962,Arjun Jain,Other,01/04/1977,Tamil Nadu,Madurai,807,0,7.7,2,Yes,Inactive,2024,Current,BR884
+CUST100963,Sanjay Kulkarni,M,23/12/1991,Uttar Pradesh,Varanasi,604,₹0,2.1,1,Yes,Inactive,2020,Savings,BR980
+CUST100964,Ishaan Singh,M,25/04/1967,Delhi,New Delhi,685,172800,20.8,1,No,Active,2013,Salary,BR633
+CUST100965,Kiran Menon,F,05/07/1991,Uttar Pradesh,Kanpur,580,569200,5.4,2,Yes,Active,2022,Savings,BR337
+CUST100966,Manoj Bose,M,21/11/2004,Karnataka,Mysuru,688,142000,14.2,2,No,Active,2016,Salary,BR590
+CUST100967,Vikram Kaur,M,unknown,West Bengal,Kolkata,746,"₹1,64,000",9.0,3,Yes,Inactive,2018,Salary,BR657
+CUST100968,Farhan Singh,M,01/10/1981,Rajasthan,Jodhpur,746,"₹46,400",6.7,1,Yes,Dormant,2023,Savings,BR555
+CUST100969,Sneha Chauhan,F,02/03/1987,Uttar Pradesh,Lucknow,739,27400,11.4,1,Yes,Active,2020,Savings,BR363
+CUST100970,Kabir Agarwal,M,07/05/1980,Karnataka,Bengaluru,593,"₹1,70,300",6.6,2,Yes,Inactive,2009,Salary,BR948
+CUST100971,Pooja Agarwal,F,30/05/1984,Delhi,New Delhi,771,170300,14.0,4,Yes,Active,2025,Current,BR776
+CUST100972,Rohan Gill,M,18/12/1999,Maharashtra,Mumbai,769,₹0,7.8,1,Yes,Dormant,2014,Current,BR119
+CUST100973,Manoj Das,M,06/01/1961,Maharashtra,Nashik,724,"₹2,01,800",14.0,1,No,Active,2013,Salary,BR762
+CUST100974,Gurpreet Yadav,M,05/04/1970,Maharashtra,Nashik,730,136300,10.7,3,No,Dormant,2008,Savings,BR775
+CUST100975,Aditi Kulkarni,F,22/06/1958,Rajasthan,Jaipur,676,37300,5.7,3,No,Active,2007,Current,BR951
+CUST100976,Simran Deshpande,F,03/10/2002,Maharashtra,Nashik,742,₹0,7.9,2,No,Active,2015,Savings,BR484
+CUST100977,Aditya Shah,M,26/03/1955,Gujarat,Rajkot,687,"₹53,900",7.7,2,Yes,Inactive,2019,Salary,BR395
+CUST100978,Ramesh Kulkarni,M,08/07/1974,Delhi,New Delhi,681,"₹1,05,800",5.1,2,Yes,Active,2022,Savings,BR650
+CUST100979,Ananya Mehta,F,05/12/1968,Karnataka,Bengaluru,750,"₹1,55,600",9.2,2,No,active ,2012,Savings,BR561
+CUST100980,Imran Rao,M,14/05/1990,Maharashtra,Nagpur,726,71400,20.1,1,No,Active,2021,Savings,BR877
+CUST100981,Aditi Banerjee,F,13/02/1989,Punjab,Amritsar,771,745500,5.9,3,Yes,Active,2015,Savings,BR565
+CUST100982,Anjali Sharma,F,28/05/1965,Karnataka,Mangaluru,701,₹0,14.6,2,Yes,,2007,Current,BR433
+CUST100983,Ramesh Sharma,M,15/06/1983,Delhi,New Delhi,822,"₹80,400",3.8,2,Yes,Inactive,2006,Salary,BR516
+CUST100984,Ankit Naidu,M,29/10/1958,Uttar Pradesh,Varanasi,695,"₹2,98,500",4.4,2,No,Dormant,2011,Salary,BR239
+CUST100985,Rajesh Jain,M,13/08/1954,Maharashtra,Pune,649,161600,11.1,2,,Inactive,2020,Savings,BR223
+CUST100986,Karthik Nair,M,22/01/1981,Telangana,Warangal,702,172900,3.9,2,Yes,active ,2024,Savings,BR731
+CUST100987,Anil Mehta,M,08/12/1971,Uttar Pradesh,Varanasi,693,193800,4.2,2,No,Active,2007,Salary,BR523
+CUST100988,Riya Jain,F,28/05/1958,Karnataka,Mysuru,713,191300,7.1,1,Yes,Active,2007,Current,BR435
+CUST100989,Deepak Joshi,M,05/04/1974,Uttar Pradesh,Lucknow,613,73300,11.1,2,Yes,Dormant,2022,Current,BR570
+CUST100990,Kabir Verma,M,28/03/1966,Uttar Pradesh,Varanasi,752,NIL,3.6,2,No,Active,2021,Savings,BR395
+CUST100991,Sneha Pillai,F,22/02/1991,West Bengal,Howrah,708,193000,5.2,1,Yes,Active,2010,Savings,BR555
+CUST100992,Sunita Nair,F,08/02/1982,West Bengal,Howrah,668,"₹43,400",12.2,2,Y,Active,2025,Savings,BR959
+CUST100993,Nisha Singh,F,09/08/1957,Karnataka,Mysuru,782,"₹85,700",9.7,2,Yes,active ,2021,Current,BR837
+CUST100994,Aditya Verma,M,13/06/1994,Kerala,Thiruvananthapuram,826,"₹7,40,300",6.9,2,Yes,Inactive,2023,Salary,BR389
+CUST100995,Kavya Menon,F,04/07/1978,West Bengal,Kolkata,709,48600,9.3,1,Yes,Active,2020,Savings,BR498
+CUST100996,Ishaan Ahmed,M,29/07/1970,Delhi,New Delhi,589,"₹38,000",2.5,1,No,Inactive,2007,Savings,BR308
+CUST100997,Deepika Kaur,F,21/10/1986,Punjab,Ludhiana,599,31000,5.9,2,Yes,Active,2007,Savings,BR643
+CUST100998,Deepika Banerjee,F,05/07/1970,Telangana,Warangal,,"₹51,000",6.3,4,Yes,Active,2022,Savings,BR938
+CUST100999,Ishaan Das,M,27/12/1989,Maharashtra,Pune,799,79000,7.0,2,No,Active,2007,Savings,BR346
+CUST101000,Gurpreet Chauhan,M,01/04/1988,Karnataka,Mangaluru,709,"₹3,81,400",10.2,1,Yes,Active,2016,Savings,BR174
+CUST101001,Kabir Das,M,10/09/1955,Karnataka,Mysuru,740,65500,7.8,2,No,Inactive,2020,Savings,BR283
+CUST101002,Ishaan Reddy,M,07/02/1995,Tamil Nadu,Chennai,777,194100,7.1,1,Yes,Active,2023,Savings,BR330
+CUST101003,Kavya Gill,F,11/01/1983,Punjab,Amritsar,758,"₹38,700",7.1,2,No,Active,2018,Savings,BR585
+CUST101004,Rohan Nair,M,02/07/1976,Tamil Nadu,Coimbatore,659,"₹82,400",3.4,3,No,Active,2020,Salary,BR541
+CUST101005,Sanjay Singh,M,19/12/1968,Gujarat,Ahmedabad,793,"₹2,11,600",7.6,1,Yes,Active,2024,Salary,BR550
+CUST101006,Deepika Chauhan,F,17/04/2004,Kerala,Kochi,650,"₹2,60,000",4.8,3,Yes,Active,2017,Savings,BR719
+CUST101007,Simran Shah,F,23/05/1955,Karnataka,Mysuru,705,"₹1,05,800",4.5,1,Yes,Active,2023,Savings,BR845
+CUST101008,Ananya Gupta,F,02/08/1986,Rajasthan,Jaipur,720,0,2.8,1,Yes,Dormant,2005,Savings,BR511
+CUST101009,Fatima Das,F,,Maharashtra,Nashik,534,"₹1,41,000",5.9,1,Yes,Active,2017,Current,BR138
+CUST101010,Anjali Mishra,F,15/09/1983,Maharashtra,Nagpur,815,100500,8.1,1,No,Active,2009,Current,BR604
+CUST101011,Anil Banerjee,M,13/04/1977,Uttar Pradesh,Noida,694,97100,8.2,1,No,Inactive,2016,Savings,BR335
+CUST101012,Fatima Agarwal,F,04/05/1956,West Bengal,Howrah,679,"₹1,75,100",6.8,1,No,Active,2014,Salary,BR451
+CUST101013,Rajesh Menon,M,25/05/1980,Uttar Pradesh,Noida,678,"₹3,06,500",3.9,2,No,Inactive,2010,Savings,BR924
+CUST101014,Gurpreet Joshi,M,30/04/1990,Uttar Pradesh,Lucknow,705,613200,11.7,2,No,Active,2018,Salary,BR327
+CUST101015,Harish Iyer,M,24/03/1958,Uttar Pradesh,Varanasi,765,0,4.2,2,Yes,Inactive,2006,Savings,BR351
+CUST101016,Suresh Chauhan,M,21/10/1980,Telangana,Warangal,,214000,7.4,2,Yes,active ,2016,Savings,BR671
+CUST101017,Gurpreet Shah,M,13/08/1964,Maharashtra,Mumbai,783,"₹1,38,700",4.6,1,Yes,Dormant,2016,Savings,BR333
+CUST101018,Aarav Iyer,M,03/04/1979,Telangana,Hyderabad,775,80300,2.7,2,Yes,Active,2023,Current,BR379
+CUST101019,Karthik Kulkarni,M,08/03/2000,Uttar Pradesh,Noida,805,291300,12.5,2,Yes,Inactive,2025,Savings,BR535
+CUST101020,Pooja Kaur,F,unknown,Maharashtra,Nagpur,697,"₹3,69,500",3.3,4,No,Active,2008,Savings,BR982
+CUST101021,Sourav Banerjee,M,05/03/1993,Madhya Pradesh,Gwalior,821,"₹1,59,700",11.6,2,Yes,Inactive,2021,Savings,BR682
+CUST101022,Deepak Singh,M,15/09/1996,Tamil Nadu,Madurai,763,368000,12.2,3,Yes,Dormant,2018,Savings,BR770
+CUST101023,Fatima Pillai,F,22/07/1956,Karnataka,Bengaluru,796,163800,3.0,2,Yes,Inactive,2011,Savings,BR587
+CUST101024,Sourav Pillai,M,31/10/1970,Tamil Nadu,Chennai,702,"₹2,74,300",4.9,2,No,Active,2015,Savings,BR367
+CUST101025,Deepak Kaur,M,23/12/2000,Telangana,Hyderabad,724,147200,6.4,1,No,Inactive,2007,Salary,BR919
+CUST101026,Rajesh Das,M,13/12/2000,Madhya Pradesh,Gwalior,862,75000,25.9,1,No,Inactive,2017,Savings,BR890
+CUST101027,Swati Verma,F,04/09/1954,Uttar Pradesh,Kanpur,737,"₹3,72,300",3.9,2,No,,2023,Salary,BR693
+CUST101028,Diya Singh,F,10/09/1954,Punjab,Amritsar,713,262400,9.1,3,No,Dormant,2012,Salary,BR744
+CUST101029,Shreya Pillai,F,24/08/1974,Maharashtra,Nagpur,676,382900,3.5,2,No,Active,2007,Salary,BR267
+CUST101030,Aditya Kulkarni,M,04/04/1965,Rajasthan,Udaipur,704,270500,9.6,1,Yes,active ,2021,Salary,BR657
+CUST101031,Harish Mehta,M,07/08/2004,Kerala,Thiruvananthapuram,810,29700,9.1,2,No,Inactive,2013,Savings,BR546
+CUST101032,Manoj Banerjee,M,15/11/1992,Maharashtra,Pune,727,"₹1,83,200",19.5,1,Yes,Active,2015,Savings,BR671
+CUST101033,Vivaan Patel,M,02/07/1980,Tamil Nadu,Coimbatore,730,"₹89,300",4.8,1,Yes,Active,2023,Savings,BR597
+CUST101034,Sourav Jain,M,29/11/1984,Uttar Pradesh,Noida,819,"₹11,700",6.5,1,No,Inactive,2008,Salary,BR917
+CUST101035,Manoj Ahmed,M,27/06/1991,Karnataka,Bengaluru,683,34700,4.0,1,Yes,Dormant,2019,Savings,BR477
+CUST101036,Imran Verma,M,12/09/1959,Uttar Pradesh,Noida,776,705100,6.7,2,No,Active,2013,Savings,BR248
+CUST101037,Farhan Chauhan,M,12/10/1975,Karnataka,Mangaluru,716,194200,4.5,2,Yes,Dormant,2007,Salary,BR551
+CUST101038,Ayesha Deshpande,F,09/10/1984,Madhya Pradesh,Bhopal,725,"₹6,45,600",1.9,2,No,Active,2020,Savings,BR565
+CUST101039,Vikram Naidu,M,25/12/1995,Rajasthan,Jodhpur,753,"₹1,67,300",11.5,1,Yes,Active,2013,Current,BR995
+CUST101040,Fatima Shah,F,07/02/1958,Delhi,New Delhi,756,419000,17.1,2,No,Active,2010,Savings,BR267
+CUST101041,Kabir Chauhan,M,29/01/1981,Maharashtra,Pune,773,155500,9.9,1,Yes,Inactive,2013,Savings,BR527
+CUST101042,Anil Deshpande,M,16/11/1984,Karnataka,Mysuru,809,19700,16.2,3,Yes,Active,2023,Savings,BR774
+CUST101043,Imran Chauhan,M,28/01/1990,Madhya Pradesh,Indore,613,29400,8.9,2,No,Inactive,2011,Salary,BR115
+CUST101044,Farhan Agarwal,M,29/12/2003,Punjab,Amritsar,762,"₹1,92,700",14.1,1,Yes,Inactive,2018,Salary,BR408
+CUST101045,Rajesh Yadav,M,04/08/1995,Maharashtra,Pune,608,125500,5.2,1,No,Active,2016,Savings,BR214
+CUST101046,Deepika Reddy,F,08/09/1995,Telangana,Warangal,775,299400,4.0,2,Yes,Inactive,2022,Salary,BR141
+CUST101047,Amit Nair,M,20/06/1960,Uttar Pradesh,Lucknow,783,218800,15.6,2,Yes,Active,2023,Savings,BR367
+CUST101048,Vikram Verma,M,20/05/1955,Gujarat,Vadodara,660,"₹94,300",9.5,2,Yes,Inactive,2011,Current,BR863
+CUST101049,Aarav Reddy,M,15/05/1984,Madhya Pradesh,Gwalior,666,"₹88,800",20.3,1,No,Active,2009,Salary,BR861
+CUST101050,Simran Sharma,F,16/02/1976,Kerala,Kochi,667,0,4.2,2,No,Active,2007,Savings,BR103
+CUST101051,Pallavi Chatterjee,F,09/09/1972,Uttar Pradesh,Noida,644,"₹10,51,200",4.6,3,Yes,Inactive,2018,Salary,BR470
+CUST101052,Pranav Kaur,M,31/01/2004,Uttar Pradesh,Noida,784,182300,3.1,1,No,Dormant,2022,Savings,BR796
+CUST101053,Suresh Jain,M,13/01/1978,Delhi,New Delhi,660,29100,4.3,2,Y,Active,2021,Salary,BR314
+CUST101054,Karthik Verma,M,23/04/1978,Tamil Nadu,Chennai,768,"₹1,13,000",5.0,3,Yes,Dormant,2024,Savings,BR880
+CUST101055,Fatima Shah,F,06/08/1956,Telangana,Warangal,795,"₹3,10,500",4.0,2,Yes,Inactive,2010,Savings,BR664
+CUST101056,Lakshmi Patel,F,18/05/1963,Maharashtra,Nashik,652,16600,2.3,1,No,Dormant,2019,Salary,BR507
+CUST101057,Anjali Naidu,F,17/09/1960,Telangana,Warangal,-1,"₹54,300",6.4,2,Yes,Inactive,2022,Savings,BR474
+CUST101058,Priya Mehta,F,22/06/1991,Delhi,New Delhi,770,"₹2,62,300",2.7,1,Yes,Active,2016,Current,BR166
+CUST101059,Vikram Naidu,M,10/08/1989,Gujarat,Ahmedabad,766,"₹1,68,800",9.0,2,No,Active,2012,Savings,BR665
+CUST101060,Swati Chatterjee,F,17/08/1979,Kerala,Kochi,689,"₹1,70,700",3.1,2,No,Inactive,2018,Savings,BR563
+CUST101061,Harish Menon,M,,Tamil Nadu,Madurai,796,301700,18.8,2,Y,Active,2009,Savings,BR895
+CUST101062,Vikram Rao,M,30/06/1997,Delhi,New Delhi,733,"₹1,30,200",4.2,2,Yes,Active,2008,Savings,BR815
+CUST101063,Arjun Mishra,M,21/02/1959,Uttar Pradesh,Kanpur,697,102300,5.8,1,Yes,Inactive,2011,Savings,BR653
+CUST101064,Pallavi Deshpande,F,05/10/1961,Karnataka,Mysuru,703,520800,13.9,2,Yes,Active,2016,Savings,BR164
+CUST101065,Pooja Reddy,F,05/02/1969,West Bengal,Howrah,757,"₹3,73,700",20.2,2,Yes,Active,2019,Salary,BR344
+CUST101066,Simran Chauhan,F,22/06/1969,Telangana,Warangal,786,8100,3.6,2,No,Inactive,2021,Salary,BR950
+CUST101067,Shreya Reddy,F,08/05/1984,Uttar Pradesh,Varanasi,717,8500,6.1,1,No,Active,2025,Savings,BR321
+CUST101068,Shreya Naidu,F,18/07/2004,Telangana,Hyderabad,659,169800,9.9,1,Yes,Inactive,2020,Salary,BR591
+CUST101069,Aditi Patel,F,10/12/1956,Telangana,Hyderabad,827,"₹1,14,200",5.8,2,No,Active,2017,Savings,BR859
+CUST101070,Kabir Deshpande,M,10/01/1962,Maharashtra,Nagpur,712,"₹57,000",3.0,2,No,Active,2008,Savings,BR841
+CUST101071,Riya Rao,F,12/06/1989,Maharashtra,Nashik,587,"₹16,100",8.1,1,No,Active,2018,Salary,BR451
+CUST101072,Divya Rao,F,unknown,West Bengal,Kolkata,652,"₹4,86,800",6.4,1,No,Inactive,2017,Savings,BR539
+CUST101073,Ankit Jain,M,18/09/1979,Uttar Pradesh,Varanasi,673,135800,8.2,2,Yes,,2019,Savings,BR851
+CUST101074,Pallavi Naidu,F,12/02/2002,Delhi,New Delhi,713,27500,4.2,3,Yes,Active,2006,Savings,BR189
+CUST101075,Meera Sharma,F,22/04/1955,Karnataka,Mysuru,793,646400,2.7,2,Yes,Active,2020,Savings,BR461
+CUST101076,Sneha Yadav,F,16/11/1969,Maharashtra,Nashik,869,"₹88,900",9.1,2,Yes,Active,2011,Salary,BR397
+CUST101077,Simran Yadav,F,12/05/1969,Uttar Pradesh,Kanpur,701,"₹53,100",4.7,2,Yes,active ,2011,Salary,BR782
+CUST101078,Priya Kaur,F,04/09/1981,Uttar Pradesh,Varanasi,608,"₹92,500",7.0,2,No,Active,2009,Savings,BR941
+CUST101079,Sunita Chatterjee,F,04/11/1968,Telangana,Warangal,669,99500,3.8,2,Yes,Active,2007,Savings,BR693
+CUST101080,Sneha Patel,F,12/03/1983,Telangana,Warangal,676,NIL,5.0,1,No,Inactive,2005,Salary,BR885
+CUST101081,Pranav Khan,M,04/11/1999,Telangana,Hyderabad,731,49300,15.6,1,No,Active,2013,Savings,BR723
+CUST101082,Vivaan Joshi,M,09/08/1988,Uttar Pradesh,Lucknow,672,29300,5.5,2,No,Active,2007,Savings,BR812
+CUST101083,Sunita Patel,F,09/06/1959,Madhya Pradesh,Bhopal,702,159500,7.1,1,Yes,Inactive,2016,Salary,BR470
+CUST101084,Divya Chatterjee,F,25/11/1995,Maharashtra,Pune,797,"₹73,400",7.4,1,No,Dormant,2025,Savings,BR413
+CUST101085,Manoj Singh,M,07/08/1997,Maharashtra,Nagpur,619,"₹1,56,700",2.1,4,No,Dormant,2021,Savings,BR158
+CUST101086,Sunita Reddy,F,27/10/1982,Tamil Nadu,Madurai,774,29500,6.7,1,No,Active,2011,Savings,BR694
+CUST101087,Lakshmi Rao,F,12/10/2001,Tamil Nadu,Coimbatore,838,"₹55,100",11.1,1,Yes,Active,2016,Savings,BR257
+CUST101088,Sourav Sharma,M,08/05/1975,Uttar Pradesh,Kanpur,784,"₹3,84,600",12.8,2,Yes,Active,2024,Savings,BR992
+CUST101089,Karthik Ahmed,M,21/03/1992,Uttar Pradesh,Noida,630,"₹1,48,600",2.1,1,No,Inactive,2022,Savings,BR204
+CUST101090,Deepak Gill,M,09/05/1996,Gujarat,Surat,688,269200,12.0,1,Yes,Dormant,2023,Savings,BR945
+CUST101091,Arjun Menon,M,19/03/1993,Delhi,New Delhi,649,NIL,2.5,2,No,Active,2010,Savings,BR993
+CUST101092,Rekha Gupta,F,15/12/1981,Tamil Nadu,Coimbatore,652,46300,6.3,2,Yes,Inactive,2008,Salary,BR529
+CUST101093,Pranav Chatterjee,M,12/09/1961,Uttar Pradesh,Kanpur,770,485700,7.1,1,Yes,Inactive,2009,Savings,BR277
+CUST101094,Karthik Chatterjee,M,02/04/1986,Karnataka,Mysuru,671,201100,10.2,1,No,Inactive,2024,Savings,BR600
+CUST101095,Imran Jain,M,13/09/1977,Madhya Pradesh,Indore,638,0,8.8,2,No,Active,2023,Savings,BR436
+CUST101096,Farhan Singh,M,01/05/1974,Tamil Nadu,Coimbatore,705,"₹1,94,600",1.3,2,Yes,Inactive,2006,Savings,BR401
+CUST101097,Pallavi Nair,F,14/03/1971,Maharashtra,Nashik,700,"₹2,77,000",12.0,2,Yes,Inactive,2007,Current,BR314
+CUST101098,Neha Mishra,F,23/04/1974,Delhi,New Delhi,564,418200,3.6,4,No,Inactive,2012,Savings,BR347
+CUST101099,Anjali Bose,F,10/10/1990,Madhya Pradesh,Gwalior,590,"₹2,43,500",10.0,1,No,Dormant,2009,Salary,BR977
+CUST101100,Gurpreet Kaur,M,14/12/1985,Uttar Pradesh,Kanpur,625,82800,6.5,1,No,Active,2019,Current,BR110
+CUST101101,Deepika Gill,F,12/01/1966,Maharashtra,Nagpur,753,"₹29,200",9.5,1,No,Dormant,2005,Savings,BR488
+CUST101102,Aarav Reddy,M,19/12/1967,Maharashtra,Mumbai,717,0,3.7,1,No,Dormant,2011,Savings,BR101
+CUST101103,Amit Agarwal,M,01/04/1985,Uttar Pradesh,Noida,-1,"₹2,13,700",7.7,1,Yes,Inactive,2024,Current,BR345
+CUST101104,Kavya Ahmed,F,19/11/1985,Karnataka,Mysuru,685,0,12.4,1,Yes,Active,2019,Salary,BR259
+CUST101105,Nisha Ahmed,F,05/08/1965,Karnataka,Bengaluru,850,"₹1,49,700",6.0,1,No,Active,2021,Salary,BR596
+CUST101106,Amit Naidu,M,27/02/1989,Gujarat,Rajkot,900,"₹8,300",6.2,3,No,Active,2018,Current,BR108
+CUST101107,Deepika Mehta,F,25/06/1981,Madhya Pradesh,Bhopal,697,"₹65,000",10.0,2,No,Active,2019,Salary,BR813
+CUST101108,Pooja Khan,F,30/11/1953,Rajasthan,Jaipur,813,"₹3,48,700",3.4,1,Yes,Active,2022,Savings,BR952
+CUST101109,Riya Joshi,F,25/05/2002,Kerala,Kochi,732,124600,12.4,2,Yes,Active,2020,Current,BR378
+CUST101110,Ankit Gupta,M,07/09/1991,West Bengal,Kolkata,691,380300,12.3,3,No,Active,2013,Savings,BR531
+CUST101111,Neha Pillai,F,12/11/1982,Rajasthan,Jaipur,826,"₹5,07,500",12.8,1,No,Inactive,2025,Savings,BR953
+CUST101112,Divya Bose,F,07/03/1986,Uttar Pradesh,Noida,676,83800,5.9,2,n,Active,2007,Salary,BR976
+CUST101113,Kavya Naidu,F,05/10/1971,Delhi,New Delhi,711,₹0,7.9,2,No,Dormant,2009,Savings,BR459
+CUST101114,Aarav Shah,M,19/01/1975,Uttar Pradesh,Noida,797,"₹38,500",7.5,1,Yes,active ,2005,Salary,BR972
+CUST101115,Ankit Banerjee,M,17/02/1957,Rajasthan,Udaipur,698,"₹4,95,400",2.0,1,No,Inactive,2022,Salary,BR386
+CUST101116,Kiran Chauhan,F,10/02/1959,Telangana,Hyderabad,678,"₹3,64,000",1.4,1,No,Active,2018,Salary,BR136
+CUST101117,Amit Shah,M,13/09/1962,Uttar Pradesh,Varanasi,707,"₹5,08,500",4.6,2,No,Inactive,2011,Salary,BR540
+CUST101118,Ayesha Sharma,F,21/04/1960,Delhi,New Delhi,790,₹0,4.7,1,No,Active,2024,Salary,BR806
+CUST101119,Anil Sharma,M,19/08/1954,Maharashtra,Mumbai,715,83100,3.9,3,n,Inactive,2005,Salary,BR573
+CUST101120,Rahul Banerjee,M,26/04/1990,Gujarat,Surat,787,"₹2,08,700",7.9,1,Yes,Active,2012,Savings,BR703
+CUST101121,Anjali Joshi,F,03/05/1962,Madhya Pradesh,Indore,707,81900,11.3,3,Yes,Inactive,2011,Savings,BR930
+CUST101122,Diya Kulkarni,F,27/12/1992,Gujarat,Vadodara,739,"₹84,000",3.5,1,No,Active,2020,Savings,BR969
+CUST101123,Fatima Naidu,F,09/06/1980,Maharashtra,Mumbai,790,"₹67,200",5.6,2,No,Inactive,2006,Savings,BR308
+CUST101124,Aditi Mishra,F,28/06/2005,Maharashtra,Pune,710,88400,5.4,3,No,Dormant,2021,Salary,BR596
+CUST101125,Arjun Iyer,M,08/02/1970,Telangana,Warangal,872,"₹4,92,900",6.5,1,No,Active,2016,Salary,BR386
+CUST101126,Nisha Rao,F,08/04/2005,Maharashtra,Mumbai,760,24200,5.1,2,Yes,Active,2006,Salary,BR111
+CUST101127,Meera Menon,F,03/02/1972,Maharashtra,Pune,767,₹0,16.2,3,No,Inactive,2018,Savings,BR772
+CUST101128,Vikram Iyer,M,02/04/1969,Gujarat,Rajkot,690,164800,5.4,4,No,Inactive,2020,Savings,BR759
+CUST101129,Manoj Mehta,M,13/07/1988,Karnataka,Bengaluru,767,134800,3.4,3,Yes,Inactive,2022,Savings,BR581
+CUST101130,Nisha Kulkarni,F,06/10/1988,Uttar Pradesh,Lucknow,713,66700,4.2,2,Yes,Active,2020,Current,BR686
+CUST101131,Sourav Mehta,M,05/09/1973,Rajasthan,Udaipur,676,21900,25.3,2,No,Active,2007,Savings,BR147
+CUST101132,Manoj Joshi,M,19/04/1996,Madhya Pradesh,Bhopal,754,"₹83,000",3.1,1,Yes,Inactive,2020,Salary,BR942
+CUST101133,Sourav Deshpande,M,01/10/1998,Uttar Pradesh,Varanasi,662,"₹99,500",6.6,1,,Inactive,2025,Savings,BR853
+CUST101134,Gurpreet Mehta,M,22/09/1978,Delhi,New Delhi,672,439500,2.2,1,Yes,Inactive,2017,Salary,BR641
+CUST101135,Arjun Das,M,03/06/1986,Karnataka,Bengaluru,824,"₹45,700",8.5,2,Yes,Active,2013,Current,BR387
+CUST101136,Nisha Das,F,07/12/1976,Rajasthan,Udaipur,662,"₹1,19,800",17.9,3,Yes,active ,2021,Salary,BR916
+CUST101137,Lakshmi Joshi,F,10/07/1967,Karnataka,Bengaluru,891,263000,2.3,1,No,Inactive,2023,Savings,BR490
+CUST101138,Sourav Chatterjee,M,25/08/1966,Madhya Pradesh,Gwalior,671,₹0,10.8,1,Yes,Inactive,2024,Salary,BR462
+CUST101139,Nisha Patel,F,18/09/1998,Karnataka,Mysuru,742,"₹2,36,500",3.5,3,Yes,Active,2006,Savings,BR439
+CUST101140,Harish Jain,M,25/06/1982,Karnataka,Bengaluru,788,56100,9.5,2,Yes,Inactive,2011,Savings,BR150
+CUST101141,Karthik Sharma,M,03/07/1991,Gujarat,Rajkot,733,340100,2.6,1,Yes,Active,2005,Savings,BR500
+CUST101142,Kabir Naidu,M,13/05/1957,Maharashtra,Pune,715,378700,4.2,2,No,Active,2006,Savings,BR688
+CUST101143,Aarav Chatterjee,M,unknown,Karnataka,Mysuru,727,797100,4.9,1,Yes,Inactive,2017,Savings,BR417
+CUST101144,Deepika Reddy,F,13/09/1979,West Bengal,Howrah,677,135300,6.2,3,Yes,Active,2020,Savings,BR477
+CUST101145,Arjun Rao,M,22/04/2004,Maharashtra,Mumbai,663,91900,14.0,1,Yes,Active,2007,Current,BR133
+CUST101146,Deepak Chauhan,M,13/01/2003,Maharashtra,Mumbai,693,76900,6.0,1,Yes,Inactive,2019,Savings,BR412
+CUST101147,Rohan Kulkarni,M,15/05/1954,Maharashtra,Nashik,782,"₹62,300",8.9,1,Yes,Inactive,2015,Savings,BR693
+CUST101148,Kavya Deshpande,F,14/04/1981,Tamil Nadu,Chennai,654,₹0,6.2,3,Yes,Active,2009,Savings,BR997
+CUST101149,Vikram Mehta,M,01/11/2002,Delhi,New Delhi,745,"₹1,53,600",7.7,2,Yes,Active,2017,Salary,BR344
+CUST101150,Nisha Das,F,unknown,Maharashtra,Nagpur,806,"₹1,59,600",6.2,1,No,Inactive,2006,Salary,BR796
+CUST101151,Lakshmi Chauhan,F,03/04/1957,Punjab,Ludhiana,658,1298400,10.1,4,No,Inactive,2012,Savings,BR177
+CUST101152,Rekha Jain,F,30/12/2002,Gujarat,Vadodara,755,₹0,5.2,1,Yes,Active,2013,Savings,BR697
+CUST101153,Anil Patel,M,10/01/1955,Maharashtra,Nagpur,748,"₹1,15,400",11.2,2,Yes,Inactive,2013,Savings,BR587
+CUST101154,Amit Naidu,M,09/05/2004,Maharashtra,Nashik,728,"₹6,14,900",5.8,1,No,Inactive,2025,Savings,BR416
+CUST101155,Anil Reddy,M,28/12/1997,Punjab,Amritsar,892,55100,3.6,1,Yes,Active,2022,Savings,BR162
+CUST101156,Sanjay Chatterjee,M,10/12/1993,Gujarat,Surat,772,78600,3.7,2,Yes,Active,2024,Current,BR977
+CUST101157,Fatima Chauhan,F,06/03/1964,Rajasthan,Udaipur,666,₹0,9.1,2,Yes,Inactive,2016,Salary,BR937
+CUST101158,Vikram Gill,M,13/10/1984,Punjab,Ludhiana,747,"₹49,200",3.5,1,Yes,Active,2020,Savings,BR980
+CUST101159,Karthik Ahmed,M,31/07/1974,Maharashtra,Nashik,680,"₹1,97,000",10.2,2,Yes,Active,2013,Salary,BR102
+CUST101160,Pranav Naidu,M,19/07/1991,Maharashtra,Nashik,643,"₹6,25,900",2.9,1,No,Inactive,2012,Savings,BR841
+CUST101161,Harish Verma,M,14/05/2002,Delhi,New Delhi,721,"₹2,26,000",3.7,2,No,Dormant,2022,Savings,BR270
+CUST101162,Neha Iyer,F,15/03/1995,Maharashtra,Nagpur,718,"₹1,16,600",12.3,2,Yes,Active,2012,Current,BR859
+CUST101163,Kabir Mishra,M,04/05/1962,Tamil Nadu,Madurai,,143700,2.7,1,Y,Active,2025,Salary,BR858
+CUST101164,Rohan Chauhan,M,26/11/1972,Rajasthan,Udaipur,720,"₹44,200",7.2,1,Yes,Active,2022,Savings,BR365
+CUST101165,Rahul Sharma,M,12/11/1967,Karnataka,Bengaluru,694,₹0,3.9,1,Yes,Active,2013,Savings,BR627
+CUST101166,Swati Das,F,20/02/2003,Maharashtra,Nashik,750,"₹88,200",14.1,3,Yes,Active,2019,Salary,BR777
+CUST101167,Priya Nair,F,04/04/2002,Delhi,New Delhi,705,0,6.3,4,No,Active,2008,Salary,BR438
+CUST101168,Aarav Yadav,M,12/09/1967,Delhi,New Delhi,755,"₹2,82,800",6.1,2,Yes,Inactive,2006,Savings,BR639
+CUST101169,Harish Chatterjee,M,05/04/1989,Telangana,Hyderabad,829,"₹44,000",3.3,2,,Inactive,2005,Savings,BR530
+CUST101170,Sourav Sharma,M,18/08/1977,Gujarat,Surat,792,40000,5.5,2,No,Active,2005,Savings,BR965
+CUST101171,Sneha Kulkarni,F,12/11/1967,Maharashtra,Nashik,602,"₹5,17,200",9.2,1,No,Inactive,2005,Salary,BR478
+CUST101172,Sanjay Verma,M,14/12/1965,West Bengal,Kolkata,763,"₹2,94,600",12.7,1,Yes,Dormant,2024,Savings,BR952
+CUST101173,Lakshmi Kulkarni,F,,Punjab,Amritsar,744,79500,4.3,1,Yes,Active,2007,Savings,BR745
+CUST101174,Anil Patel,M,28/03/1999,Maharashtra,Nashik,649,"₹2,54,000",19.1,1,Yes,Inactive,2017,Current,BR210
+CUST101175,Farhan Verma,M,20/01/1976,Maharashtra,Mumbai,689,2.5 lakh,7.1,1,Yes,Active,2018,Savings,BR636
+CUST101176,Ananya Kaur,F,05/10/1995,Kerala,Thiruvananthapuram,714,53900,2.7,4,Yes,Active,2019,Savings,BR758
+CUST101177,Farhan Iyer,M,17/04/1983,Maharashtra,Nashik,-1,"₹41,600",5.5,4,Yes,Active,2006,Savings,BR427
+CUST101178,Anil Kulkarni,M,04/01/2005,Delhi,New Delhi,767,,4.7,2,Yes,Active,2024,Savings,BR372
+CUST101179,Arjun Bose,M,20/12/1960,Tamil Nadu,Chennai,621,"₹47,200",2.7,2,Yes,Active,2020,Savings,BR263
+CUST101180,Rekha Rao,F,05/05/1970,Karnataka,Mangaluru,699,"₹1,05,200",6.9,4,No,Active,2018,Savings,BR206
+CUST101181,Karthik Gupta,M,22/05/1999,Kerala,Thiruvananthapuram,684,"₹13,800",6.5,1,Yes,,2019,Savings,BR869
+CUST101182,Ankit Jain,M,25/09/1973,Kerala,Thiruvananthapuram,789,0,9.6,1,Yes,Active,2008,Savings,BR405
+CUST101183,Gurpreet Jain,M,31/01/1998,Maharashtra,Nagpur,682,28200,6.6,1,Yes,Active,2022,Savings,BR559
+CUST101184,Lakshmi Ahmed,F,19/04/1989,Kerala,Kochi,765,113600,10.0,3,No,Inactive,2005,Savings,BR690
+CUST101185,Rajesh Chauhan,M,12/02/1989,Delhi,New Delhi,694,66100,16.4,1,Yes,Inactive,2020,Savings,BR102
+CUST101186,Farhan Gupta,M,08/09/1987,Delhi,New Delhi,685,"₹1,42,900",9.3,1,Yes,Inactive,2005,Savings,BR128
+CUST101187,Priya Mehta,F,,Delhi,New Delhi,763,80000,2.6,2,No,Inactive,2023,Salary,BR536
+CUST101188,Suresh Chatterjee,M,30/10/1995,Gujarat,Surat,768,238100,15.8,1,No,Active,2025,Savings,BR258
+CUST101189,Rekha Mehta,F,16/03/1977,Madhya Pradesh,Bhopal,704,0,5.7,1,Yes,Active,2012,Savings,BR127
+CUST101190,Neha Agarwal,F,28/03/1972,West Bengal,Howrah,698,51800,11.6,1,Yes,Inactive,2021,Savings,BR330
+CUST101191,Ankit Das,M,15/10/1998,Gujarat,Surat,746,1.2 Cr,4.2,3,Yes,Active,2009,Savings,BR675
+CUST101192,Simran Reddy,F,12/10/1984,Tamil Nadu,Madurai,828,"₹33,000",1.6,1,No,Inactive,2022,Salary,BR499
+CUST101193,Aditya Menon,M,unknown,Rajasthan,Udaipur,770,25500,4.5,3,No,Active,2013,Savings,BR970
+CUST101194,Deepika Pillai,F,22/02/2000,Rajasthan,Jodhpur,748,15500,8.8,3,Y,Inactive,2023,Savings,BR978
+CUST101195,Sneha Singh,F,12/05/2003,Delhi,New Delhi,722,"₹1,54,700",8.0,2,No,Active,2008,Savings,BR210
+CUST101196,Aditya Yadav,M,12/11/1958,Uttar Pradesh,Varanasi,783,"₹1,11,300",22.2,2,Yes,Inactive,2016,Salary,BR150
+CUST101197,Kavya Pillai,F,10/09/1989,Gujarat,Rajkot,659,"₹2,94,200",7.8,1,Yes,Inactive,2007,Salary,BR101
+CUST101198,Priya Ahmed,F,13/08/2000,Uttar Pradesh,Noida,674,"₹3,92,800",11.3,1,Yes,Active,2010,Salary,BR317
+CUST101199,Suresh Iyer,M,03/03/1988,Maharashtra,Nashik,737,75600,10.8,2,Yes,Inactive,2005,Savings,BR960
+CUST101200,Amit Yadav,M,30/06/2002,Rajasthan,Jodhpur,727,37400,7.9,2,Yes,Active,2006,Savings,BR290
+CUST101201,Lakshmi Sharma,F,16/05/1966,Kerala,Kochi,688,"₹3,87,000",9.2,1,No,Inactive,2006,Savings,BR401
+CUST101202,Riya Banerjee,F,unknown,Gujarat,Surat,718,31100,36.8,1,No,Dormant,2016,Savings,BR561
+CUST101203,Swati Nair,F,08/09/2001,Rajasthan,Jodhpur,716,"₹13,000",6.4,2,No,Inactive,2019,Savings,BR287
+CUST101204,Arjun Agarwal,M,25/11/1963,Gujarat,Ahmedabad,682,"₹89,100",7.2,1,Yes,Active,2012,Savings,BR993
+CUST101205,Sourav Ahmed,M,20/05/2002,West Bengal,Howrah,607,128700,26.3,1,Yes,Inactive,2024,Savings,BR242
+CUST101206,Rohan Nair,M,14/02/1995,Delhi,New Delhi,775,"₹16,41,100",7.7,2,No,Active,2018,Savings,BR184
+CUST101207,Aditi Nair,F,14/02/1956,Karnataka,Mangaluru,710,"₹2,30,100",13.2,1,No,Active,2014,Salary,BR856
+CUST101208,Ishaan Gill,M,,Tamil Nadu,Chennai,851,304300,6.8,2,No,Active,2017,Savings,BR167
+CUST101209,Ananya Khan,F,05/03/1959,Tamil Nadu,Madurai,771,937700,8.9,1,Yes,active ,2021,Savings,BR667
+CUST101210,Kiran Yadav,F,30/04/1973,Maharashtra,Nagpur,649,460900,4.4,2,No,Active,2021,Savings,BR583
+CUST101211,Ayesha Kulkarni,F,01/10/1993,Karnataka,Mangaluru,715,264200,10.6,1,Yes,Active,2010,Savings,BR477
+CUST101212,Riya Bose,F,28/07/1987,Uttar Pradesh,Noida,765,509800,3.4,1,Yes,Inactive,2021,Salary,BR815
+CUST101213,Amit Singh,M,23/12/1999,Uttar Pradesh,Kanpur,-1,"₹58,500",4.3,1,Yes,Active,2010,Savings,BR664
+CUST101214,Swati Yadav,F,10/03/1963,Punjab,Amritsar,614,"₹66,900",4.7,1,Yes,Active,2023,Savings,BR779
+CUST101215,Arjun Joshi,M,17/02/1996,Rajasthan,Jodhpur,681,125300,2.1,3,No,Inactive,2012,Savings,BR306
+CUST101216,Aarav Gupta,M,unknown,Delhi,New Delhi,850,295000,8.3,1,No,Active,2024,Savings,BR560
+CUST101217,Divya Kulkarni,F,01/03/1987,Madhya Pradesh,Bhopal,801,27600,5.6,2,Yes,Active,2011,Savings,BR377
+CUST101218,Rahul Chatterjee,M,19/07/1969,Delhi,New Delhi,796,"₹18,800",4.3,2,No,Dormant,2016,Current,BR912
+CUST101219,Divya Mehta,F,20/12/1986,West Bengal,Kolkata,614,84000,1.7,1,No,Active,2018,Salary,BR350
+CUST101220,Anjali Deshpande,F,16/10/1991,Delhi,New Delhi,775,206200,3.5,1,Yes,Active,2010,Salary,BR885
+CUST101221,Aarav Chauhan,M,03/10/2003,Karnataka,Mysuru,755,75900,5.2,2,Yes,Active,2010,Savings,BR829
+CUST101222,Ramesh Verma,M,09/01/1980,Delhi,New Delhi,807,"₹26,300",3.4,1,No,Active,2006,Salary,BR264
+CUST101223,Shreya Verma,F,09/07/1975,Gujarat,Ahmedabad,753,350200,5.0,2,No,Inactive,2009,Savings,BR986
+CUST101224,Ananya Jain,F,21/01/1965,Rajasthan,Jodhpur,699,"₹2,38,000",9.1,1,No,Active,2024,Savings,BR670
+CUST101225,Ishaan Khan,M,01/08/1958,Rajasthan,Jodhpur,789,41100,11.1,1,No,Active,2022,Current,BR716
+CUST101226,Isha Agarwal,F,08/05/1966,Gujarat,Vadodara,855,,7.4,1,No,Active,2014,Savings,BR739
+CUST101227,Deepak Reddy,M,unknown,Tamil Nadu,Madurai,673,"₹2,39,300",15.2,1,Yes,Active,2020,Savings,BR869
+CUST101228,Rohan Ahmed,M,27/06/1983,Rajasthan,Jaipur,843,0,13.9,1,No,Active,2020,Savings,BR356
+CUST101229,Karthik Mishra,M,02/10/1968,Kerala,Thiruvananthapuram,,46100,9.0,1,Yes,Inactive,2010,Savings,BR472
+CUST101230,Sourav Bose,M,,Punjab,Ludhiana,784,"₹1,02,000",5.2,3,No,Active,2024,Savings,BR885
+CUST101231,Kiran Yadav,F,15/08/1981,Karnataka,Mysuru,825,"₹8,87,300",3.5,2,No,Inactive,2022,Salary,BR884
+CUST101232,Manoj Das,M,16/08/1974,Madhya Pradesh,Gwalior,705,131200,2.9,2,No,Active,2023,Savings,BR237
+CUST101233,Simran Rao,F,25/02/1980,Tamil Nadu,Chennai,844,1496600,13.3,2,Yes,Active,2017,Savings,BR441
+CUST101234,Amit Menon,M,15/08/1996,Karnataka,Mangaluru,669,"₹2,52,600",9.8,2,Yes,Inactive,2019,Savings,BR624
+CUST101235,Simran Naidu,F,29/07/1975,Maharashtra,Nagpur,651,225500,6.6,2,Yes,Inactive,2017,Current,BR203
+CUST101236,Simran Agarwal,F,29/07/1959,Punjab,Amritsar,662,66900,4.8,2,Yes,Dormant,2006,Current,BR230
+CUST101237,Pranav Joshi,M,04/12/1986,Karnataka,Mysuru,724,"₹7,87,300",2.5,2,No,Inactive,2006,Savings,BR906
+CUST101238,Suresh Ahmed,M,09/12/1968,Gujarat,Rajkot,642,22800,5.4,1,No,Inactive,2018,Salary,BR649
+CUST101239,Imran Banerjee,M,04/09/2004,Maharashtra,Mumbai,708,"₹78,500",1.8,3,Yes,Inactive,2007,Salary,BR746
+CUST101240,Meera Chatterjee,F,20/05/1962,Gujarat,Surat,641,"₹1,20,500",7.9,1,No,Active,2021,Current,BR726
+CUST101241,Ishaan Kaur,M,29/05/1979,Rajasthan,Udaipur,784,86400,1.8,1,No,Active,2017,Current,BR357
+CUST101242,Anjali Pillai,F,15/10/1967,Rajasthan,Jaipur,650,"₹87,000",3.7,2,Yes,Active,2005,Savings,BR550
+CUST101243,Anil Verma,M,19/06/1964,West Bengal,Kolkata,753,"₹59,400",9.4,2,Yes,Active,2010,Savings,BR789
+CUST101244,Rekha Verma,F,,Gujarat,Surat,793,3600,14.7,3,No,Active,2012,Savings,BR836
+CUST101245,Amit Agarwal,M,09/08/1984,Maharashtra,Mumbai,745,47200,7.9,1,No,Active,2017,Salary,BR261
+CUST101246,Harish Das,Other,20/10/1998,Madhya Pradesh,Indore,670,253000,6.1,2,Yes,Dormant,2020,Savings,BR590
+CUST101247,Deepika Joshi,F,08/05/1960,Karnataka,Bengaluru,701,0,2.5,3,Yes,Active,2022,Salary,BR524
+CUST101248,Ananya Joshi,F,unknown,West Bengal,Howrah,613,"₹61,000",1.8,2,No,Active,2011,Savings,BR798
+CUST101249,Priya Chauhan,F,10/07/2003,Madhya Pradesh,Gwalior,777,₹0,12.0,1,Yes,Active,2009,Salary,BR398
+CUST101250,Vivaan Mishra,M,22/05/1960,Punjab,Ludhiana,741,"₹54,800",5.8,2,Yes,Active,2007,Salary,BR135
+CUST101251,Sunita Mehta,F,15/05/1969,West Bengal,Kolkata,633,27200,4.2,4,No,Dormant,2008,Savings,BR875
+CUST101252,Rajesh Sharma,M,15/08/1985,Madhya Pradesh,Gwalior,701,"₹81,900",2.4,1,Yes,Dormant,2010,Savings,BR285
+CUST101253,Aarav Verma,M,07/06/1955,West Bengal,Kolkata,637,120100,4.7,1,Yes,Active,2017,Savings,BR620
+CUST101254,Aditya Banerjee,M,25/12/1980,Tamil Nadu,Coimbatore,716,"₹28,700",4.4,1,No,Active,2016,Savings,BR560
+CUST101255,Harish Menon,M,05/08/1962,Uttar Pradesh,Noida,781,100500,7.9,1,Yes,Inactive,2015,Savings,BR494
+CUST101256,Aditi Mehta,F,04/01/1976,Kerala,Thiruvananthapuram,714,154300,1.7,2,Yes,Active,2006,Salary,BR620
+CUST101257,Karthik Mishra,M,29/09/2004,Gujarat,Surat,779,"₹46,000",13.5,1,No,Dormant,2014,Salary,BR772
+CUST101258,Rohan Kaur,M,,Maharashtra,Nagpur,595,35000,3.7,1,Yes,Inactive,2010,Savings,BR327
+CUST101259,Aditi Khan,F,03/01/1972,Karnataka,Mysuru,718,216600,6.4,2,No,Active,2014,Savings,BR800
+CUST101260,Amit Singh,M,21/11/1992,Telangana,Warangal,741,452500,8.6,1,Yes,Active,2019,Savings,BR507
+CUST101261,Ramesh Banerjee,M,25/02/1958,West Bengal,Howrah,702,"₹93,000",3.7,1,Yes,Inactive,2015,Current,BR397
+CUST101262,Harish Bose,M,25/06/1998,Rajasthan,Jodhpur,789,635600,13.3,1,Yes,Inactive,2018,Salary,BR399
+CUST101263,Aditya Deshpande,M,21/09/1981,Maharashtra,Nashik,804,"₹1,56,200",7.6,2,No,Active,2022,Savings,BR922
+CUST101264,Sneha Banerjee,F,26/01/1958,Uttar Pradesh,Kanpur,629,"₹74,700",5.3,2,Y,Active,2006,Salary,BR593
+CUST101265,Riya Singh,F,11/01/1979,Gujarat,Vadodara,592,191100,6.5,2,Yes,Active,2012,Savings,BR617
+CUST101266,Karthik Kaur,M,27/12/1998,West Bengal,Kolkata,705,65000,8.9,2,No,Inactive,2017,Salary,BR798
+CUST101267,Imran Ahmed,M,03/04/1955,West Bengal,Howrah,669,₹0,3.8,2,,Inactive,2009,Salary,BR260
+CUST101268,Riya Agarwal,F,25/12/1997,Maharashtra,Nagpur,687,"₹4,34,200",11.4,2,Yes,Inactive,2016,Salary,BR152
+CUST101269,Ramesh Yadav,M,17/10/1975,Gujarat,Ahmedabad,702,"₹6,43,400",8.9,1,No,Inactive,2007,Savings,BR608
+CUST101270,Aarav Banerjee,M,unknown,Tamil Nadu,Madurai,745,31400,1.2,1,Yes,Active,2007,Salary,BR378
+CUST101271,Pallavi Joshi,F,01/04/1957,Kerala,Kochi,694,"₹3,02,800",6.9,2,Yes,Inactive,2007,Salary,BR824
+CUST101272,Vikram Jain,M,30/12/1967,Kerala,Thiruvananthapuram,565,64400,14.7,2,No,Inactive,2012,Savings,BR491
+CUST101273,Swati Gill,F,22/01/1981,Gujarat,Vadodara,688,,5.9,1,Yes,Dormant,2015,Salary,BR296
+CUST101274,Sanjay Mehta,M,12/05/1962,Uttar Pradesh,Varanasi,740,205800,8.3,3,Yes,Dormant,2019,Salary,BR936
+CUST101275,Rajesh Deshpande,M,23/09/1971,Rajasthan,Jodhpur,672,₹0,9.6,1,Yes,,2014,Savings,BR599
+CUST101276,Deepak Reddy,M,07/12/1978,Maharashtra,Pune,715,74100,13.5,1,Yes,Active,2017,Savings,BR307
+CUST101277,Neha Pillai,F,05/07/1968,Rajasthan,Jodhpur,723,₹0,11.9,1,No,Active,2025,Savings,BR895
+CUST101278,Pranav Mishra,M,20/08/1986,Karnataka,Mangaluru,714,287000,3.2,1,No,Active,2014,Current,BR776
+CUST101279,Riya Rao,F,11/01/1978,Gujarat,Rajkot,826,541100,3.6,3,Yes,Inactive,2011,Savings,BR735
+CUST101280,Kavya Agarwal,F,22/11/1968,West Bengal,Howrah,826,,2.5,1,No,Inactive,2005,Savings,BR404
+CUST101281,Swati Yadav,F,31/10/1999,Madhya Pradesh,Bhopal,785,315000,3.4,3,No,Active,2021,Savings,BR165
+CUST101282,Anjali Mishra,F,10/09/1970,Gujarat,Rajkot,803,"₹1,50,600",5.6,2,Yes,Inactive,2011,Savings,BR924
+CUST101283,Isha Mehta,F,05/01/1998,Karnataka,Bengaluru,850,25400,4.6,2,No,Active,2005,Salary,BR745
+CUST101284,Rahul Yadav,M,27/07/1993,Uttar Pradesh,Lucknow,749,₹0,8.3,2,Yes,Active,2017,Current,BR150
+CUST101285,Pooja Naidu,F,18/06/1970,Karnataka,Mysuru,821,"₹89,500",5.6,2,No,Active,2017,Savings,BR772
+CUST101286,Rajesh Deshpande,M,11/07/1992,Gujarat,Surat,736,"₹10,05,600",4.9,2,No,Active,2005,Savings,BR439
+CUST101287,Pranav Sharma,M,27/07/1968,Gujarat,Rajkot,712,"₹38,200",5.3,3,n,Active,2015,Savings,BR414
+CUST101288,Pallavi Menon,F,14/12/1955,Uttar Pradesh,Noida,761,164000,10.5,2,Yes,Active,2016,Savings,BR457
+CUST101289,Sunita Kaur,F,13/10/1961,Maharashtra,Nagpur,793,"₹1,22,500",6.5,1,Yes,Active,2006,Savings,BR880
+CUST101290,Suresh Jain,M,10/03/1982,West Bengal,Kolkata,728,307800,6.0,2,No,Active,2013,Savings,BR498
+CUST101291,Aditya Singh,M,01/01/1998,Tamil Nadu,Chennai,777,"₹2,82,700",4.0,2,No,Active,2011,Savings,BR171
+CUST101292,Fatima Bose,F,28/05/1970,Madhya Pradesh,Bhopal,712,112100,2.6,2,Yes,Active,2017,Salary,BR481
+CUST101293,Divya Joshi,F,07/06/1970,Gujarat,Rajkot,601,285600,5.2,1,No,Inactive,2018,Salary,BR420
+CUST101294,Kavya Das,F,13/04/1967,Punjab,Amritsar,774,NIL,2.3,1,Yes,Active,2011,Savings,BR513
+CUST101295,Vikram Joshi,M,23/03/1967,Kerala,Kochi,738,"₹95,700",15.7,2,Yes,Inactive,2014,Savings,BR841
+CUST101296,Suresh Chauhan,M,24/06/1978,Maharashtra,Mumbai,788,"₹83,200",7.4,1,Yes,Inactive,2016,Salary,BR334
+CUST101297,Diya Ahmed,F,14/06/1987,Gujarat,Vadodara,800,45200,10.6,2,Yes,Inactive,2009,Salary,BR863
+CUST101298,Gurpreet Singh,M,02/10/1985,Telangana,Hyderabad,714,397900,10.3,3,Yes,Active,2023,Salary,BR498
+CUST101299,Priya Khan,F,17/10/2001,Punjab,Amritsar,672,"₹69,900",6.3,1,No,Inactive,2013,Savings,BR394
+CUST101300,Suresh Agarwal,M,03/04/1964,Kerala,Thiruvananthapuram,655,53500,6.4,1,No,Active,2024,Salary,BR206
+CUST101301,Riya Sharma,F,16/12/1979,Uttar Pradesh,Varanasi,720,44400,6.1,1,Yes,Active,2019,Savings,BR687
+CUST101302,Ayesha Deshpande,F,29/02/1964,Maharashtra,Mumbai,669,724400,9.8,3,No,Inactive,2009,Savings,BR487
+CUST101303,Ayesha Patel,F,19/08/1987,Uttar Pradesh,Lucknow,655,30100,0.9,2,Yes,Inactive,2011,Savings,BR806
+CUST101304,Shreya Sharma,F,04/04/1957,Tamil Nadu,Coimbatore,709,86000,2.1,1,Yes,active ,2011,Savings,BR632
+CUST101305,Anil Gupta,M,21/09/1971,Delhi,New Delhi,784,56200,9.2,2,Yes,Active,2019,Savings,BR295
+CUST101306,Karthik Das,M,20/06/1984,Tamil Nadu,Chennai,681,"₹10,800",8.7,2,Yes,Inactive,2008,Salary,BR593
+CUST101307,Swati Rao,F,20/06/1991,Delhi,New Delhi,775,"₹14,500",5.1,2,No,Dormant,2019,Savings,BR292
+CUST101308,Ankit Rao,M,05/01/1969,Delhi,New Delhi,643,66200,8.2,3,Yes,,2022,Salary,BR789
+CUST101309,Pooja Kaur,F,16/03/1965,Telangana,Hyderabad,738,293500,3.1,3,Yes,Dormant,2018,Savings,BR362
+CUST101310,Harish Joshi,M,04/10/2002,Uttar Pradesh,Noida,646,88000,1.8,2,Yes,Active,2023,Savings,BR576
+CUST101311,Neha Mehta,F,01/10/1995,Delhi,New Delhi,794,"₹38,200",7.3,2,No,Active,2022,Savings,BR572
+CUST101312,Vikram Verma,M,01/11/1956,Tamil Nadu,Madurai,757,124600,16.3,2,No,Active,2010,Salary,BR202
+CUST101313,Sunita Rao,F,19/03/1990,Gujarat,Vadodara,657,"₹45,300",1.9,2,Yes,Active,2022,Savings,BR331
+CUST101314,Ananya Jain,F,23/09/2004,Gujarat,Ahmedabad,709,"₹67,200",4.4,1,Yes,Active,2021,Salary,BR120
+CUST101315,Arjun Chauhan,M,19/01/1996,Punjab,Ludhiana,706,"₹7,300",5.5,2,Yes,Active,2021,Salary,BR855
+CUST101316,Gurpreet Shah,M,19/08/1987,Maharashtra,Nagpur,856,"₹4,42,300",2.8,1,Yes,Dormant,2014,Salary,BR393
+CUST101317,Suresh Jain,M,24/03/1956,Madhya Pradesh,Gwalior,663,"₹15,800",2.9,1,No,Dormant,2015,Current,BR592
+CUST101318,Sunita Das,F,11/02/2004,Rajasthan,Jaipur,NA,"₹3,30,200",6.9,1,Yes,Active,2025,Current,BR824
+CUST101319,Swati Chauhan,F,12/01/1961,Rajasthan,Udaipur,745,"₹3,59,200",4.3,3,No,Active,2019,Current,BR978
+CUST101320,Gurpreet Shah,M,27/08/1984,Madhya Pradesh,Gwalior,773,"₹1,46,800",4.8,4,No,Active,2009,Savings,BR718
+CUST101321,Harish Rao,M,01/08/1994,Karnataka,Bengaluru,726,84000,4.1,1,Yes,active ,2020,Salary,BR312
+CUST101322,Karthik Iyer,M,08/12/1963,Gujarat,Rajkot,689,102400,10.3,2,No,Dormant,2020,Current,BR612
+CUST101323,Sneha Khan,F,12/08/1961,Uttar Pradesh,Kanpur,710,264200,6.2,1,No,Active,2013,Savings,BR237
+CUST101324,Farhan Ahmed,M,21/02/1956,Delhi,New Delhi,729,192100,6.0,4,No,,2021,Savings,BR825
+CUST101325,Lakshmi Sharma,F,26/03/1975,Madhya Pradesh,Gwalior,627,"₹79,700",2.4,1,No,Active,2017,Salary,BR585
+CUST101326,Aditya Mishra,M,04/06/1997,Karnataka,Mysuru,675,411900,5.7,1,Yes,Active,2017,Savings,BR355
+CUST101327,Aarav Jain,M,08/07/1966,Delhi,New Delhi,581,"₹5,09,700",1.7,2,Yes,active ,2019,Savings,BR856
+CUST101328,Vikram Rao,M,12/05/1993,Delhi,New Delhi,804,2.5 lakh,14.8,1,Yes,,2018,Savings,BR824
+CUST101329,Vikram Yadav,M,02/01/1980,Madhya Pradesh,Bhopal,740,78100,11.1,2,Yes,Active,2021,Savings,BR401
+CUST101330,Simran Bose,F,03/08/1973,Maharashtra,Pune,739,1089300,6.9,1,Yes,Inactive,2020,Savings,BR376
+CUST101331,Harish Pillai,M,18/11/1960,Telangana,Hyderabad,636,133900,3.5,1,No,Active,2007,Salary,BR983
+CUST101332,Shreya Sharma,F,03/10/1992,Karnataka,Bengaluru,725,47800,4.1,2,No,active ,2020,Savings,BR752
+CUST101333,Neha Naidu,F,04/01/2003,Maharashtra,Nashik,731,408500,10.2,2,Yes,Inactive,2015,Savings,BR328
+CUST101334,Sunita Chatterjee,F,19/07/1969,Madhya Pradesh,Gwalior,730,20100,14.2,1,No,Active,2005,Salary,BR413
+CUST101335,Arjun Mehta,M,09/06/1996,Delhi,New Delhi,650,"₹58,100",11.1,2,Yes,Active,2012,Savings,BR859
+CUST101336,Imran Jain,M,18/02/1970,West Bengal,Kolkata,731,"₹19,900",5.5,1,Yes,,2022,Current,BR995
+CUST101337,Rohan Sharma,M,15/10/1973,Delhi,New Delhi,591,,4.7,2,No,Inactive,2020,Savings,BR624
+CUST101338,Deepika Pillai,F,19/03/1967,Madhya Pradesh,Gwalior,888,"₹22,000",3.1,1,Yes,Inactive,2008,Savings,BR302
+CUST101339,Ramesh Naidu,M,27/12/1994,Gujarat,Vadodara,674,"₹2,39,600",5.9,2,Yes,Inactive,2007,Savings,BR998
+CUST101340,Sourav Pillai,M,11/06/1959,Telangana,Warangal,844,"₹36,900",4.9,1,Yes,Active,2010,Salary,BR151
+CUST101341,Nisha Ahmed,F,08/08/1965,West Bengal,Howrah,-1,69300,13.2,1,Yes,Active,2013,Savings,BR793
+CUST101342,Rohan Pillai,M,01/09/1981,Tamil Nadu,Chennai,669,179100,3.8,2,Yes,Active,2023,Salary,BR409
+CUST101343,Lakshmi Yadav,F,03/02/1958,Gujarat,Ahmedabad,790,"₹1,39,200",8.6,3,Yes,Inactive,2017,Salary,BR632
+CUST101344,Deepak Verma,M,12/07/1966,Rajasthan,Udaipur,740,"₹1,72,500",4.1,1,Yes,Active,2024,Savings,BR458
+CUST101345,Vikram Ahmed,M,26/06/1981,Rajasthan,Jodhpur,739,"₹2,08,500",6.1,1,Yes,Inactive,2025,Salary,BR144
+CUST101346,Aarav Bose,M,18/04/2003,Karnataka,Bengaluru,660,99300,8.8,1,No,Active,2014,Salary,BR591
+CUST101347,Ankit Yadav,M,19/09/1977,Uttar Pradesh,Varanasi,823,948700,8.1,2,No,Inactive,2011,Savings,BR600
+CUST101348,Rajesh Chauhan,M,21/09/1979,Gujarat,Vadodara,740,"₹1,25,400",3.6,4,No,Active,2017,Savings,BR475
+CUST101349,Fatima Pillai,F,01/08/1972,Telangana,Hyderabad,690,"₹5,10,100",7.0,2,No,Active,2014,Savings,BR665
+CUST101350,Gurpreet Gupta,M,02/09/1981,Kerala,Kochi,778,"₹1,87,600",5.0,2,Yes,Inactive,2019,Savings,BR634
+CUST101351,Sunita Reddy,F,23/02/1970,Maharashtra,Pune,877,55400,8.5,1,Yes,Active,2020,Savings,BR139
+CUST101352,Ananya Das,F,10/06/1964,Delhi,New Delhi,683,247300,9.6,1,Yes,Active,2006,Savings,BR777
+CUST101353,Pooja Sharma,F,03/02/2003,West Bengal,Howrah,694,78900,12.9,1,No,Inactive,2016,Savings,BR679
+CUST101354,Deepika Rao,F,02/10/1994,Uttar Pradesh,Lucknow,680,22000,6.4,2,No,Active,2006,Savings,BR344
+CUST101355,Suresh Kulkarni,Other,15/02/1957,Karnataka,Bengaluru,650,46500,8.1,2,No,Inactive,2008,Savings,BR275
+CUST101356,Meera Chauhan,F,23/10/1977,Uttar Pradesh,Kanpur,721,2.5 lakh,5.7,2,Yes,Active,2018,Salary,BR247
+CUST101357,Kavya Yadav,F,17/05/1963,Delhi,New Delhi,703,96900,4.9,1,No,Active,2005,Salary,BR255
+CUST101358,Rekha Gill,F,31/03/1956,Telangana,Warangal,746,"₹1,50,600",7.3,3,Y,Inactive,2011,Salary,BR606
+CUST101359,Deepak Shah,M,01/06/1996,Karnataka,Mangaluru,708,"₹1,56,200",10.6,1,Yes,Active,2012,Current,BR923
+CUST101360,Ishaan Joshi,M,06/01/1965,Uttar Pradesh,Varanasi,697,8800,5.6,1,Yes,Active,2010,Savings,BR240
+CUST101361,Kavya Patel,F,,Rajasthan,Jodhpur,647,"₹48,600",1.0,2,No,Active,2023,Salary,BR799
+CUST101362,Aditya Khan,M,23/02/1961,Karnataka,Mysuru,-1,"₹1,39,500",2.9,2,No,Active,2012,Savings,BR642
+CUST101363,Sunita Verma,F,08/01/1965,Gujarat,Ahmedabad,655,27200,9.5,1,Yes,Active,2019,Current,BR946
+CUST101364,Fatima Ahmed,F,26/02/1984,Tamil Nadu,Coimbatore,762,0,7.8,2,No,Inactive,2007,Salary,BR895
+CUST101365,Swati Jain,F,25/05/1969,Tamil Nadu,Coimbatore,750,285800,3.3,2,No,Active,2012,Salary,BR609
+CUST101366,Kavya Gupta,F,30/01/1964,Telangana,Hyderabad,720,436300,9.6,1,No,Dormant,2016,Savings,BR258
+CUST101367,Simran Khan,F,31/05/1973,Gujarat,Vadodara,749,"₹23,800",7.9,1,Yes,Dormant,2024,Savings,BR420
+CUST101368,Sanjay Ahmed,M,23/09/1960,Maharashtra,Nashik,778,185600,8.1,1,Yes,Inactive,2022,Salary,BR809
+CUST101369,Suresh Iyer,M,13/04/1963,Karnataka,Mysuru,751,"₹43,800",4.8,1,No,Active,2011,Savings,BR384
+CUST101370,Rekha Pillai,F,15/05/1994,Delhi,New Delhi,673,382200,11.7,1,Yes,active ,2018,Savings,BR712
+CUST101371,Meera Sharma,F,28/07/1960,Gujarat,Vadodara,649,525200,10.5,3,Yes,Inactive,2007,Salary,BR232
+CUST101372,Anil Bose,M,16/01/1954,Maharashtra,Nagpur,774,"₹1,16,400",2.4,2,,Active,2010,Savings,BR504
+CUST101373,Isha Chauhan,F,01/06/1960,Gujarat,Vadodara,703,"₹2,46,600",3.4,2,No,Active,2018,Savings,BR224
+CUST101374,Sneha Mishra,F,24/07/1962,West Bengal,Kolkata,796,211500,10.5,2,Yes,Active,2020,Savings,BR206
+CUST101375,Sourav Yadav,M,18/07/1976,Karnataka,Mysuru,817,258800,9.1,1,Yes,Active,2024,Savings,BR846
+CUST101376,Deepak Khan,M,24/12/2004,Madhya Pradesh,Gwalior,678,602800,4.7,2,Yes,Active,2008,Savings,BR578
+CUST101377,Shreya Gupta,F,09/05/1976,Maharashtra,Nagpur,663,115300,7.7,2,Yes,Active,2015,Salary,BR169
+CUST101378,Aarav Mishra,M,30/11/1954,Punjab,Amritsar,799,"₹1,31,400",10.7,1,No,Inactive,2022,Savings,BR344
+CUST101379,Simran Patel,F,17/11/1984,Uttar Pradesh,Kanpur,679,"₹28,600",4.7,2,Yes,Active,2005,Salary,BR811
+CUST101380,Diya Mehta,F,03/10/1978,Delhi,New Delhi,705,216900,5.1,1,Yes,Inactive,2024,Salary,BR366
+CUST101381,Deepika Mishra,F,unknown,Kerala,Kochi,677,"₹6,41,600",8.7,2,No,Inactive,2011,Current,BR894
+CUST101382,Anil Naidu,M,01/08/2003,Maharashtra,Nagpur,779,97500,3.5,2,Yes,Inactive,2013,Savings,BR115
+CUST101383,Rahul Joshi,M,17/04/2005,Maharashtra,Nashik,738,"₹4,24,000",6.0,1,No,Inactive,2023,Salary,BR469
+CUST101384,Anjali Verma,F,21/10/1986,Uttar Pradesh,Noida,696,"₹9,38,900",5.7,2,No,active ,2010,Savings,BR263
+CUST101385,Anil Bose,M,03/03/1980,West Bengal,Howrah,801,"₹4,60,000",4.5,1,No,Active,2019,Salary,BR125
+CUST101386,Pranav Rao,M,27/04/1999,Gujarat,Ahmedabad,707,"₹4,07,800",6.0,2,No,Inactive,2013,Savings,BR208
+CUST101387,Anil Naidu,M,04/03/1956,Maharashtra,Pune,640,37200,4.1,2,Yes,Active,2007,Savings,BR989
+CUST101388,Sourav Gill,M,28/04/1999,Maharashtra,Nashik,768,"₹16,000",6.2,2,No,Active,2010,Savings,BR600
+CUST101389,Anil Yadav,M,,Telangana,Warangal,756,0,4.6,1,No,Inactive,2013,Salary,BR592
+CUST101390,Rahul Kaur,M,24/11/1984,Telangana,Warangal,662,₹0,3.8,2,Yes,Inactive,2009,Savings,BR185
+CUST101391,Farhan Nair,M,02/12/1971,Maharashtra,Pune,840,₹0,5.9,2,No,Inactive,2023,Savings,BR136
+CUST101392,Meera Khan,F,12/06/1977,Maharashtra,Nashik,NA,"₹3,14,800",8.5,1,Yes,Dormant,2005,Current,BR471
+CUST101393,Ankit Bose,M,03/11/1973,Maharashtra,Nashik,659,0,6.2,1,Yes,Active,2013,Current,BR289
+CUST101394,Rajesh Pillai,M,23/09/1991,Rajasthan,Udaipur,639,"₹43,500",5.4,2,Yes,Inactive,2009,Savings,BR256
+CUST101395,Manoj Ahmed,M,27/08/1998,Gujarat,Vadodara,695,27700,6.9,1,Yes,Dormant,2025,Salary,BR913
+CUST101396,Suresh Ahmed,M,04/07/1966,Rajasthan,Udaipur,640,753200,5.1,2,No,Inactive,2017,Salary,BR112
+CUST101397,Rohan Patel,M,22/06/1987,Uttar Pradesh,Noida,778,"₹4,74,100",10.6,1,Yes,active ,2022,Savings,BR445
+CUST101398,Ramesh Naidu,M,12/10/1966,Uttar Pradesh,Lucknow,688,342200,3.3,1,No,Dormant,2009,Savings,BR153
+CUST101399,Gurpreet Chauhan,M,30/09/2005,Gujarat,Surat,653,"₹50,900",5.5,1,No,Inactive,2008,Savings,BR987
+CUST101400,Vivaan Mehta,M,29/09/2002,Rajasthan,Jodhpur,640,"₹3,28,700",11.8,2,No,Active,2011,Savings,BR727
+CUST101401,Lakshmi Gill,F,11/06/1966,Kerala,Kochi,831,"₹4,91,900",8.0,2,Yes,Active,2015,Current,BR497
+CUST101402,Sourav Iyer,M,01/02/1987,Maharashtra,Nagpur,778,126400,5.0,1,Yes,Active,2018,Savings,BR181
+CUST101403,Suresh Mishra,M,30/06/1965,Tamil Nadu,Chennai,664,184800,4.6,2,Yes,Inactive,2005,Current,BR389
+CUST101404,Pranav Khan,M,10/02/1986,Karnataka,Bengaluru,723,"₹75,100",11.2,1,Yes,Active,2015,Savings,BR342
+CUST101405,Simran Verma,F,18/03/1968,Tamil Nadu,Coimbatore,781,387200,6.9,1,Yes,Active,2007,Savings,BR304
+CUST101406,Pranav Chauhan,M,25/06/1956,Tamil Nadu,Chennai,739,"₹2,40,300",7.9,1,Yes,Active,2023,Savings,BR667
+CUST101407,Aarav Shah,M,31/10/1995,Gujarat,Surat,748,"₹15,00,400",4.6,1,Yes,Active,2025,Savings,BR688
+CUST101408,Manoj Mishra,M,13/02/1995,Gujarat,Ahmedabad,698,"₹5,39,700",8.8,2,Yes,Active,2016,Savings,BR687
+CUST101409,Diya Nair,F,13/04/1981,Delhi,New Delhi,726,0,2.9,2,Yes,Active,2024,Savings,BR388
+CUST101410,Pallavi Patel,F,11/07/2000,Maharashtra,Nashik,782,1.2 Cr,1.8,2,Yes,Active,2017,Savings,BR131
+CUST101411,Harish Shah,M,04/04/2005,Madhya Pradesh,Gwalior,726,22500,6.7,2,Yes,Active,2015,Current,BR531
+CUST101412,Shreya Gill,F,04/04/1986,Tamil Nadu,Madurai,823,"₹3,56,200",2.6,2,Yes,Active,2007,Savings,BR235
+CUST101413,Isha Chatterjee,F,29/03/1980,Telangana,Warangal,611,"₹20,800",7.1,3,Yes,Inactive,2023,Savings,BR111
+CUST101414,Pranav Reddy,M,14/08/1976,Gujarat,Surat,851,"₹18,700",10.7,1,No,Active,2018,Current,BR504
+CUST101415,Swati Jain,F,21/10/1992,Gujarat,Vadodara,678,480600,12.5,3,No,Active,2019,Current,BR808
+CUST101416,Amit Iyer,M,30/04/2004,Uttar Pradesh,Varanasi,778,"₹87,200",3.8,1,Yes,active ,2021,Savings,BR336
+CUST101417,Vivaan Jain,M,21/11/1965,Kerala,Thiruvananthapuram,637,41000,4.8,2,Yes,Dormant,2023,Savings,BR315
+CUST101418,Rajesh Patel,M,18/01/2005,Telangana,Warangal,682,119000,15.0,4,No,Active,2008,Salary,BR820
+CUST101419,Imran Mishra,M,02/03/1983,Gujarat,Surat,760,223600,3.4,2,Yes,Dormant,2018,Savings,BR414
+CUST101420,Swati Naidu,F,22/07/1961,Tamil Nadu,Chennai,667,"₹82,100",8.8,2,No,Inactive,2016,Savings,BR759
+CUST101421,Pranav Chatterjee,M,05/03/1965,West Bengal,Howrah,629,"₹28,000",6.5,2,No,Inactive,2012,Savings,BR225
+CUST101422,Ramesh Gill,M,11/05/1996,Maharashtra,Nagpur,725,34400,8.8,2,Yes,Active,2013,Salary,BR810
+CUST101423,Deepika Bose,F,16/05/1963,Uttar Pradesh,Kanpur,737,34500,4.7,2,No,Active,2012,Savings,BR545
+CUST101424,Farhan Iyer,M,02/10/2005,Tamil Nadu,Madurai,702,"₹1,26,700",4.5,2,Yes,Active,2023,Salary,BR835
+CUST101425,Gurpreet Chauhan,M,05/09/1959,Gujarat,Surat,818,"₹5,55,900",8.4,1,Yes,Active,2013,Salary,BR507
+CUST101426,Ananya Shah,F,14/01/1999,Kerala,Thiruvananthapuram,728,"₹2,26,100",6.7,1,Yes,Active,2020,Savings,BR312
+CUST101427,Ramesh Sharma,M,25/06/2005,Karnataka,Mysuru,621,36000,14.4,1,Yes,Active,2021,Savings,BR677
+CUST101428,Ayesha Gill,F,15/05/1999,Delhi,New Delhi,710,17300,6.1,2,Yes,Inactive,2017,Savings,BR726
+CUST101429,Aarav Agarwal,M,05/02/1960,West Bengal,Kolkata,788,37000,5.9,2,No,Inactive,2007,Savings,BR515
+CUST101430,Manoj Khan,M,31/05/1967,Maharashtra,Mumbai,647,85800,15.7,1,No,Active,2024,Salary,BR641
+CUST101431,Divya Banerjee,F,31/12/1995,Gujarat,Ahmedabad,753,"₹82,500",5.2,1,Yes,Inactive,2017,Savings,BR238
+CUST101432,Vivaan Chatterjee,M,,Maharashtra,Pune,777,178300,6.1,2,Yes,Active,2012,Salary,BR391
+CUST101433,Rahul Shah,M,10/04/1975,Madhya Pradesh,Gwalior,644,0,7.8,2,No,Active,2023,Savings,BR681
+CUST101434,Deepika Nair,F,28/09/1971,Maharashtra,Mumbai,792,"₹1,36,200",6.1,3,Yes,Active,2011,Salary,BR663
+CUST101435,Vikram Iyer,M,12/12/1988,Maharashtra,Nagpur,734,"₹79,700",3.3,2,Yes,Active,2022,Current,BR942
+CUST101436,Pranav Mehta,M,11/01/1959,Uttar Pradesh,Noida,594,"₹52,700",6.0,2,No,Active,2025,Salary,BR709
+CUST101437,Aditya Nair,M,23/12/1962,West Bengal,Howrah,858,"₹3,20,700",6.4,2,No,Active,2005,Salary,BR788
+CUST101438,Diya Gupta,F,02/09/2003,Tamil Nadu,Madurai,735,"₹78,400",2.2,3,Yes,Inactive,2006,Current,BR663
+CUST101439,Diya Naidu,F,22/08/1962,Rajasthan,Udaipur,768,"₹7,63,700",5.7,2,Yes,Active,2019,Salary,BR196
+CUST101440,Sunita Menon,F,25/03/1958,Gujarat,Rajkot,717,201300,8.5,2,Yes,Active,2010,Salary,BR422
+CUST101441,Farhan Shah,M,16/01/2001,Maharashtra,Pune,816,519300,4.7,2,Yes,Inactive,2012,Savings,BR748
+CUST101442,Divya Joshi,F,28/07/1980,Karnataka,Bengaluru,671,448600,2.1,1,Yes,Active,2017,Current,BR926
+CUST101443,Nisha Gill,F,03/04/1986,Uttar Pradesh,Kanpur,805,"₹2,32,300",3.5,2,No,Active,2007,Salary,BR179
+CUST101444,Swati Pillai,F,03/08/1956,Madhya Pradesh,Bhopal,719,143000,3.8,1,No,Active,2024,Savings,BR871
+CUST101445,Ananya Singh,F,17/04/1987,Delhi,New Delhi,722,"₹1,49,500",5.3,1,Y,Inactive,2005,Savings,BR450
+CUST101446,Rajesh Mishra,M,13/05/1957,West Bengal,Howrah,660,0,10.6,1,Yes,Inactive,2014,Savings,BR123
+CUST101447,Aditya Kulkarni,M,30/05/1972,Madhya Pradesh,Bhopal,778,"₹2,52,500",8.2,2,Yes,Dormant,2024,Savings,BR729
+CUST101448,Aarav Nair,M,,Madhya Pradesh,Indore,840,237700,1.9,4,No,Inactive,2005,Savings,BR749
+CUST101449,Deepika Bose,F,01/02/1973,Delhi,New Delhi,828,0,5.3,2,No,Inactive,2021,Current,BR655
+CUST101450,Simran Rao,F,04/06/1995,Tamil Nadu,Chennai,702,"₹5,76,100",7.0,2,Yes,Dormant,2024,Salary,BR875
+CUST101451,Karthik Gill,M,17/03/1980,Gujarat,Vadodara,624,"₹1,67,800",5.6,2,No,Active,2007,Current,BR849
+CUST101452,Kabir Banerjee,M,21/10/1970,Telangana,Hyderabad,811,163400,3.2,2,n,Active,2015,Salary,BR661
+CUST101453,Shreya Sharma,F,23/12/2001,Karnataka,Bengaluru,702,NIL,7.8,2,Yes,Inactive,2013,Savings,BR993
+CUST101454,Anjali Rao,F,05/03/1981,Rajasthan,Udaipur,696,270500,5.2,1,Yes,Active,2020,Salary,BR900
+CUST101455,Simran Mehta,F,03/03/1993,West Bengal,Kolkata,727,"₹1,35,000",3.9,1,Yes,Active,2009,Savings,BR318
+CUST101456,Isha Sharma,F,17/09/1997,Uttar Pradesh,Noida,738,35800,11.6,1,Yes,Active,2017,Savings,BR649
+CUST101457,Nisha Rao,F,07/07/1954,Maharashtra,Nagpur,798,"₹10,100",6.2,2,Yes,Inactive,2020,Salary,BR289
+CUST101458,Riya Khan,F,22/01/2000,West Bengal,Howrah,712,132700,2.5,3,Yes,Active,2013,Savings,BR427
+CUST101459,Sourav Menon,M,02/10/1988,Gujarat,Ahmedabad,790,"₹1,91,500",12.4,1,Yes,Inactive,2011,Salary,BR731
+CUST101460,Vikram Banerjee,M,01/04/1958,Maharashtra,Mumbai,778,"₹73,600",15.2,1,,Inactive,2023,Savings,BR943
+CUST101461,Farhan Chatterjee,M,01/12/1962,Maharashtra,Nagpur,754,102000,4.4,3,Yes,Inactive,2018,Salary,BR799
+CUST101462,Amit Yadav,M,01/02/1960,Delhi,New Delhi,647,386200,3.3,1,Yes,Active,2008,Savings,BR660
+CUST101463,Vivaan Patel,M,08/06/1992,Gujarat,Surat,-1,"₹92,100",11.0,2,Yes,active ,2021,Savings,BR162
+CUST101464,Kabir Banerjee,M,21/04/1969,Maharashtra,Nashik,787,"₹1,03,300",9.6,1,Yes,,2010,Savings,BR108
+CUST101465,Rekha Ahmed,F,31/10/2003,Uttar Pradesh,Noida,766,476700,2.4,2,No,Active,2023,Savings,BR649
+CUST101466,Amit Iyer,M,25/09/1975,Telangana,Warangal,754,214400,8.0,2,Yes,Dormant,2024,Savings,BR748
+CUST101467,Ananya Singh,F,27/04/1984,Uttar Pradesh,Noida,824,0,3.6,3,Yes,Inactive,2016,Current,BR773
+CUST101468,Neha Mehta,F,08/12/1965,Rajasthan,Udaipur,740,458700,17.9,2,Yes,Active,2023,Savings,BR253
+CUST101469,Deepak Mishra,M,26/06/1979,Maharashtra,Nagpur,813,130100,6.6,1,No,Active,2016,Savings,BR195
+CUST101470,Rajesh Chatterjee,M,08/10/1993,Gujarat,Ahmedabad,697,2733200,4.8,2,No,Dormant,2010,Current,BR493
+CUST101471,Isha Ahmed,F,21/09/1960,Maharashtra,Pune,788,"₹1,78,800",14.6,2,Yes,Active,2020,Savings,BR629
+CUST101472,Farhan Rao,M,20/03/1957,Maharashtra,Mumbai,736,110600,5.7,2,Yes,Dormant,2017,Current,BR759
+CUST101473,Divya Chauhan,F,31/10/1964,Karnataka,Mysuru,NA,NIL,3.2,1,,Inactive,2012,Savings,BR848
+CUST101474,Pooja Das,F,20/10/2004,West Bengal,Kolkata,NA,34800,21.3,1,Yes,Inactive,2006,Savings,BR687
+CUST101475,Ananya Nair,F,11/06/1967,Gujarat,Rajkot,729,307900,7.5,2,Yes,Active,2017,Savings,BR233
+CUST101476,Aarav Patel,M,14/10/1983,Madhya Pradesh,Bhopal,718,302800,3.2,1,Yes,Inactive,2008,Savings,BR414
+CUST101477,Priya Gill,F,24/12/1962,Uttar Pradesh,Kanpur,810,449900,4.3,2,Yes,Active,2016,Savings,BR250
+CUST101478,Deepika Kaur,F,20/11/1989,Maharashtra,Nashik,-1,38100,14.6,1,No,Active,2017,Savings,BR412
+CUST101479,Rekha Kulkarni,F,01/08/1958,Rajasthan,Jaipur,-1,708900,3.4,1,Yes,Active,2010,Salary,BR677
+CUST101480,Divya Rao,F,06/04/1995,Delhi,New Delhi,615,438300,8.6,2,Yes,,2006,Salary,BR203
+CUST101481,Sneha Jain,F,20/10/2002,Maharashtra,Mumbai,668,"₹1,01,200",7.5,4,No,Active,2014,Savings,BR295
+CUST101482,Neha Pillai,F,unknown,Maharashtra,Pune,654,"₹1,88,400",4.8,1,Yes,Active,2016,Salary,BR265
+CUST101483,Suresh Gupta,M,27/09/1960,Karnataka,Mangaluru,704,39700,12.3,3,Yes,Active,2018,Savings,BR835
+CUST101484,Farhan Das,M,02/04/2005,Gujarat,Ahmedabad,763,"₹26,000",5.2,2,Yes,Inactive,2007,Salary,BR886
+CUST101485,Rahul Jain,M,15/10/1995,Tamil Nadu,Chennai,783,"₹1,13,000",15.7,1,Yes,Inactive,2017,Current,BR786
+CUST101486,Lakshmi Agarwal,F,22/07/1956,Gujarat,Surat,701,132700,5.4,1,No,Inactive,2006,Savings,BR750
+CUST101487,Amit Ahmed,M,10/10/1963,Maharashtra,Nashik,850,"₹1,72,000",6.9,2,Yes,Active,2012,Savings,BR547
+CUST101488,Ishaan Mehta,M,27/06/1985,Delhi,New Delhi,842,₹0,7.8,2,No,Active,2005,Savings,BR329
+CUST101489,Anil Gill,M,31/12/2004,Gujarat,Surat,702,39100,7.1,1,Yes,Active,2020,Savings,BR839
+CUST101490,Anjali Das,F,15/05/1957,West Bengal,Kolkata,783,79400,7.7,2,Yes,,2007,Current,BR274
+CUST101491,Ankit Jain,M,20/05/1978,Gujarat,Vadodara,593,"₹1,07,500",5.9,2,No,Inactive,2005,Savings,BR874
+CUST101492,Pranav Jain,M,17/07/1975,Tamil Nadu,Madurai,731,90300,10.4,1,No,Active,2008,Savings,BR468
+CUST101493,Vivaan Shah,M,31/03/1996,Uttar Pradesh,Noida,743,55500,4.9,2,Yes,Active,2006,Savings,BR171
+CUST101494,Harish Deshpande,M,10/04/1984,Karnataka,Mangaluru,642,2.5 lakh,2.4,2,Yes,Inactive,2019,Salary,BR151
+CUST101495,Rahul Singh,M,13/12/1971,Maharashtra,Nagpur,694,"₹4,96,100",4.1,3,No,Dormant,2007,Savings,BR906
+CUST101496,Ananya Naidu,F,29/11/1979,Madhya Pradesh,Bhopal,722,91900,5.2,2,Yes,Inactive,2005,Savings,BR618
+CUST101497,Anjali Mehta,F,20/07/1966,West Bengal,Howrah,740,"₹1,32,300",4.6,1,Yes,Inactive,2019,Savings,BR649
+CUST101498,Anjali Das,F,01/10/1987,Tamil Nadu,Madurai,829,"₹1,94,700",3.3,1,Yes,active ,2020,Savings,BR369
+CUST101499,Swati Rao,F,29/10/1989,Gujarat,Vadodara,774,874900,7.0,1,Yes,Inactive,2019,Current,BR650

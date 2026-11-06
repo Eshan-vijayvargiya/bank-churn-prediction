@@ -41,7 +41,7 @@ It cleans the data first, in a separate module (`cleaner.py`), and never silentl
 1. **Reads what it can.** It strips currency symbols and commas, understands `50k`, `1.2 lakh` and `2 cr`, reads `45 yrs` as 45 and `forty` as 40, and fixes a letter O typed for zero (`7OO`).
 2. **Fixes typos in categories.** It uses an edit-distance check that counts a swap of two letters as one edit, so `frnace` becomes France and `Germny` becomes Germany. It only corrects a word when every close match means the same thing, so `Finland` is *not* turned into France.
 3. **Catches impossible values.** An age of 250 or a credit score of 5000 is treated as a mistake. Obvious ones are fixed: a birth year typed as an age becomes the age, a negative balance becomes 0, and 7 products is capped at 4, the most the model knows.
-4. **Fills what's left** (blanks, `N/A`, unreadable text) with the typical value from the training data, and flags that customer in a "Data check" column.
+4. **Fills what's left** (blanks, `N/A`, unreadable text) with the typical value in the file itself (the median for numbers, the most common value for categories), and flags that customer in a "Data check" column. If a column is missing or nearly empty, it uses the training data's typical customer instead.
 
 It also removes duplicate rows, repeated customer IDs and empty rows, and finds the real header row when a file has a title above it. A safety rule stops it from de-duplicating on a column that isn't really unique: if over 20% of rows share an ID, it leaves them alone.
 
@@ -60,6 +60,28 @@ Dropping is worse for a retention team, because a customer with one bad cell wou
 
 **What if a file is missing whole columns?**
 It still scores. Missing inputs are filled with the typical value, and the quality score falls. The score is the share of the model's information the file really provides, weighted by permutation importance, so a file with only age and country gives 43% ("Limited"). If no columns match at all, the app refuses to score and explains why.
+
+**What if I give you a completely different dataset, like an Indian bank's?**
+"Try it." The app is built for that:
+- **Column names** are matched by their words, not exact spelling. `CIBIL_Score`, `Account_Balance (INR)`, `Num_Products`, `DOB`, `State` and `Months_on_book` all get matched. Traps like `Months_Inactive_12_mon` (which isn't an active flag) are avoided, and every match can be changed by hand.
+- **Indian formats** are read correctly: `₹9,17,700`, `1.2 Cr`, `6.5 LPA`, `6-8 LPA` (midpoint), dates of birth like `12/05/1990`, joining years, and tenure in months.
+- **Currency** is detected (₹, $ or €) and converted to euros only for scoring, because the model learned in euros. People still see rupees.
+- **Indian states** are shown in blue as "not known to the model", not as errors. The app clearly says the model learned from France, Germany and Spain.
+
+The honest part: the app *works* on Indian data, but the *model* was trained on European customers. The behaviour patterns (age, number of products, activity) probably carry over, but the exact numbers won't. For real use I'd retrain the same pipeline on the bank's own data, adding Indian features like UPI activity, whether it's a salary account, CIBIL score, metro vs rural branch, and FDs or loans held. I can't do that with public data, because Indian banks can't share customer-level data under the DPDP Act 2023.
+
+**How would you know if the model works on my data?**
+If the file has a column saying who actually left (`Exited`, `Churn`, `Attrition_Flag`, `Account Closed`…), the app finds it and shows an accuracy check: AUC, the share of leavers it caught, the share of flagged customers who really left, and how many leavers the riskiest 20% reached. Two real examples:
+- The original bank file: AUC 0.88. The app warns that this is optimistic, because it's the training data. The fair number is my test set's 0.869.
+- IBM's public telecom churn data: only 2 of 10 inputs exist, so quality shows "Very limited (3%)" and AUC is 0.58. That's honest: it shows what happens when a model meets data it wasn't built for.
+
+**Why convert rupees to euros?**
+For unit consistency. The model learned "balance = 100,000" in euros, so ₹1,00,000 must be converted (to about €940) before it means the same thing to the model. Converting the currency doesn't make Indian customers behave like European ones, though. That's why the app also says to retrain for a new market.
+
+**How did you make sure it never crashes?**
+Besides normal tests, I wrote a fuzz test that throws about 1,000 randomly broken files at the app: random column names (repeated, empty, emoji), text in number columns, infinity, impossible dates, empty files, damaged Excel. It found two real bugs that I then fixed:
+- A huge number multiplied by a unit ("LPA") overflowed to infinity, and the model refused it. Absurd amounts are now treated as impossible, and there's a final check before scoring.
+- A damaged Excel file gave a technical XML error. It now gives a plain-English reason.
 
 **Will it work on a big file?**
 Yes. I tested it with 1,000,000 customers, both clean and messy. Each takes about 20-30 seconds from upload to results. To keep it fast, cleaning works once per *distinct* value (a million rows might have only a few hundred different spellings), and risk levels and reasons are calculated for the whole table at once with NumPy instead of row by row. The page shows only the riskiest 1,000 rows, and the download file is built once and cached. The upload limit is 1 GB.
@@ -83,4 +105,4 @@ Recall = 77%, precision = 50%.
 
 ## Resume bullet
 
-> Built an end-to-end bank churn model on 10,000 customers (Python, scikit-learn; tuned Gradient Boosting, ROC-AUC 0.87) with a profit-optimised call threshold and a two-page Streamlit app that cleans and scores uploaded CSV/Excel/PDF/Word files (automatic data-quality checks and a cleaning report) and lists at-risk customers by name. Targeting the riskiest 20% reaches 62% of churners, and model targeting earns 2.9× more than calling everyone.
+> Built an end-to-end bank churn model on 10,000 customers (Python, scikit-learn; tuned Gradient Boosting, ROC-AUC 0.87) with a profit-optimised call threshold and a two-page Streamlit app (live online) that cleans and scores any uploaded customer file (CSV/Excel/PDF/Word, Indian ₹/LPA/CIBIL formats, automatic column matching and currency conversion), checks its own accuracy when the file includes real outcomes, and lists at-risk customers by name. Targeting the riskiest 20% reaches 62% of churners, and model targeting earns 2.9× more than calling everyone.

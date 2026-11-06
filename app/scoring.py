@@ -15,7 +15,27 @@ def load():
     return model, info
 
 
-def score(model, X):
+MONEY = ["Balance", "EstimatedSalary"]
+
+
+def in_euros(X, currency="EUR"):
+    """The model learned money in euros, so amounts in other currencies are converted before scoring."""
+    from loader import TO_EURO
+    rate = TO_EURO.get(currency, 1.0)
+    if rate == 1.0:
+        return X
+    X = X.copy()
+    for col in MONEY:
+        X[col] = X[col].astype(float) * rate
+    return X
+
+
+def score(model, X, currency="EUR"):
+    X = in_euros(X, currency)
+    numbers = X.select_dtypes("number").columns
+    if len(numbers) and not np.isfinite(X[numbers].to_numpy(dtype=float)).all():   # never let one bad cell crash scoring
+        X = X.copy()
+        X[numbers] = X[numbers].replace([np.inf, -np.inf], np.nan).clip(-1e15, 1e15)
     return model.predict_proba(X)[:, 1]
 
 
@@ -41,7 +61,7 @@ def reasons(row):
     return out
 
 
-def actions(row):
+def actions(row, currency="EUR"):
     out = []
     if row["IsActiveMember"] == 0:
         out.append("Start a re-engagement campaign")
@@ -51,14 +71,15 @@ def actions(row):
         out.append("Review their product bundle")
     if 45 <= row["Age"] <= 60:
         out.append("Assign a relationship manager")
-    if row["Balance"] >= 100_000:
+    from loader import TO_EURO
+    if row["Balance"] * TO_EURO.get(currency, 1.0) >= 100_000:       # a high balance, measured in euros
         out.append("Priority call from a senior advisor")
     return out or ["Keep in the regular loyalty programme"]
 
 
-def what_if(model, row):
+def what_if(model, row, currency="EUR"):
     """How the risk would change if the bank fixed what it can influence."""
-    base = float(score(model, pd.DataFrame([row]))[0])
+    base = float(score(model, pd.DataFrame([row]), currency)[0])
     changes = []
     if row["IsActiveMember"] == 0:
         changes.append(("If they become an active member", {**row, "IsActiveMember": 1}))
@@ -66,7 +87,7 @@ def what_if(model, row):
         changes.append(("If they hold 2 products", {**row, "NumOfProducts": 2}))
     if row["IsActiveMember"] == 0 and row["NumOfProducts"] != 2:
         changes.append(("If both happen", {**row, "IsActiveMember": 1, "NumOfProducts": 2}))
-    return base, [(label, float(score(model, pd.DataFrame([r]))[0])) for label, r in changes]
+    return base, [(label, float(score(model, pd.DataFrame([r]), currency)[0])) for label, r in changes]
 
 
 def main_reason(row):
@@ -110,3 +131,37 @@ def quality(cov):
     if cov >= 0.6:
         return "Good"
     return "Limited" if cov >= 0.3 else "Very limited"
+
+
+def evaluate(outcome, probs, threshold):
+    """How well the model did on a file that includes what really happened (1 = left, 0 = stayed)."""
+    from sklearn.metrics import roc_auc_score
+    known = ~np.isnan(outcome)
+    y, p = outcome[known].astype(int), probs[known]
+    out = {"n": int(len(y)), "unknown": int((~known).sum()), "left": int(y.sum()) if len(y) else 0}
+    out["rate"] = out["left"] / out["n"] if out["n"] else 0.0
+    out["auc"] = float(roc_auc_score(y, p)) if out["n"] and 0 < out["left"] < out["n"] else None
+    flagged = p >= threshold
+    caught = int((flagged & (y == 1)).sum())
+    out.update(flagged=int(flagged.sum()), caught=caught,
+               recall=caught / out["left"] if out["left"] else None,
+               precision=caught / flagged.sum() if flagged.sum() else None,
+               accuracy=float((flagged == (y == 1)).mean()) if out["n"] else None)
+    if out["left"]:
+        top = np.argsort(-p)[: max(1, int(np.ceil(0.2 * len(p))))]
+        out["top20"] = float(y[top].sum() / out["left"])
+    else:
+        out["top20"] = None
+    return out
+
+
+def auc_label(auc):
+    if auc is None:
+        return "Can't measure"
+    if auc >= 0.8:
+        return "Strong"
+    if auc >= 0.7:
+        return "Good"
+    if auc >= 0.6:
+        return "Fair"
+    return "Weak (close to guessing)"
