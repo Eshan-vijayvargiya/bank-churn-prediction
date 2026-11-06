@@ -1,0 +1,6 @@
+{
+  "model": "Gradient Boosting (tuned)",
+  "threshold": 0.51,
+  "test_roc_auc": 0.869,
+  "overall_churn_rate": 0.2037
+}

@@ -1,0 +1,12 @@
+# Dataset is downloaded separately (see data/README.md)
+data/*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editors
+.idea/
+.vscode/

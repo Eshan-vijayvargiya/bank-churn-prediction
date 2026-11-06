@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#1f5a3d"
+backgroundColor = "#f7f3e9"
+secondaryBackgroundColor = "#efe9da"
+textColor = "#1d2b23"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
+
+[server]
+maxUploadSize = 1000   # MB: allows very large customer files
